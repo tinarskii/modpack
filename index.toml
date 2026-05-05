@@ -506,6 +506,11 @@ hash = "ff52d093b7eb904e076efac1a26971eaa408d6bcbc2f2faefc762e436743f1de"
 metafile = true
 
 [[files]]
+file = "mods/expanded-delight.pw.toml"
+hash = "9bb5a58a5c09bab071374a68e0de4973a4277a541250f563bd81d647c766e2c1"
+metafile = true
+
+[[files]]
 file = "mods/explorers-compass.pw.toml"
 hash = "a2552d139e6d8ca2b0c95499503d374e5741a68d30b5db353deebe2a1e2e7e56"
 metafile = true
@@ -626,6 +631,36 @@ hash = "41e364c29ac783e302b4dfd7e1832ca3d814870acdfc4591e4791eb80ce445f7"
 metafile = true
 
 [[files]]
+file = "mods/ftb-essentials.pw.toml"
+hash = "3916c26efd555e31b91585303cf9858c611a54b1225816870b47732a456bda07"
+metafile = true
+
+[[files]]
+file = "mods/ftb-filter-system.pw.toml"
+hash = "a6619696faf68893d4d386c325e7494eb50b329ee9c2752f5d21e6895f7af60f"
+metafile = true
+
+[[files]]
+file = "mods/ftb-library-fabric.pw.toml"
+hash = "7c4c132e1ffb20c72dfc2b9288cffc457df74417b264b83a007f969b323fecff"
+metafile = true
+
+[[files]]
+file = "mods/ftb-quests-fabric.pw.toml"
+hash = "2f1bd441d4d03bc5c56858c87a7d1d61b8482d8434c00c1803c89e25ef516f9f"
+metafile = true
+
+[[files]]
+file = "mods/ftb-teams-fabric.pw.toml"
+hash = "8c2e6738d318980533ea582b51249f2bd3313eff1f5d1ca06766dc7bda1f89fe"
+metafile = true
+
+[[files]]
+file = "mods/ftb-xmod-compat.pw.toml"
+hash = "ee976759d1fe85a69a448bffcb391aa91354edc6ba969e0b1bb5b369691abf53"
+metafile = true
+
+[[files]]
 file = "mods/fzzy-config.pw.toml"
 hash = "960362b1fe6da267bff3411e3d53ca7a597429d49e7bc9d7a13331bb19595e4a"
 metafile = true
@@ -648,6 +683,11 @@ metafile = true
 [[files]]
 file = "mods/gliders.pw.toml"
 hash = "bb4f342cd191cb240acc3928719ca4c4b3aa0f4efa678f2c4e206b6884f83628"
+metafile = true
+
+[[files]]
+file = "mods/go-fish.pw.toml"
+hash = "d47b36a229668694e6697a97d8fb2fa70fcf9d3f6dcc4f3ab6cddaf5c541fa83"
 metafile = true
 
 [[files]]
@@ -1213,6 +1253,11 @@ metafile = true
 [[files]]
 file = "mods/pehkui.pw.toml"
 hash = "43b4a9ca9aaac5a16ed067aee92cafaf30d6166d62d7fa851179c6257ed75b59"
+metafile = true
+
+[[files]]
+file = "mods/perfect-homestead-plushies.pw.toml"
+hash = "1b3f72e849ee75c06f8283737955027616cd71d3faa4cc0b3bf4fbf5b1b71d3d"
 metafile = true
 
 [[files]]
