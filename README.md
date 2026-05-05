@@ -1,6 +1,5 @@
 ### Missing mods:
 
-- Configured https://mrcrayfish.com/mods?id=configured
 - FTB Essentials https://go.ftb.team/support-mod-issues
 - FTB Filter System https://fabricmc.net/
 - FTB Library
