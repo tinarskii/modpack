@@ -1,0 +1,13 @@
+name = "[Let's Do Addon] Structures"
+filename = "letsdo-addon-structures-1.7.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/2PaVx3ow/versions/mtZfFNP2/letsdo-addon-structures-1.7.2.jar"
+hash-format = "sha512"
+hash = "e5bf5caf3839806f90cc43febfc4f318c475964bd9026b4e5008b87192aa7d2fd7b005910c2ff72ba56f12549ed1dd2f458e0b936385e7da15f202874a6bd01d"
+
+[update]
+[update.modrinth]
+mod-id = "2PaVx3ow"
+version = "mtZfFNP2"

@@ -1,0 +1,13 @@
+name = "Tokimi's Toolshed"
+filename = "tokimistoolshed-fabric-1.2+mc1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/2HaoWnJc/versions/oWpw5JVt/tokimistoolshed-fabric-1.2%2Bmc1.20.1.jar"
+hash-format = "sha512"
+hash = "2dfddb1a2ec65021962eda64fd384dc63fbab027834b3c7c9c2a187065de0bfd9968c6b04f1d6618a5e4407353b6160d1dcebc860b57a22dda7781dad24c1f62"
+
+[update]
+[update.modrinth]
+mod-id = "2HaoWnJc"
+version = "oWpw5JVt"

@@ -1,0 +1,13 @@
+name = "Iris/Oculus & GeckoLib Compat"
+filename = "GeckoLibIrisCompat-Fabric-1.0.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/TbriQCWD/versions/3Q4qBNwT/GeckoLibIrisCompat-Fabric-1.0.0.jar"
+hash-format = "sha512"
+hash = "f11507d76dd7b28e3b96fe98eb14041983f7db8d17984fdc4b3555d6f0245fd0b09b9f233c0f4b8ba9ffd6882a5df45d5c41a94839c0b4fb1bbd329d7f51b954"
+
+[update]
+[update.modrinth]
+mod-id = "TbriQCWD"
+version = "3Q4qBNwT"

@@ -1,0 +1,13 @@
+name = "StutterFix"
+filename = "stutterfix-mc1.20.1-0.2.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/FimwF33K/versions/JFNunyDW/stutterfix-mc1.20.1-0.2.0.jar"
+hash-format = "sha512"
+hash = "e5fb6570d1497cec69a5487151e2064323c8e88c9a00655b3b50a424513eb3a8f9b32a953e909dc68485b4022a1c169c57637e1cda25df75aae4fdbdd4efc71a"
+
+[update]
+[update.modrinth]
+mod-id = "FimwF33K"
+version = "JFNunyDW"

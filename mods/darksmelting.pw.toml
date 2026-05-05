@@ -1,0 +1,13 @@
+name = "DarkSmelting"
+filename = "darksmelting-fabric-1.20.1-1.0.6.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/Cs83btto/versions/iVB6kaEE/darksmelting-fabric-1.20.1-1.0.6.jar"
+hash-format = "sha512"
+hash = "3f58173eefdecd90b3b65f16db0f4b4942355bc69aef8b7fc70a982c66fda4650cd58b49659c98c14d6a087722f3aed534b21b4df7663c6fba17d5dd1fb7b1b6"
+
+[update]
+[update.modrinth]
+mod-id = "Cs83btto"
+version = "iVB6kaEE"

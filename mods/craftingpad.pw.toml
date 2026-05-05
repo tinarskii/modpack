@@ -1,0 +1,13 @@
+name = "CraftingPad"
+filename = "CraftingPad-fabric-1.20.1-1.0.12.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/wyaOz4TN/versions/xkd5bDZk/CraftingPad-fabric-1.20.1-1.0.12.jar"
+hash-format = "sha512"
+hash = "66a1619b61621613946441e7f97606a43d8237991cd187614d1bd0e732f9ced11d919462aaf157e4de59947e3bb8122fd4a2a117a6faa556ea0305336029b9e2"
+
+[update]
+[update.modrinth]
+mod-id = "wyaOz4TN"
+version = "xkd5bDZk"

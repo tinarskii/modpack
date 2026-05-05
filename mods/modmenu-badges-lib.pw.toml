@@ -1,0 +1,13 @@
+name = "ModMenu Badges Lib"
+filename = "modmenu-badges-lib-2023.6.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/eUw8l2Vi/versions/n5smDDrP/modmenu-badges-lib-2023.6.1.jar"
+hash-format = "sha512"
+hash = "7385da83e2c2f92a523280cecc0a9ca61401fd1c541f071384d41bd5da76a385dffc5df09d74296ab100aef63033db61964c1ef3645a9f3c0627f1f0bc12d14a"
+
+[update]
+[update.modrinth]
+mod-id = "eUw8l2Vi"
+version = "n5smDDrP"

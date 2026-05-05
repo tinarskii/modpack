@@ -1,0 +1,13 @@
+name = "Keybind Fix Updated"
+filename = "keybind_fix-1.0.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/U1hgptta/versions/Yu9WvhAV/keybind_fix-1.0.0.jar"
+hash-format = "sha512"
+hash = "0749df77daee95caff792ae2aad70c491ba89608ad413e200b3781a8cf4ae6e304d7e52939f70777d7d5edbc9fb7f427131362a77a9e81f2c247cb69823ea3d5"
+
+[update]
+[update.modrinth]
+mod-id = "U1hgptta"
+version = "Yu9WvhAV"

@@ -1,0 +1,13 @@
+name = "Friends For Life"
+filename = "friendsforlife-1.2.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/AlvqcCSq/versions/XkzekofV/friendsforlife-1.2.0.jar"
+hash-format = "sha512"
+hash = "47f0254c8ffa0269b12c7c3fc78a05fcb072253422da1229bf912a364d5344197509ad51aa7a075e40fbdb522b72995257252f4fe8742587648d5a46d97c3076"
+
+[update]
+[update.modrinth]
+mod-id = "AlvqcCSq"
+version = "XkzekofV"

@@ -1,0 +1,13 @@
+name = "Sign Copy"
+filename = "SignCopy-Fabric-1.20.1-1.1.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/cK4nxndh/versions/1SWfJvWV/SignCopy-Fabric-1.20.1-1.1.1.jar"
+hash-format = "sha512"
+hash = "650d6a73a69bce5adbb9a381b79fd5ffafc0661bee56cc66e21732863c8eb785bd76847183559869698649c76991bf744899b84bcbe4e2e35645a50bc6d614ae"
+
+[update]
+[update.modrinth]
+mod-id = "cK4nxndh"
+version = "1SWfJvWV"

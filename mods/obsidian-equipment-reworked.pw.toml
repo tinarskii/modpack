@@ -1,0 +1,13 @@
+name = "Obsidian Equipment Reworked"
+filename = "obsidianequipmentrework-fabric-0.4+mc1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/F0yI8Qcm/versions/TfT4327b/obsidianequipmentrework-fabric-0.4%2Bmc1.20.1.jar"
+hash-format = "sha512"
+hash = "40c98890b0fe6e90aaf606546859740017470149ec00d71b36f2f8360fde08ee82d67c1ec71d33c8263da31d9ad13ee98d0f93c9e9f58153306657b7fd268e78"
+
+[update]
+[update.modrinth]
+mod-id = "F0yI8Qcm"
+version = "TfT4327b"

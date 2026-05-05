@@ -1,0 +1,13 @@
+name = "More Enchantment Info"
+filename = "more-enchantment-info-0.4.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/TIo1UXXV/versions/HBBTbjLH/more-enchantment-info-0.4.1.jar"
+hash-format = "sha512"
+hash = "512d0a920d12bcc2cfd0ab4447036b0d99f27214be5e5e4717a6f11c88651b5a90c613af4dff4c59d68781e649c3cdbab8c2ddbb0572afe5ddc3dad064adac7c"
+
+[update]
+[update.modrinth]
+mod-id = "TIo1UXXV"
+version = "HBBTbjLH"

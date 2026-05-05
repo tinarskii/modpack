@@ -1,0 +1,13 @@
+name = "Preloading Tricks"
+filename = "preloading-tricks-3.5.13.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/FFeAJNCx/versions/vrWOXTQ7/preloading-tricks-3.5.13.jar"
+hash-format = "sha512"
+hash = "db1303d401ffa69993f9807476649d0df160e8fb93f2861db937e5898299bac5e27ba259febc22e818ad09a204c37e282520aedce9e986644cc0214113307b20"
+
+[update]
+[update.modrinth]
+mod-id = "FFeAJNCx"
+version = "vrWOXTQ7"

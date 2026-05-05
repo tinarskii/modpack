@@ -1,0 +1,13 @@
+name = "Modrinth Logo Mod"
+filename = "Modrinth Logo Mod 1.3.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/OW6NgXk1/versions/gliCpCRw/Modrinth%20Logo%20Mod%201.3.4.jar"
+hash-format = "sha512"
+hash = "b037000295770b6f19e972628e42d908461c948098824be148cd9cda21b9e8ef4e5cf3892776c7aa236a5d66e06c02a6013afd3db3e0b2f457ce174b828ce775"
+
+[update]
+[update.modrinth]
+mod-id = "OW6NgXk1"
+version = "gliCpCRw"

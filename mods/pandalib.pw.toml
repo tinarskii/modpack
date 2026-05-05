@@ -1,0 +1,13 @@
+name = "PandaLib"
+filename = "pandalib-fabric-1.20.1-0.6.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/mEEGbEIu/versions/MH98GMaH/pandalib-fabric-1.20.1-0.6.1.jar"
+hash-format = "sha512"
+hash = "15a6d561200ab2a411112b649d07469dbfa7cccb872a0580438c3f38221eeda3f3604667ddd6b98bdd8ccc3f63b95ce87f5c1081412ed3cb87906e5399854556"
+
+[update]
+[update.modrinth]
+mod-id = "mEEGbEIu"
+version = "MH98GMaH"
