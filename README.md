@@ -6,7 +6,6 @@
 - FTB Quests
 - FTB Teams
 - FTB XMod Compat https://fabricmc.net/
-- FastBoot 
 - Go Fish
 - Perfect Homestead Plushies
 - Expanded Delight
