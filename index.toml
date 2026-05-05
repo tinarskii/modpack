@@ -561,6 +561,11 @@ hash = "39796389f211ec51409ec28f81ae845bf0ae3c420aa0fdd3b27266f22f9bfe3c"
 metafile = true
 
 [[files]]
+file = "mods/fastboot.pw.toml"
+hash = "ed29698f8fe776f73fdb5e3ecf5ad77e2079f4d044adb0a04ee6d7df46ae9fbe"
+metafile = true
+
+[[files]]
 file = "mods/faster-random.pw.toml"
 hash = "605fe60f2ada4333e88ec2fa66cb57d0635292d83eee8d1ad40f2485d72ef013"
 metafile = true
