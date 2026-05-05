@@ -1,0 +1,13 @@
+name = "Perfect Homestead Plushies"
+filename = "phomesteadplushies-fabric-1.20.1-1.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "bff357f80fc5e87f37499d63b66adbbe395ae4e0"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6692757
+project-id = 1286189
