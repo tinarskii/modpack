@@ -1290,11 +1290,6 @@ hash = "985ecc4a35a2feab6d51b6cd6b95e7efa3f6b49aa5f549c132f59217b7a2a5a5"
 metafile = true
 
 [[files]]
-file = "mods/preloading-tricks.pw.toml"
-hash = "e3e737dc35e5414eb52ae14cbddd6b73d612941b7daaef8d190a7c3eed844f4e"
-metafile = true
-
-[[files]]
 file = "mods/presence-footsteps.pw.toml"
 hash = "a9769ced0531122518321833966d375196753db1c3a47b975aed4bb6837fae7a"
 metafile = true
