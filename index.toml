@@ -1060,11 +1060,6 @@ hash = "9df70e05075bc6e043d9defcd67e9596235ca7667acba8ea64f2cbe5f27eab0b"
 metafile = true
 
 [[files]]
-file = "mods/more-enchantment-info.pw.toml"
-hash = "d8f0a2f784008b6805a5f39babb67ca623cdf9192868a9b944d12b5a6afafb93"
-metafile = true
-
-[[files]]
 file = "mods/more-pumpkins!.pw.toml"
 hash = "e7a0c547e76584b478268fc0565f2aa3db9b91a2f228610b23aac7f21c40085a"
 metafile = true
