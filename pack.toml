@@ -1,12 +1,12 @@
 name = "Scent Craft"
 author = "Tinnaphat Somsang"
-version = "1.1.4"
+version = "1.1.5"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "c4cf02e4b46e0b02bac51a0cbe8525fb825f0f53f34694a6ccca144289045b18"
+hash = "7219acf2b71ea08a43e6060bc851bd84d47c2700b07d4e176f0f6647e2545be4"
 
 [versions]
 fabric = "0.19.2"
