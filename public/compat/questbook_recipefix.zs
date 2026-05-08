@@ -1,1 +1,0 @@
-craftingTable.addShapeless("questbook", <item:ftbquests:book>, [<item:minecraft:book>]);

@@ -1,1 +1,0 @@
-<tag:items:trinkets:head/face>.remove(<item:minecraft:apple>);

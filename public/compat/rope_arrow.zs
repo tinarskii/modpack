@@ -1,1 +1,0 @@
-craftingTable.addShapeless("rope_arrow", <item:supplementaries:rope_arrow>.withDamage(28) * 1, [<item:minecraft:arrow>, <tag:items:supplementaries:ropes>, <tag:items:supplementaries:ropes>, <tag:items:supplementaries:ropes>, <tag:items:supplementaries:ropes>]);
