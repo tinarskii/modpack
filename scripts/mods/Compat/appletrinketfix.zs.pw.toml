@@ -1,0 +1,11 @@
+name = "appletrinketfix"
+filename = "appletrinketfix.zs"
+side = "both"
+
+[download]
+url = "https://scentcraft-modpack.netlify.app/public/compat/appletrinketfix.zs"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "1ea391e2b6ea0ee46740dc40890206d270fc09f54e6dbb45084d5883fcbade9c"

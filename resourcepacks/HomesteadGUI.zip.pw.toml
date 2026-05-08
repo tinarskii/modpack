@@ -1,0 +1,11 @@
+name = "Homestead GUI"
+filename = "HomesteadGUI.zip"
+side = "client"
+
+[download]
+url = "https://scentcraft-modpack.netlify.app/public/resourcepacks/HomesteadGUI.zip"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "e12b7d0b31f73ccbcfcb58ca5969fe327292da2bb6f5dd7617d0313cbcc13725"

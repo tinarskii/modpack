@@ -1853,6 +1853,166 @@ hash = "22c02ada89e65c16cfce0a4c69f05e9dd56a085cbd4e4160ec57cdc4d78385b8"
 metafile = true
 
 [[files]]
+file = "public/alcocraft/keg_test.zs"
+hash = "4f1ef7f8636fb6b931f8174df49d247f0144ad84b527f06db1e0c4b24ffbb440"
+
+[[files]]
+file = "public/compat/appletrinketfix.zs"
+hash = "1ea391e2b6ea0ee46740dc40890206d270fc09f54e6dbb45084d5883fcbade9c"
+
+[[files]]
+file = "public/compat/bater_wucket.zs"
+hash = "618c5bba55f67a37d4b306240c13dc5b7e006c320e4ea656b21962afa3315b9d"
+
+[[files]]
+file = "public/compat/butterfly_wings.zs"
+hash = "169752f5ae09c34bf7b6e8b6626b748e4ac290daacc75a7f20aced69b3c70a5a"
+
+[[files]]
+file = "public/compat/explorers_compass.zs"
+hash = "16420e5c98eef64d55bca157249cfbc3f427c0c4704ae3e8884edac70f35c874"
+
+[[files]]
+file = "public/compat/farmland_fix.zs"
+hash = "87efd684fe5cc17a9e82612fa25e4651d45424e5c90cf196e5520e1335e5031e"
+
+[[files]]
+file = "public/compat/flour.zs"
+hash = "09a5e6f6078e5a521907d779c8a88bacf6d9242972b983dff0b5b41ed39d756e"
+
+[[files]]
+file = "public/compat/hammer_changes.zs"
+hash = "e3b9291655b44587844553d2a6ab920675ab9c9d322bba07bf7682f392ed3830"
+
+[[files]]
+file = "public/compat/loot_table_fixes.zs"
+hash = "548fd5cc028e50db55e739e50554f30b6001365b0a852cdb2189c99e1afb46bd"
+
+[[files]]
+file = "public/compat/mod_compat.zs"
+hash = "485844ae352e8bbd7f55044302f4379c947282f51d2c811d805221cfea46e751"
+
+[[files]]
+file = "public/compat/obsidian_tool_tagging.zs"
+hash = "2a1209913dc9d87c7e3a659a36c041436a8a3de3b834d1a85cd13ebb0fc6a3ee"
+
+[[files]]
+file = "public/compat/questbook_recipefix.zs"
+hash = "d33142f0889bf1f7d108b6a144564753c1661bbfceced6cd2636a475534f0ebd"
+
+[[files]]
+file = "public/compat/remove_prismarite_cluster_trim.zs"
+hash = "6a82ad1500f05c3c6841f52fa116d1c85a0d7acf3a35b973de4e1c520b285f24"
+
+[[files]]
+file = "public/compat/rope_arrow.zs"
+hash = "e63133333e23874f9fd85414d4300fa0d6be55424aa67f87e95086728f5c52e4"
+
+[[files]]
+file = "public/compat/stack_upgrade_balance.zs"
+hash = "42b1905af35eea48c21f855b90e405c961b61a3c2f24adb8563d299a33a8d679"
+
+[[files]]
+file = "public/compat/stone.zs"
+hash = "423cb58d653efcc2fda163ec1d0edb982be97752b6071551a1e2e3614d85203b"
+
+[[files]]
+file = "public/compat/via_romana.zs"
+hash = "dcfa1a864d62f80e334853e26e668dcbb013eeeaf278c3ae328395c07ec8fd25"
+
+[[files]]
+file = "public/resourcepacks/HomesteadGUI.zip"
+hash = "e12b7d0b31f73ccbcfcb58ca5969fe327292da2bb6f5dd7617d0313cbcc13725"
+
+[[files]]
+file = "resourcepacks/HomesteadGUI.zip.pw.toml"
+hash = "56f16d450d86498da0d6df8dc738b6877df61ec836271561b0b5001aa64464f6"
+metafile = true
+
+[[files]]
+file = "scripts/mods/AlcoCraft+/keg_test.zs.pw.toml"
+hash = "1ab3c69d4f8f766ffdf397e551170bacca362e38a608a93892b54d90fe15f7bd"
+metafile = true
+
+[[files]]
+file = "scripts/mods/Compat/appletrinketfix.zs.pw.toml"
+hash = "a1721af4c4f0bd01f2e8ba3264036d069d74dd46deaf010fef951db7e3efd2d0"
+metafile = true
+
+[[files]]
+file = "scripts/mods/Compat/bater_wucket.zs.toml"
+hash = "6e098102e2fc1c359e24cd56257752d6d11877711564efd6136a301aaba8dadc"
+
+[[files]]
+file = "scripts/mods/Compat/butterfly_wings.zs.toml"
+hash = "5c43ee5a20c0e7076849c53fdf83ffac79bbd8b64205a82a64c3028b7c15991f"
+
+[[files]]
+file = "scripts/mods/Compat/explorers_compass.zs.pw.toml"
+hash = "e123f7550443fc34556b7827e66af576b473e25c651c52804df7126da3dfd642"
+metafile = true
+
+[[files]]
+file = "scripts/mods/Compat/farmland_fix.zs.pw.toml"
+hash = "cdb8fc84d33b13bb97dd7938b658aef217c8aae0b3d2889ba1ba83b97a3fa4eb"
+metafile = true
+
+[[files]]
+file = "scripts/mods/Compat/flour.zs.pw.toml"
+hash = "674e37cd20bcd7ab38696872ab03d61b45e530f41eb059c3ddeff6fbd52590bc"
+metafile = true
+
+[[files]]
+file = "scripts/mods/Compat/hammer_changes.zs.pw.toml"
+hash = "1a351e21522b4a86003f2c84d5593a675e8ef70f6efc87e5c293a998c7b14bad"
+metafile = true
+
+[[files]]
+file = "scripts/mods/Compat/loot_table_fixes.zs.pw.toml"
+hash = "726c674ff7b0e685dd991f124a4d7f8636eb7f85a65cfdc1bd7052d457733aae"
+metafile = true
+
+[[files]]
+file = "scripts/mods/Compat/mod_compat.zs.pw.toml"
+hash = "4a3dc54d67d238a315b9a851ea78bdd555dac01dbd8c8e1b35c1b48f39dc43ab"
+metafile = true
+
+[[files]]
+file = "scripts/mods/Compat/obsidian_tool_tagging.zs.pw.toml"
+hash = "55f6aad4b80a7af44b0b3c1d9f3e31c9731d17b8c080aacdf36ee227524e2bea"
+metafile = true
+
+[[files]]
+file = "scripts/mods/Compat/questbook_recipefix.zs.pw.toml"
+hash = "7267565c48755dbc69354a75a123599378ca1e263753a5aadc9b7c5d7dd11bda"
+metafile = true
+
+[[files]]
+file = "scripts/mods/Compat/remove_prismarite_cluster_trim.zs.pw.toml"
+hash = "1aaf01ee6fc640eb375ed35062cb5e017b8d5563c7da02da7bfe500e8208aa02"
+metafile = true
+
+[[files]]
+file = "scripts/mods/Compat/rope_arrow.zs.pw.toml"
+hash = "e74bdb6c9da4c293a55e7b87fc097af1992cf06a4299ef5db7318674d6c78320"
+metafile = true
+
+[[files]]
+file = "scripts/mods/Compat/stack_upgrade_balance.zs.pw.toml"
+hash = "2677dc853e27b6c8a25861e418ce19f2398d4f69b86cea62ab62ff20a63e4db8"
+metafile = true
+
+[[files]]
+file = "scripts/mods/Compat/stone.zs.pw.toml"
+hash = "cc41f446eb566677679a4d4a06b01290bf4cc1a769cfc0e236184657c091b0f8"
+metafile = true
+
+[[files]]
+file = "scripts/mods/Compat/via_romana.zs.pw.toml"
+hash = "2148b64d4b4aec96b7163348efba004cbb0802c79c68325340e4a5a44dedf632"
+metafile = true
+
+[[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
 hash = "b769a2f7ef2fa754224c5068491e79d02c0c85e0bc326fc05247f18315cc866b"
 metafile = true

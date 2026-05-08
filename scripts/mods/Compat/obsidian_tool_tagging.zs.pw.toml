@@ -1,0 +1,11 @@
+name = "obsidian_tool_tagging"
+filename = "obsidian_tool_tagging.zs"
+side = "both"
+
+[download]
+url = "https://scentcraft-modpack.netlify.app/public/compat/obsidian_tool_tagging.zs"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "2a1209913dc9d87c7e3a659a36c041436a8a3de3b834d1a85cd13ebb0fc6a3ee"

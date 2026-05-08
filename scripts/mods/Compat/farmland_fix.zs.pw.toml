@@ -1,0 +1,11 @@
+name = "farmland_fix"
+filename = "farmland_fix.zs"
+side = "both"
+
+[download]
+url = "https://scentcraft-modpack.netlify.app/public/compat/farmland_fix.zs"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "87efd684fe5cc17a9e82612fa25e4651d45424e5c90cf196e5520e1335e5031e"
