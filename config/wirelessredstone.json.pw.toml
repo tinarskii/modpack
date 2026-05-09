@@ -1,0 +1,11 @@
+name = "wirelessredstone.json"
+filename = "wirelessredstone.json"
+side = "both"
+
+[download]
+url = "https://scentcraft-modpack.netlify.app/public/config/wirelessredstone.json"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "f1ede1ac8ebd1bfc1ae74453a9faefb180f0c848d5d5e6e35fb6e1c375d2d2b0"

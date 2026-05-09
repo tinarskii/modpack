@@ -1,0 +1,11 @@
+name = "suppsquared-common.json"
+filename = "suppsquared-common.json"
+side = "both"
+
+[download]
+url = "https://scentcraft-modpack.netlify.app/public/config/suppsquared-common.json"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "4f27eddb687a764ca4f97158366c2c615f5e35d13b7bfae64d451396593d3dfc"

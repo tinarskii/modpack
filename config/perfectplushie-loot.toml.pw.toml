@@ -1,0 +1,11 @@
+name = "perfectplushie-loot.toml"
+filename = "perfectplushie-loot.toml"
+side = "both"
+
+[download]
+url = "https://scentcraft-modpack.netlify.app/public/config/perfectplushie-loot.toml"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "f9711f93950b8f9267c91e8dd3c4420d1621bcc2678a3adab1c943b0403498ee"

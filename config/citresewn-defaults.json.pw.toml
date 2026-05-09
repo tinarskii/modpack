@@ -1,0 +1,11 @@
+name = "citresewn-defaults.json"
+filename = "citresewn-defaults.json"
+side = "both"
+
+[download]
+url = "https://scentcraft-modpack.netlify.app/public/config/citresewn-defaults.json"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "0b333b0bf9a0e573fa14f81610a621b488d5277c9e8f8c6a4c81e6a6cb37e482"

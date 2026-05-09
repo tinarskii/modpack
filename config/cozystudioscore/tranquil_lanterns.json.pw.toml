@@ -1,0 +1,11 @@
+name = "tranquil_lanterns.json"
+filename = "tranquil_lanterns.json"
+side = "both"
+
+[download]
+url = "https://scentcraft-modpack.netlify.app/public/config/cozystudioscore/tranquil_lanterns.json"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "1112a75c388a6996779fde5469efe504093771fb05963b7f031336f825aebc29"

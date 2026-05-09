@@ -1,0 +1,11 @@
+name = "openpartiesandclaims-server.toml"
+filename = "openpartiesandclaims-server.toml"
+side = "both"
+
+[download]
+url = "https://scentcraft-modpack.netlify.app/public/config/openpartiesandclaims-server.toml"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "ce286df654058d8457328f2fbf24005410ed56b53df131db1fa595310a791945"

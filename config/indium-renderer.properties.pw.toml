@@ -1,0 +1,11 @@
+name = "indium-renderer.properties"
+filename = "indium-renderer.properties"
+side = "both"
+
+[download]
+url = "https://scentcraft-modpack.netlify.app/public/config/indium-renderer.properties"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "4e7cda1308adf3badd1bb38e9cf7d495aadcd66b76761092b74bb28eb7afa4eb"

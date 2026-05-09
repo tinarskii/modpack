@@ -1,0 +1,11 @@
+name = "nights_that_hold_you.png"
+filename = "nights_that_hold_you.png"
+side = "both"
+
+[download]
+url = "https://scentcraft-modpack.netlify.app/public/config/openloader/resources/homestead/assets/homestead/textures/roots/nights_that_hold_you.png"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "2709dbfe47ee9b4177b2bc5c4472ca9f9bdf8aee15693478c5330f3747654d2b"

@@ -1,0 +1,11 @@
+name = "options.txt"
+filename = "options.txt"
+side = "both"
+
+[download]
+url = "https://scentcraft-modpack.netlify.app/public/config/drippyloadingscreen/options.txt"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "f53d59ccc9f423ebf033b557f6669f87e127e5e276b7733e0a26d4679984ba99"

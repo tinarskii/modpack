@@ -1,0 +1,11 @@
+name = "README.txt"
+filename = "README.txt"
+side = "both"
+
+[download]
+url = "https://scentcraft-modpack.netlify.app/public/config/betterfortresses/fabric-1_20/README.txt"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "1175dbf9cd2e7c91b1c852a51e3c0203c68484917e877465b283e2370ad62864"

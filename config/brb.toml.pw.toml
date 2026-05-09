@@ -1,0 +1,11 @@
+name = "brb.toml"
+filename = "brb.toml"
+side = "both"
+
+[download]
+url = "https://scentcraft-modpack.netlify.app/public/config/brb.toml"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "acd27174a9e9b7c2332118e6176c8f000815c6162ccac9030710db2a27d9938b"

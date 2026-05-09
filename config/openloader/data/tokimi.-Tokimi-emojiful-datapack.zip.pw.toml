@@ -1,0 +1,11 @@
+name = "tokimi.-Tokimi-emojiful-datapack.zip"
+filename = "tokimi.-Tokimi-emojiful-datapack.zip"
+side = "both"
+
+[download]
+url = "https://scentcraft-modpack.netlify.app/public/config/openloader/data/tokimi.-Tokimi-emojiful-datapack.zip"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "8d0d45677ec24162c138699da4fa4e9f006edde480dbc5b8cccd18751d4f6cc2"

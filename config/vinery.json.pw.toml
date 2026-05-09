@@ -1,0 +1,11 @@
+name = "vinery.json"
+filename = "vinery.json"
+side = "both"
+
+[download]
+url = "https://scentcraft-modpack.netlify.app/public/config/vinery.json"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "8f1ff306405c71e61c3bb830b3fbbc195f761cbf89418fd5a339f3f512ee54c5"

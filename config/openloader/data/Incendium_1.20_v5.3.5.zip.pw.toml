@@ -1,0 +1,11 @@
+name = "Incendium_1.20_v5.3.5.zip"
+filename = "Incendium_1.20_v5.3.5.zip"
+side = "both"
+
+[download]
+url = "https://scentcraft-modpack.netlify.app/public/config/openloader/data/Incendium_1.20_v5.3.5.zip"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "0680feedf9c8791d13330580709eff7df3183a47864c834610e94c6e27b6c2e2"

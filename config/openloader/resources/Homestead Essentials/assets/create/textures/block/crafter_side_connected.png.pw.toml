@@ -1,0 +1,11 @@
+name = "crafter_side_connected.png"
+filename = "crafter_side_connected.png"
+side = "both"
+
+[download]
+url = "https://scentcraft-modpack.netlify.app/public/config/openloader/resources/Homestead%20Essentials/assets/create/textures/block/crafter_side_connected.png"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "5a135adba9dd6ea91bf19f886405b47855b6f4d86507cda9a8ebc0813e27128f"

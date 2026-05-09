@@ -1,0 +1,11 @@
+name = "en_us.local"
+filename = "en_us.local"
+side = "both"
+
+[download]
+url = "https://scentcraft-modpack.netlify.app/public/config/konkrete/locals/en_us.local"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "fdf1864fd049b3f1b9af1f8db6c5125a627be7d06a451c778da3329843d3c39a"

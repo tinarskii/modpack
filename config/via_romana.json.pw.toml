@@ -1,0 +1,11 @@
+name = "via_romana.json"
+filename = "via_romana.json"
+side = "both"
+
+[download]
+url = "https://scentcraft-modpack.netlify.app/public/config/via_romana.json"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "d01b6cff9caa7bc82d013e779cac8c58c37623d68c658f1e2c36e3c72fbc71a6"

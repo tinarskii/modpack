@@ -1,0 +1,11 @@
+name = "defaultoptions-common.toml"
+filename = "defaultoptions-common.toml"
+side = "both"
+
+[download]
+url = "https://scentcraft-modpack.netlify.app/public/config/defaultoptions-common.toml"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "a186d6ab6468353cb2a49f5a4229c16b004580a557d4bccaf12041e8a46f9d9e"

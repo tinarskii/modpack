@@ -1,0 +1,11 @@
+name = "signals_in_the_stillness.snbt"
+filename = "signals_in_the_stillness.snbt"
+side = "both"
+
+[download]
+url = "https://scentcraft-modpack.netlify.app/public/config/ftbquests/quests/chapters/signals_in_the_stillness.snbt"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "8d3354059d79f6b0c2d869864e71c65771473f0d2199da7aaacdf421d2743c46"

@@ -1,0 +1,11 @@
+name = "noindium.json"
+filename = "noindium.json"
+side = "both"
+
+[download]
+url = "https://scentcraft-modpack.netlify.app/public/config/noindium.json"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "0ec99e2aebcefedcf1d5681b6d9cd83d5ed6af32cb8004db0d0699c47beb1164"

@@ -1,0 +1,11 @@
+name = "whispers_of_the_wilds.snbt"
+filename = "whispers_of_the_wilds.snbt"
+side = "both"
+
+[download]
+url = "https://scentcraft-modpack.netlify.app/public/config/ftbquests/quests/chapters/whispers_of_the_wilds.snbt"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "b4ed96049fe1127c4ff1893dbe0ea32c353742304c0723d6e0522f2068e087d7"

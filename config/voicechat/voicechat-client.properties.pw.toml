@@ -1,0 +1,11 @@
+name = "voicechat-client.properties"
+filename = "voicechat-client.properties"
+side = "both"
+
+[download]
+url = "https://scentcraft-modpack.netlify.app/public/config/voicechat/voicechat-client.properties"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "00846df5391a7b08dcc2c8a41232502a3f287ea597541d02e51053d3dfc4ea64"

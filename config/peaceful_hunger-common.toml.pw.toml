@@ -1,0 +1,11 @@
+name = "peaceful_hunger-common.toml"
+filename = "peaceful_hunger-common.toml"
+side = "both"
+
+[download]
+url = "https://scentcraft-modpack.netlify.app/public/config/peaceful_hunger-common.toml"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "f9cc834d048c0271b30566c1af465c52af7b0a80a80895ca6afe45928058fc16"

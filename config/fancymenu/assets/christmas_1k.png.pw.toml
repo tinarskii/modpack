@@ -1,0 +1,11 @@
+name = "christmas_1k.png"
+filename = "christmas_1k.png"
+side = "both"
+
+[download]
+url = "https://scentcraft-modpack.netlify.app/public/config/fancymenu/assets/christmas_1k.png"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "333b27e803edbda1d363c2460c14742c81c41ec5b61dcea48d5c14b9259c44dd"

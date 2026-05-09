@@ -1,0 +1,11 @@
+name = "forged_fables.snbt"
+filename = "forged_fables.snbt"
+side = "both"
+
+[download]
+url = "https://scentcraft-modpack.netlify.app/public/config/ftbquests/quests/chapters/forged_fables.snbt"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "d619fdb5feee341a657842fb67c44ef69134ed0adaf45c9c13317e49a4302f18"

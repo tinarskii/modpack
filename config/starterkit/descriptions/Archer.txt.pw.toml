@@ -1,0 +1,11 @@
+name = "Archer.txt"
+filename = "Archer.txt"
+side = "both"
+
+[download]
+url = "https://scentcraft-modpack.netlify.app/public/config/starterkit/descriptions/Archer.txt"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "2ea003ce1408175d33f2bf55cb2de60b7aca7d652b922a84ec52d7d77eb99b64"

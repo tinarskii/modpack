@@ -1,0 +1,11 @@
+name = "cozystudioscore.json"
+filename = "cozystudioscore.json"
+side = "both"
+
+[download]
+url = "https://scentcraft-modpack.netlify.app/public/config/cozystudioscore.json"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "320e0b03602415a55a0e9654fb3b34a2dbe92870643d40b0717edae6b8f2f079"

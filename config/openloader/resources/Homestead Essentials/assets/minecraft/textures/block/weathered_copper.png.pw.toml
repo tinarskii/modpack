@@ -1,0 +1,11 @@
+name = "weathered_copper.png"
+filename = "weathered_copper.png"
+side = "both"
+
+[download]
+url = "https://scentcraft-modpack.netlify.app/public/config/openloader/resources/Homestead%20Essentials/assets/minecraft/textures/block/weathered_copper.png"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "5f48a901260fed35fb4df976be6dc3c6be91329da9267b5835127b756adc8496"

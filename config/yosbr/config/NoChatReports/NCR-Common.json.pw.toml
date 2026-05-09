@@ -1,0 +1,11 @@
+name = "NCR-Common.json"
+filename = "NCR-Common.json"
+side = "both"
+
+[download]
+url = "https://scentcraft-modpack.netlify.app/public/config/yosbr/config/NoChatReports/NCR-Common.json"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "77777d6d4901caa3b49847bde37722ee3cf81d745cfc2e8ffdd2aca6211418e8"

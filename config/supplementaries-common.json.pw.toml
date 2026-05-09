@@ -1,0 +1,11 @@
+name = "supplementaries-common.json"
+filename = "supplementaries-common.json"
+side = "both"
+
+[download]
+url = "https://scentcraft-modpack.netlify.app/public/config/supplementaries-common.json"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "fc5bd47bc09fd75c14980f04cce8e09dce50626a5c297fe23277f4671383d916"

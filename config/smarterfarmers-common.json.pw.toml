@@ -1,0 +1,11 @@
+name = "smarterfarmers-common.json"
+filename = "smarterfarmers-common.json"
+side = "both"
+
+[download]
+url = "https://scentcraft-modpack.netlify.app/public/config/smarterfarmers-common.json"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "36afdf16e1c1e6c9101067e33ff75b892c87b502c9ad0deeb82ba3a63885e256"

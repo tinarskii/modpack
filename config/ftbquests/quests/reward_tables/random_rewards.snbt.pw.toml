@@ -1,0 +1,11 @@
+name = "random_rewards.snbt"
+filename = "random_rewards.snbt"
+side = "both"
+
+[download]
+url = "https://scentcraft-modpack.netlify.app/public/config/ftbquests/quests/reward_tables/random_rewards.snbt"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "ff7a22b5e11ef1b35ba34bbb56f5337cefe41db9d4751684fec5013e3c3704a4"

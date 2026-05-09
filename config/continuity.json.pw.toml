@@ -1,0 +1,11 @@
+name = "continuity.json"
+filename = "continuity.json"
+side = "both"
+
+[download]
+url = "https://scentcraft-modpack.netlify.app/public/config/continuity.json"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "00267a602028cbb037dcb0b5f803db31bed284235ca9c1ea189ad4179311a2f4"

@@ -1,0 +1,11 @@
+name = "primordial_abyss.json"
+filename = "primordial_abyss.json"
+side = "both"
+
+[download]
+url = "https://scentcraft-modpack.netlify.app/public/config/eldritch_end/biomes/primordial_abyss.json"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "b2551666672706f6d286e0fc01a27ba4ad08b13a88bb5c5413cf21950cc85f53"

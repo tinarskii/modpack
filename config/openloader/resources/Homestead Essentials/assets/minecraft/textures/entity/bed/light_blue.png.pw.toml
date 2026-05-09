@@ -1,0 +1,11 @@
+name = "light_blue.png"
+filename = "light_blue.png"
+side = "both"
+
+[download]
+url = "https://scentcraft-modpack.netlify.app/public/config/openloader/resources/Homestead%20Essentials/assets/minecraft/textures/entity/bed/light_blue.png"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "8b3e5163c35193864bd2d0c30e8de2ec75a97bd1e3a6abba4256aa619bced88f"

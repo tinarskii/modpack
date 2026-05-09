@@ -1,0 +1,11 @@
+name = "wind_right.gif"
+filename = "wind_right.gif"
+side = "both"
+
+[download]
+url = "https://scentcraft-modpack.netlify.app/public/config/openloader/resources/ftbquests/assets/ftbquests/textures/homestead/wind_right.gif"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "6f52809d9fe8235137bbdee2a488671e87f190bd66c82a8ee894facdfeb1879e"

@@ -1,0 +1,11 @@
+name = "things.json5"
+filename = "things.json5"
+side = "both"
+
+[download]
+url = "https://scentcraft-modpack.netlify.app/public/config/things.json5"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "967912b7228692e8a4bc4af6f2e56607d3158bc9ce082f891cf60f1a67061fc3"

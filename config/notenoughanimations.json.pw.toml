@@ -1,0 +1,11 @@
+name = "notenoughanimations.json"
+filename = "notenoughanimations.json"
+side = "both"
+
+[download]
+url = "https://scentcraft-modpack.netlify.app/public/config/notenoughanimations.json"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "fcf3f6caa30da17d5fa87eaa89bf90d21ff384a7af94fbf43276b0c2a037d085"

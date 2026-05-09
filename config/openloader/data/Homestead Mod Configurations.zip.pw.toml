@@ -1,0 +1,11 @@
+name = "Homestead Mod Configurations.zip"
+filename = "Homestead Mod Configurations.zip"
+side = "both"
+
+[download]
+url = "https://scentcraft-modpack.netlify.app/public/config/openloader/data/Homestead%20Mod%20Configurations.zip"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "f035a0c0c2e02e41f7292f3d6b9ecd1dab095ecad5880f879339576e1e7991cb"

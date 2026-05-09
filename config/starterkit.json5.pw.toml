@@ -1,0 +1,11 @@
+name = "starterkit.json5"
+filename = "starterkit.json5"
+side = "both"
+
+[download]
+url = "https://scentcraft-modpack.netlify.app/public/config/starterkit.json5"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "529ceca06160c15d52cd1a9ef512d152719896863ecd495125aabea299ff112c"

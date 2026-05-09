@@ -1,0 +1,11 @@
+name = "drippy_loading_overlay_layout.txt"
+filename = "drippy_loading_overlay_layout.txt"
+side = "both"
+
+[download]
+url = "https://scentcraft-modpack.netlify.app/public/config/fancymenu/customization/drippy_loading_overlay_layout.txt"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "0b1ea9a8dc7612b0a900244d108f64a0050e323ee94fea81cdc2c7057c1888a0"

@@ -1,0 +1,11 @@
+name = "watut-server.toml"
+filename = "watut-server.toml"
+side = "both"
+
+[download]
+url = "https://scentcraft-modpack.netlify.app/public/config/watut-server.toml"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "38196c21139978664ee1fa4905bfa9c546840f61c2909fe459c94e9929cdc404"

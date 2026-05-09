@@ -1,0 +1,11 @@
+name = "vignette.png"
+filename = "vignette.png"
+side = "both"
+
+[download]
+url = "https://scentcraft-modpack.netlify.app/public/config/fancymenu/assets/vignette.png"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "96338718caa8a944414285356af000b342638701dea30fc24fdd992b2dddfedd"

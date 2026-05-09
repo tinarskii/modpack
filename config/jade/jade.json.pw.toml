@@ -1,0 +1,11 @@
+name = "jade.json"
+filename = "jade.json"
+side = "both"
+
+[download]
+url = "https://scentcraft-modpack.netlify.app/public/config/jade/jade.json"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "6399e4f8f24a3bfa93519b42649a4dd0f11d37833473c1ec5410ce7ff1e494d8"

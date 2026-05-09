@@ -1,0 +1,11 @@
+name = "sophisticatedbackpacks-server.toml"
+filename = "sophisticatedbackpacks-server.toml"
+side = "both"
+
+[download]
+url = "https://scentcraft-modpack.netlify.app/public/config/sophisticatedbackpacks-server.toml"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "22569b655de63a0e8444d3b9b76863b44b540f1a656fefec507e30cc516f0be4"

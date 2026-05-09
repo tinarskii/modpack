@@ -1,0 +1,11 @@
+name = "large_cogwheel_shaftless.json"
+filename = "large_cogwheel_shaftless.json"
+side = "both"
+
+[download]
+url = "https://scentcraft-modpack.netlify.app/public/config/openloader/resources/Homestead%20Essentials/assets/create/models/block/large_cogwheel_shaftless.json"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "c9cdfff706f96303f423482b176957cc622a8bd089633cc32b22fd4cd71a4c5d"

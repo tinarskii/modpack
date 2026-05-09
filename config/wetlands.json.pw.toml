@@ -1,0 +1,11 @@
+name = "wetlands.json"
+filename = "wetlands.json"
+side = "both"
+
+[download]
+url = "https://scentcraft-modpack.netlify.app/public/config/wetlands.json"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "45ef5ead4d3fe7c1ad897ddcbecffdc39229a352f02de99ad923a4e1aa4f7253"

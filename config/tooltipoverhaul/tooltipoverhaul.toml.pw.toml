@@ -1,0 +1,11 @@
+name = "tooltipoverhaul.toml"
+filename = "tooltipoverhaul.toml"
+side = "both"
+
+[download]
+url = "https://scentcraft-modpack.netlify.app/public/config/tooltipoverhaul/tooltipoverhaul.toml"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "679726c4f070d44f911da36c099e21e1f84dc5109fa13f72b451be7eec4e7713"

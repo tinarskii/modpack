@@ -1,0 +1,11 @@
+name = "puzzle.json"
+filename = "puzzle.json"
+side = "both"
+
+[download]
+url = "https://scentcraft-modpack.netlify.app/public/config/yosbr/config/puzzle.json"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "41397f8ebb5a1137f559761cee66b18a85c7289e89ac84a738140d651eecccdd"

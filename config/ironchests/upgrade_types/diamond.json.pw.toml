@@ -1,0 +1,11 @@
+name = "diamond.json"
+filename = "diamond.json"
+side = "both"
+
+[download]
+url = "https://scentcraft-modpack.netlify.app/public/config/ironchests/upgrade_types/diamond.json"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "a4002f060c72726793d28a62327549333dcf8e3a06f31f7d64524666dfb2f694"

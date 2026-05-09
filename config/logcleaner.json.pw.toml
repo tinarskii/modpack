@@ -1,0 +1,11 @@
+name = "logcleaner.json"
+filename = "logcleaner.json"
+side = "both"
+
+[download]
+url = "https://scentcraft-modpack.netlify.app/public/config/logcleaner.json"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "b4aec2072ee6eabdc444cef339ff839bfbdfb44cd6c3270483d57279365d6b68"

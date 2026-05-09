@@ -1,0 +1,11 @@
+name = "dark.json"
+filename = "dark.json"
+side = "both"
+
+[download]
+url = "https://scentcraft-modpack.netlify.app/public/config/fancymenu/ui_themes/dark.json"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "3f1263eaf693fdb6a315099b06797ac18830faa66c620916a80337a5082fd850"

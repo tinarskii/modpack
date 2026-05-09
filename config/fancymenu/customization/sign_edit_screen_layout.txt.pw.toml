@@ -1,0 +1,11 @@
+name = "sign_edit_screen_layout.txt"
+filename = "sign_edit_screen_layout.txt"
+side = "both"
+
+[download]
+url = "https://scentcraft-modpack.netlify.app/public/config/fancymenu/customization/sign_edit_screen_layout.txt"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "d0021532df9622867336c53f8bf596f12b7d56f04e52d3a660ed9d49c46ffd39"

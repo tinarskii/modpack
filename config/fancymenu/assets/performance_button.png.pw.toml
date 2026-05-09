@@ -1,0 +1,11 @@
+name = "performance_button.png"
+filename = "performance_button.png"
+side = "both"
+
+[download]
+url = "https://scentcraft-modpack.netlify.app/public/config/fancymenu/assets/performance_button.png"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "b4bbc0d561983a8184a8918167d20e4a5bdcd5b034acf309686bfe1702e1395c"

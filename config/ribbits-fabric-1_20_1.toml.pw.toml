@@ -1,0 +1,11 @@
+name = "ribbits-fabric-1_20_1.toml"
+filename = "ribbits-fabric-1_20_1.toml"
+side = "both"
+
+[download]
+url = "https://scentcraft-modpack.netlify.app/public/config/ribbits-fabric-1_20_1.toml"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "0471379b8c6f11b6d0f32d894f48fbc8a6a7ddd783128ae3ac03dfe65d3b752c"

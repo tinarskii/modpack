@@ -1,0 +1,11 @@
+name = "ImprovedPillagerOutpost-v5.zip"
+filename = "ImprovedPillagerOutpost-v5.zip"
+side = "both"
+
+[download]
+url = "https://scentcraft-modpack.netlify.app/public/config/openloader/data/ImprovedPillagerOutpost-v5.zip"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "01cb6e4c52040a9d431009c36f5e1b08ec5d4f7ad5723c37ebe9017ee7793865"

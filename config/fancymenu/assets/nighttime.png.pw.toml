@@ -1,0 +1,11 @@
+name = "nighttime.png"
+filename = "nighttime.png"
+side = "both"
+
+[download]
+url = "https://scentcraft-modpack.netlify.app/public/config/fancymenu/assets/nighttime.png"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "39b4efef74fab1ad28cd7b7a34c8686da0a503708224381ce430b26a2e83af8d"

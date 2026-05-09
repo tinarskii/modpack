@@ -1,0 +1,11 @@
+name = "common.cfg"
+filename = "common.cfg"
+side = "both"
+
+[download]
+url = "https://scentcraft-modpack.netlify.app/public/config/xaero/lib/common.cfg"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "98f698d96a6d21d830a455b4ad045b70516fa63c298021742d8499e7f0366cd2"

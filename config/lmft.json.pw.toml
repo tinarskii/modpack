@@ -1,0 +1,11 @@
+name = "lmft.json"
+filename = "lmft.json"
+side = "both"
+
+[download]
+url = "https://scentcraft-modpack.netlify.app/public/config/lmft.json"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "2a2ee19297afe3fc512f5cbe639349847f3e7a74616f282d24a179a17f4559ed"

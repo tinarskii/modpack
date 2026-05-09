@@ -1,0 +1,11 @@
+name = "amendments-common.json"
+filename = "amendments-common.json"
+side = "both"
+
+[download]
+url = "https://scentcraft-modpack.netlify.app/public/config/amendments-common.json"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "9f1167b7ed6679cddde8fa75980331f607e527c5c8a18d015fd7fcea27730a2f"

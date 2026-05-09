@@ -1,0 +1,11 @@
+name = "inventoryhud.json"
+filename = "inventoryhud.json"
+side = "both"
+
+[download]
+url = "https://scentcraft-modpack.netlify.app/public/config/inventoryhud.json"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "36c1f2de4d374b46b42251b17b670b4408268a4c8e98907e0000b85b2d6aaf59"

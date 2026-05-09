@@ -1,0 +1,11 @@
+name = "end_island_3.png"
+filename = "end_island_3.png"
+side = "both"
+
+[download]
+url = "https://scentcraft-modpack.netlify.app/public/config/openloader/resources/ftbquests/assets/ftbquests/textures/homestead/end_island_3.png"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "7c3e5fa7d0b50a47f1ea537c5a089e3020cf930fdb7a6f52c5e89a0d41a5ef50"

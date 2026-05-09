@@ -1,0 +1,11 @@
+name = "default.cfg.txt"
+filename = "default.cfg.txt"
+side = "both"
+
+[download]
+url = "https://scentcraft-modpack.netlify.app/public/config/xaero/minimap/profiles/info_display_config/default.cfg.txt"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "9e1877c0fae35b98a139b86199a1e19e2425179a1bf8415e6bf9d1a5c7827638"

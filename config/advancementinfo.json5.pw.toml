@@ -1,0 +1,11 @@
+name = "advancementinfo.json5"
+filename = "advancementinfo.json5"
+side = "both"
+
+[download]
+url = "https://scentcraft-modpack.netlify.app/public/config/advancementinfo.json5"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "82fb3f9fd7931ded27c4c0cc78b86bed8a82e2d17b587f26f3a094a8589e13e6"

@@ -1,0 +1,11 @@
+name = "expanded-delight.json"
+filename = "expanded-delight.json"
+side = "both"
+
+[download]
+url = "https://scentcraft-modpack.netlify.app/public/config/expanded-delight.json"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "fc3c6e0ba277836bbc86aa9f01f2433e6241d805a2b71f97e6675c3a05429d98"

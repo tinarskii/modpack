@@ -1,0 +1,11 @@
+name = "resourceful-config-web.json"
+filename = "resourceful-config-web.json"
+side = "both"
+
+[download]
+url = "https://scentcraft-modpack.netlify.app/public/config/resourceful-config-web.json"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "1aa86c92facc08ad914f879029c39e425c02a86dbd533b4f4d9cf15cd548338a"

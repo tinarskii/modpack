@@ -1,0 +1,11 @@
+name = "spelunkery-client.json"
+filename = "spelunkery-client.json"
+side = "both"
+
+[download]
+url = "https://scentcraft-modpack.netlify.app/public/config/spelunkery-client.json"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "3dfc79aa0d4c072a6e024c60352ac7ab22c62c1f8a372acbc25a1e4be8796cce"

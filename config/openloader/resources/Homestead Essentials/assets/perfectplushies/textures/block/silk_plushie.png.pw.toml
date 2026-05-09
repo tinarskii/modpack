@@ -1,0 +1,11 @@
+name = "silk_plushie.png"
+filename = "silk_plushie.png"
+side = "both"
+
+[download]
+url = "https://scentcraft-modpack.netlify.app/public/config/openloader/resources/Homestead%20Essentials/assets/perfectplushies/textures/block/silk_plushie.png"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "506dc501580154d801081eac75f4fe7b5764599e6daed75494ea9c79a195dd3e"

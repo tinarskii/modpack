@@ -1,0 +1,11 @@
+name = "Repurposed_Structures-Farmers_Delight_v6.zip"
+filename = "Repurposed_Structures-Farmers_Delight_v6.zip"
+side = "both"
+
+[download]
+url = "https://scentcraft-modpack.netlify.app/public/config/openloader/data/Repurposed_Structures-Farmers_Delight_v6.zip"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "ff899242a00ddafb7fdb7d7a2b0654f1da06f3ac1a85bbb0a0512489dcf51272"

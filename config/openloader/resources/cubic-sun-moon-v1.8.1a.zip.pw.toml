@@ -1,0 +1,11 @@
+name = "cubic-sun-moon-v1.8.1a.zip"
+filename = "cubic-sun-moon-v1.8.1a.zip"
+side = "both"
+
+[download]
+url = "https://scentcraft-modpack.netlify.app/public/config/openloader/resources/cubic-sun-moon-v1.8.1a.zip"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "f1d55443bde40cd482f3d1194d16b8fe2320f21ab48200f71eb4e9e686c44d72"

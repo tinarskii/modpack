@@ -1,0 +1,11 @@
+name = "disabled_entities.json5"
+filename = "disabled_entities.json5"
+side = "both"
+
+[download]
+url = "https://scentcraft-modpack.netlify.app/public/config/ysns/disabled_entities.json5"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "c4cc01e8046d622aee7153951c883b00fcf51c09d02731e3795ebb3a9f1b4ea8"

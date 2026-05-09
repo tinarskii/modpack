@@ -1,0 +1,11 @@
+name = "chute_diagram.png"
+filename = "chute_diagram.png"
+side = "both"
+
+[download]
+url = "https://scentcraft-modpack.netlify.app/public/config/openloader/resources/homestead/assets/homestead/textures/chute_diagram.png"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "fbb2f82031df3080066b6a332ced50c57c4045564a2785ebc6cf3b01671d98a3"

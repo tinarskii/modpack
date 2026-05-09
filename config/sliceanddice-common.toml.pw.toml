@@ -1,0 +1,11 @@
+name = "sliceanddice-common.toml"
+filename = "sliceanddice-common.toml"
+side = "both"
+
+[download]
+url = "https://scentcraft-modpack.netlify.app/public/config/sliceanddice-common.toml"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "689a4b76f5aa8ef362533d288deac7008a075419722ead71abec447499132ffc"

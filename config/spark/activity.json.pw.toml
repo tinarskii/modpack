@@ -1,0 +1,11 @@
+name = "activity.json"
+filename = "activity.json"
+side = "both"
+
+[download]
+url = "https://scentcraft-modpack.netlify.app/public/config/spark/activity.json"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"

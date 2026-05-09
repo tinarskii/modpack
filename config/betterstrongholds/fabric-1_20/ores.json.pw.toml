@@ -1,0 +1,11 @@
+name = "ores.json"
+filename = "ores.json"
+side = "both"
+
+[download]
+url = "https://scentcraft-modpack.netlify.app/public/config/betterstrongholds/fabric-1_20/ores.json"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "e5437f8a1c181571b38a66b16d91fb4210c2edb5e831de4074ce528e05e13742"

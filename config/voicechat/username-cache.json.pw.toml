@@ -1,0 +1,11 @@
+name = "username-cache.json"
+filename = "username-cache.json"
+side = "both"
+
+[download]
+url = "https://scentcraft-modpack.netlify.app/public/config/voicechat/username-cache.json"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"

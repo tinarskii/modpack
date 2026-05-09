@@ -1,0 +1,11 @@
+name = "obsidian.json"
+filename = "obsidian.json"
+side = "both"
+
+[download]
+url = "https://scentcraft-modpack.netlify.app/public/config/ironchests/chests/barrels/obsidian.json"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "a9c54dbcfdd150a3b4e2c4fbcd5f7ceb459e72d1993969a2fe4382e34c5fee7a"

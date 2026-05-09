@@ -1,0 +1,11 @@
+name = "jumpoverfences.toml"
+filename = "jumpoverfences.toml"
+side = "both"
+
+[download]
+url = "https://scentcraft-modpack.netlify.app/public/config/jumpoverfences.toml"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "c5b1ab6e46ec8963c229f5474195af4ed263740032d58c19157bf9e81ba84e4e"

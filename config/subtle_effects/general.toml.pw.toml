@@ -1,0 +1,11 @@
+name = "general.toml"
+filename = "general.toml"
+side = "both"
+
+[download]
+url = "https://scentcraft-modpack.netlify.app/public/config/subtle_effects/general.toml"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "960fa7522336f41cd9a56970c4a24a123511b0ec61426ee5128306d273351974"

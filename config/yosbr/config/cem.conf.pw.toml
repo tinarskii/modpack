@@ -1,0 +1,11 @@
+name = "cem.conf"
+filename = "cem.conf"
+side = "both"
+
+[download]
+url = "https://scentcraft-modpack.netlify.app/public/config/yosbr/config/cem.conf"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "51519ddcc6823cbe1f22b8977fe103eb8c01b1872899634ddc06814f3ef2da9b"

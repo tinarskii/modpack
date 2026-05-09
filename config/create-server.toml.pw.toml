@@ -1,0 +1,11 @@
+name = "create-server.toml"
+filename = "create-server.toml"
+side = "both"
+
+[download]
+url = "https://scentcraft-modpack.netlify.app/public/config/create-server.toml"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "373ec5141e596452a616b372aa4b33f7a87088fc883d4f66e69086fb79bcdeb8"

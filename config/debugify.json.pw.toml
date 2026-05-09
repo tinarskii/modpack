@@ -1,0 +1,11 @@
+name = "debugify.json"
+filename = "debugify.json"
+side = "both"
+
+[download]
+url = "https://scentcraft-modpack.netlify.app/public/config/debugify.json"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "d047d7c6024ce3c82f299ab5f391ad0e3fa89c33bd3e3c2489dcd8d3d39ac159"

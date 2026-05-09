@@ -1,0 +1,11 @@
+name = "nerb.yaml"
+filename = "nerb.yaml"
+side = "both"
+
+[download]
+url = "https://scentcraft-modpack.netlify.app/public/config/nerb.yaml"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "dceda831a1a2585df3fb5f3baae348eb43a7179ced0609a8a47869dfb0243d71"

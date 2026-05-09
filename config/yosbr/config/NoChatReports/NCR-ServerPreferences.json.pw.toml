@@ -1,0 +1,11 @@
+name = "NCR-ServerPreferences.json"
+filename = "NCR-ServerPreferences.json"
+side = "both"
+
+[download]
+url = "https://scentcraft-modpack.netlify.app/public/config/yosbr/config/NoChatReports/NCR-ServerPreferences.json"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "df32843b853e0a493ef3a9b1e39276818294353fbb0d833f7f61e77da0f5bca1"

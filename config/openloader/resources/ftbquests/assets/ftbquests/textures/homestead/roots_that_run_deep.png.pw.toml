@@ -1,0 +1,11 @@
+name = "roots_that_run_deep.png"
+filename = "roots_that_run_deep.png"
+side = "both"
+
+[download]
+url = "https://scentcraft-modpack.netlify.app/public/config/openloader/resources/ftbquests/assets/ftbquests/textures/homestead/roots_that_run_deep.png"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "7ebc0a3025f4a0a9ad5fead81c91c3c76bcf20a312ae1387ecb0e6478bc2e149"

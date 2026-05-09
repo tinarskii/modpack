@@ -1,0 +1,11 @@
+name = "day_button.png"
+filename = "day_button.png"
+side = "both"
+
+[download]
+url = "https://scentcraft-modpack.netlify.app/public/config/fancymenu/assets/day_button.png"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "5d43ca3cec01a044a31c8c861498f146e01a82c8d5219d87a16d3cfa8fd174bb"

@@ -1,0 +1,11 @@
+name = "logo.png"
+filename = "logo.png"
+side = "both"
+
+[download]
+url = "https://scentcraft-modpack.netlify.app/public/config/openloader/resources/homestead/assets/homestead/textures/welcome/logo.png"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "cdca9a072b3e382ebd659dd8992ec3e765dd6afa7dc358ef40b4a4243e6804f7"

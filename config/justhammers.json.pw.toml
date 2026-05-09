@@ -1,0 +1,11 @@
+name = "justhammers.json"
+filename = "justhammers.json"
+side = "both"
+
+[download]
+url = "https://scentcraft-modpack.netlify.app/public/config/justhammers.json"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "200319cc65c7f692d2e618f52f846222793f9e62a6f31ad14e82713535a1fefc"

@@ -1,0 +1,11 @@
+name = "animation_controller_states.json"
+filename = "animation_controller_states.json"
+side = "both"
+
+[download]
+url = "https://scentcraft-modpack.netlify.app/public/config/fancymenu/animation_controller_states.json"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "9c94b61bade4eb0fecd436761b1085fc807112effd9b3b12520128bd8edc2156"

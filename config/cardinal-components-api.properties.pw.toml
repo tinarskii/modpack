@@ -1,0 +1,11 @@
+name = "cardinal-components-api.properties"
+filename = "cardinal-components-api.properties"
+side = "both"
+
+[download]
+url = "https://scentcraft-modpack.netlify.app/public/config/cardinal-components-api.properties"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "f7e7f346e0724cf9cfb77f44dec2e7d202ea2507729ec7b95ee6a8f089c82982"

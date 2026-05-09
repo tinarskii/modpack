@@ -1,0 +1,11 @@
+name = "deep_dark_quest_bg.png"
+filename = "deep_dark_quest_bg.png"
+side = "both"
+
+[download]
+url = "https://scentcraft-modpack.netlify.app/public/config/openloader/resources/ftbquests/assets/ftbquests/textures/homestead/deep_dark_quest_bg.png"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "ea3423879d3f6cacc8ce5929a561a7bf5a38dfb7149bfcf0dfdda57dfebdeedc"

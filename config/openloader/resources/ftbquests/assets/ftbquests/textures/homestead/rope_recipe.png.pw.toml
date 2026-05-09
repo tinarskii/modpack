@@ -1,0 +1,11 @@
+name = "rope_recipe.png"
+filename = "rope_recipe.png"
+side = "both"
+
+[download]
+url = "https://scentcraft-modpack.netlify.app/public/config/openloader/resources/ftbquests/assets/ftbquests/textures/homestead/rope_recipe.png"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "7acd3e45b612c5bafa398a741859c6a2c1b88c881caac513a32d98aadbd02f38"

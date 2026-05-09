@@ -1,0 +1,11 @@
+name = "diamond_helmet_smithing.png"
+filename = "diamond_helmet_smithing.png"
+side = "both"
+
+[download]
+url = "https://scentcraft-modpack.netlify.app/public/config/openloader/resources/ftbquests/assets/ftbquests/textures/homestead/diamond_helmet_smithing.png"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "2885f7d5d509d5da691ee10c241ba71ddd5d2f3d2c9f35f329b2c88a688039fa"

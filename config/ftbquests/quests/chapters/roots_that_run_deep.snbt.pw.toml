@@ -1,0 +1,11 @@
+name = "roots_that_run_deep.snbt"
+filename = "roots_that_run_deep.snbt"
+side = "both"
+
+[download]
+url = "https://scentcraft-modpack.netlify.app/public/config/ftbquests/quests/chapters/roots_that_run_deep.snbt"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "3fd575409a99262ddf1f1a91e68bd365ee5d3630813ef68b2d7ca0c3152996ae"

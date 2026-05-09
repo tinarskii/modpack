@@ -1,0 +1,11 @@
+name = "cursor.png"
+filename = "cursor.png"
+side = "both"
+
+[download]
+url = "https://scentcraft-modpack.netlify.app/public/config/fancymenu/assets/cursor.png"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "bf278dcd4e5724ce5ae47ab336025064a786de2d43166d1049394452a95cba18"

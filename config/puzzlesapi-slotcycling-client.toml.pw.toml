@@ -1,0 +1,11 @@
+name = "puzzlesapi-slotcycling-client.toml"
+filename = "puzzlesapi-slotcycling-client.toml"
+side = "both"
+
+[download]
+url = "https://scentcraft-modpack.netlify.app/public/config/puzzlesapi-slotcycling-client.toml"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "fe448bbfec4b3129be87422c0616136bc5179cf9c85447f1742170bb59a79ed0"

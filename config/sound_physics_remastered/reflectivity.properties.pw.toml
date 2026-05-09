@@ -1,0 +1,11 @@
+name = "reflectivity.properties"
+filename = "reflectivity.properties"
+side = "both"
+
+[download]
+url = "https://scentcraft-modpack.netlify.app/public/config/sound_physics_remastered/reflectivity.properties"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "bc029afc200ba2fba522a27245d65c8e5db0f20cd0eddd5873a316054d962923"

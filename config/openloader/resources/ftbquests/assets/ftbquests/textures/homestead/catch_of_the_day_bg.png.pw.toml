@@ -1,0 +1,11 @@
+name = "catch_of_the_day_bg.png"
+filename = "catch_of_the_day_bg.png"
+side = "both"
+
+[download]
+url = "https://scentcraft-modpack.netlify.app/public/config/openloader/resources/ftbquests/assets/ftbquests/textures/homestead/catch_of_the_day_bg.png"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "e964df1536711c521e7223e073290710d6b47503183c8a5b6c9ecdc0e3957a4b"

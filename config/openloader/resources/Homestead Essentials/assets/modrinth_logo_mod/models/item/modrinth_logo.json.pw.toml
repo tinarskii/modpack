@@ -1,0 +1,11 @@
+name = "modrinth_logo.json"
+filename = "modrinth_logo.json"
+side = "both"
+
+[download]
+url = "https://scentcraft-modpack.netlify.app/public/config/openloader/resources/Homestead%20Essentials/assets/modrinth_logo_mod/models/item/modrinth_logo.json"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "e92842e1d197782ade3ff2d3e7d4336c1df90cbc899c4ddf041ac52fc93ae982"

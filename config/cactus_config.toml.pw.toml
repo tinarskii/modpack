@@ -1,0 +1,11 @@
+name = "cactus_config.toml"
+filename = "cactus_config.toml"
+side = "both"
+
+[download]
+url = "https://scentcraft-modpack.netlify.app/public/config/cactus_config.toml"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "2e0c0d1dfe8ca01b1c9b9f52976886e84e132c9b5b9dcdca5a7969f5295649f9"

@@ -1,0 +1,11 @@
+name = "Welcome.txt"
+filename = "Welcome.txt"
+side = "both"
+
+[download]
+url = "https://scentcraft-modpack.netlify.app/public/config/starterkit/kits/Welcome.txt"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "d879673f92e18b56f99a307f3f6cace3d3442a3f69544806e0a0e7bd9f2afb34"

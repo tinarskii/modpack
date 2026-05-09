@@ -1,0 +1,11 @@
+name = "hanging_sign_edit_screen_layout.txt"
+filename = "hanging_sign_edit_screen_layout.txt"
+side = "both"
+
+[download]
+url = "https://scentcraft-modpack.netlify.app/public/config/fancymenu/customization/hanging_sign_edit_screen_layout.txt"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "6692ca585386384f58a5998c3855cd1378629487e3272f55bc33e68aa9557f1e"

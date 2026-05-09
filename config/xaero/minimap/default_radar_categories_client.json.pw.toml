@@ -1,0 +1,11 @@
+name = "default_radar_categories_client.json"
+filename = "default_radar_categories_client.json"
+side = "both"
+
+[download]
+url = "https://scentcraft-modpack.netlify.app/public/config/xaero/minimap/default_radar_categories_client.json"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "2caca8e4417b25ec7f3e43278393ebb458684b875df7f28ff362f1e9540e0cd8"

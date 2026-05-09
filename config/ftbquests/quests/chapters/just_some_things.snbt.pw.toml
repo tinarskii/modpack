@@ -1,0 +1,11 @@
+name = "just_some_things.snbt"
+filename = "just_some_things.snbt"
+side = "both"
+
+[download]
+url = "https://scentcraft-modpack.netlify.app/public/config/ftbquests/quests/chapters/just_some_things.snbt"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "bce1b31f7aeb0745e90e339254325d8fdf75f0bfb5f2e0adfb7d427d7c014b00"

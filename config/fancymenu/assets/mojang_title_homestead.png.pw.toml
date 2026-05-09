@@ -1,0 +1,11 @@
+name = "mojang_title_homestead.png"
+filename = "mojang_title_homestead.png"
+side = "both"
+
+[download]
+url = "https://scentcraft-modpack.netlify.app/public/config/fancymenu/assets/mojang_title_homestead.png"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "2ac47d24bd6f8d98fa36a34eb1e51cd59a99e8475b8b12dae0313f19e016b4f2"

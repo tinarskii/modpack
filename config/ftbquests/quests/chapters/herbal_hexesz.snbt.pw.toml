@@ -1,0 +1,11 @@
+name = "herbal_hexesz.snbt"
+filename = "herbal_hexesz.snbt"
+side = "both"
+
+[download]
+url = "https://scentcraft-modpack.netlify.app/public/config/ftbquests/quests/chapters/herbal_hexesz.snbt"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "d295e234d4fea7376bfecc6e4f06a71c8703ced67b88748de6dad506d05cd575"

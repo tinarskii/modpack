@@ -1,0 +1,11 @@
+name = "rrp.properties"
+filename = "rrp.properties"
+side = "both"
+
+[download]
+url = "https://scentcraft-modpack.netlify.app/public/config/rrp.properties"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "345bb2023fb8f0e94972743d5cd79613cc7669fcb1b103d4bbaf6ccc0c317cf9"

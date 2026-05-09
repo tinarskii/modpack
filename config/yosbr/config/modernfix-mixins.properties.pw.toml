@@ -1,0 +1,11 @@
+name = "modernfix-mixins.properties"
+filename = "modernfix-mixins.properties"
+side = "both"
+
+[download]
+url = "https://scentcraft-modpack.netlify.app/public/config/yosbr/config/modernfix-mixins.properties"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "3c5317882a50941e2384b9739ec3aa688f297105691c9d8d577936ad29c1d575"

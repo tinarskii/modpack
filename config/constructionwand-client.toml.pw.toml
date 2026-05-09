@@ -1,0 +1,11 @@
+name = "constructionwand-client.toml"
+filename = "constructionwand-client.toml"
+side = "both"
+
+[download]
+url = "https://scentcraft-modpack.netlify.app/public/config/constructionwand-client.toml"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "247386658d46da08625749707f2bfe4abcd70ab301987c6a60f5a17f8cf6276b"

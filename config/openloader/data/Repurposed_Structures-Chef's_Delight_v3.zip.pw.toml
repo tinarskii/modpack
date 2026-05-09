@@ -1,0 +1,11 @@
+name = "Repurposed_Structures-Chef's_Delight_v3.zip"
+filename = "Repurposed_Structures-Chef's_Delight_v3.zip"
+side = "both"
+
+[download]
+url = "https://scentcraft-modpack.netlify.app/public/config/openloader/data/Repurposed_Structures-Chef's_Delight_v3.zip"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "86556fb32765fadbc6433e171b6095dacf86a4507d80c55624d89991f1b89732"

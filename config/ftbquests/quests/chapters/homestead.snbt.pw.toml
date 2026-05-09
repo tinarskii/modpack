@@ -1,0 +1,11 @@
+name = "homestead.snbt"
+filename = "homestead.snbt"
+side = "both"
+
+[download]
+url = "https://scentcraft-modpack.netlify.app/public/config/ftbquests/quests/chapters/homestead.snbt"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "1e310575d7bde85fda7d1bc8489afcbd56031893b27ebfe4a9b40cebb5250564"

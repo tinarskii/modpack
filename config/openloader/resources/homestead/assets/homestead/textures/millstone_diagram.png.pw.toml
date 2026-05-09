@@ -1,0 +1,11 @@
+name = "millstone_diagram.png"
+filename = "millstone_diagram.png"
+side = "both"
+
+[download]
+url = "https://scentcraft-modpack.netlify.app/public/config/openloader/resources/homestead/assets/homestead/textures/millstone_diagram.png"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "68db93172f7916d7d7ee7da349755dadb86dcf0ee8a42f7821138f1ff9c973c0"

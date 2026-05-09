@@ -1,0 +1,11 @@
+name = "forged_fables.png"
+filename = "forged_fables.png"
+side = "both"
+
+[download]
+url = "https://scentcraft-modpack.netlify.app/public/config/openloader/resources/ftbquests/assets/ftbquests/textures/homestead/forged_fables.png"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "227c95f13ade73e8686c1e7f3d104a1c7d684aaf05ec96c16e7ed80e36611462"

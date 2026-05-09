@@ -1,0 +1,11 @@
+name = "meadow.json"
+filename = "meadow.json"
+side = "both"
+
+[download]
+url = "https://scentcraft-modpack.netlify.app/public/config/meadow.json"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "eda0d1ba7697a18858b2cccc07d93fd0279037a33e18d382371fb2746cd45c30"

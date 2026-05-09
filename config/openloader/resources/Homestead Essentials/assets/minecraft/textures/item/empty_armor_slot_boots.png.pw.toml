@@ -1,0 +1,11 @@
+name = "empty_armor_slot_boots.png"
+filename = "empty_armor_slot_boots.png"
+side = "both"
+
+[download]
+url = "https://scentcraft-modpack.netlify.app/public/config/openloader/resources/Homestead%20Essentials/assets/minecraft/textures/item/empty_armor_slot_boots.png"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "b1a113d6e35af234730cf9dcb37240f5fab257a6487af58f063ec31ca09b497f"

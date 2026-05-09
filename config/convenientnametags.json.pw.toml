@@ -1,0 +1,11 @@
+name = "convenientnametags.json"
+filename = "convenientnametags.json"
+side = "both"
+
+[download]
+url = "https://scentcraft-modpack.netlify.app/public/config/convenientnametags.json"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "c09142d41c52eca9e5f1c49a7fdf0cc726d5ace14b896d13a83bb043e7ea32c7"

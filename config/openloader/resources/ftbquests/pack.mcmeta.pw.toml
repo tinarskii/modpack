@@ -1,0 +1,11 @@
+name = "pack.mcmeta"
+filename = "pack.mcmeta"
+side = "both"
+
+[download]
+url = "https://scentcraft-modpack.netlify.app/public/config/openloader/resources/ftbquests/pack.mcmeta"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "8e9cacf81014f3f64ca4be74be9e8c1e3d81cca33f74f6cad27e549542048d31"

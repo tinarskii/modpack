@@ -1,0 +1,11 @@
+name = "arrow.json"
+filename = "arrow.json"
+side = "both"
+
+[download]
+url = "https://scentcraft-modpack.netlify.app/public/config/openloader/resources/Homestead%20Essentials/assets/create/models/block/mechanical_crafter/arrow.json"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "96f62b5283972da3dd7124a15b1e72cf9f8b85200364ecdde8e8874ba04f0ce7"

@@ -1,0 +1,11 @@
+name = "bakery.json"
+filename = "bakery.json"
+side = "both"
+
+[download]
+url = "https://scentcraft-modpack.netlify.app/public/config/bakery.json"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "3f8e403a20ef9ceffa2651d516220c9e5ab372ad221f471efbd2fbe200489971"

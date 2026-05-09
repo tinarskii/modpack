@@ -1,0 +1,11 @@
+name = "rocris_plushie.png"
+filename = "rocris_plushie.png"
+side = "both"
+
+[download]
+url = "https://scentcraft-modpack.netlify.app/public/config/openloader/resources/Homestead%20Essentials/assets/perfectplushies/textures/block/rocris_plushie.png"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "631ea0493e0b21f8fa827c716dc6ff91a4d63d47af389c165fb255aa92f902f5"

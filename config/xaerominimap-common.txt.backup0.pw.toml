@@ -1,0 +1,11 @@
+name = "xaerominimap-common.txt.backup0"
+filename = "xaerominimap-common.txt.backup0"
+side = "both"
+
+[download]
+url = "https://scentcraft-modpack.netlify.app/public/config/xaerominimap-common.txt.backup0"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "771a844d13ab6c2ff99f14b8fd912d02c55a1a4104361692b740c3e596084f6f"

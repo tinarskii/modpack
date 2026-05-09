@@ -1,0 +1,11 @@
+name = "beachparty.json"
+filename = "beachparty.json"
+side = "both"
+
+[download]
+url = "https://scentcraft-modpack.netlify.app/public/config/beachparty.json"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "f8f65dbe8bc0f26219a97c50b297306b69d0d53cc3cbd8eb14b9d25983248bb6"

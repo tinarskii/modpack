@@ -1,0 +1,11 @@
+name = "bettermineshafts-fabric-1_20.toml"
+filename = "bettermineshafts-fabric-1_20.toml"
+side = "both"
+
+[download]
+url = "https://scentcraft-modpack.netlify.app/public/config/bettermineshafts-fabric-1_20.toml"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "d486f4672659b59f9a855d9ebce345d8a983c504d24b99613ce280db657c40f5"

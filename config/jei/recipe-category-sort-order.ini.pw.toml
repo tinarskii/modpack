@@ -1,0 +1,11 @@
+name = "recipe-category-sort-order.ini"
+filename = "recipe-category-sort-order.ini"
+side = "both"
+
+[download]
+url = "https://scentcraft-modpack.netlify.app/public/config/jei/recipe-category-sort-order.ini"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "8492a5bc58bee63e924ed899fc8c9b633f6187abe8159d1f8b0beb992748a5cf"

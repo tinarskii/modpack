@@ -1,0 +1,11 @@
+name = "armorstatues-client.toml"
+filename = "armorstatues-client.toml"
+side = "both"
+
+[download]
+url = "https://scentcraft-modpack.netlify.app/public/config/armorstatues-client.toml"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "f6bbe4d80ea2ea172ac319d751c6f1a93519f7f86aeded4419f22573486ffebc"

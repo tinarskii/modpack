@@ -1,0 +1,11 @@
+name = "shaped_with_care.png"
+filename = "shaped_with_care.png"
+side = "both"
+
+[download]
+url = "https://scentcraft-modpack.netlify.app/public/config/openloader/resources/ftbquests/assets/ftbquests/textures/homestead/shaped_with_care.png"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "7add9406fa4e1c63bf569fec415ccd04153172c271cd06e1ab1b6a4ccdf75377"

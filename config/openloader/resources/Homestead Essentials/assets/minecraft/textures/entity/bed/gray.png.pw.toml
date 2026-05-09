@@ -1,0 +1,11 @@
+name = "gray.png"
+filename = "gray.png"
+side = "both"
+
+[download]
+url = "https://scentcraft-modpack.netlify.app/public/config/openloader/resources/Homestead%20Essentials/assets/minecraft/textures/entity/bed/gray.png"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "5af26a5ea43aa595e04a5a06abbfbcf338c2e34c594a1d69060a4c0e7acaffe6"

@@ -1,0 +1,11 @@
+name = "storagedrawers-common.v2.toml"
+filename = "storagedrawers-common.v2.toml"
+side = "both"
+
+[download]
+url = "https://scentcraft-modpack.netlify.app/public/config/storagedrawers-common.v2.toml"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "8432490cc71a5498104385897530ec5164f0946a0a684c23436111cab830f63a"

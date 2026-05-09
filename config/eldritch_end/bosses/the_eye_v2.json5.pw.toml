@@ -1,0 +1,11 @@
+name = "the_eye_v2.json5"
+filename = "the_eye_v2.json5"
+side = "both"
+
+[download]
+url = "https://scentcraft-modpack.netlify.app/public/config/eldritch_end/bosses/the_eye_v2.json5"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "1ca38494d3f3939c447044986b734bf6446eb2f4e37a5aecd863f5a162cc50f6"

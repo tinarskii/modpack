@@ -1,0 +1,11 @@
+name = "itemframes.json"
+filename = "itemframes.json"
+side = "both"
+
+[download]
+url = "https://scentcraft-modpack.netlify.app/public/config/betterfortresses/fabric-1_20/itemframes.json"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "2af61cd0db240ad93a7e9e4e37e72b45f6e36f27f0659b1787549d12d84715cd"

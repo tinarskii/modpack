@@ -1,0 +1,11 @@
+name = "options.txt"
+filename = "options.txt"
+side = "both"
+
+[download]
+url = "https://scentcraft-modpack.netlify.app/public/config/yosbr/options.txt"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "6e9745279997b61055edea5f320ea43236ed9b2aa47f1db143148fe17b2bdd4d"

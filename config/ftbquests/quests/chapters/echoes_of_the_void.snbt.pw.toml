@@ -1,0 +1,11 @@
+name = "echoes_of_the_void.snbt"
+filename = "echoes_of_the_void.snbt"
+side = "both"
+
+[download]
+url = "https://scentcraft-modpack.netlify.app/public/config/ftbquests/quests/chapters/echoes_of_the_void.snbt"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "b02f6e89e10ff572b5e8e1ed325b96ef50ca9d6f67ab0bf86424c50def45494e"

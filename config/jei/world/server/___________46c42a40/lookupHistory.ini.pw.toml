@@ -1,0 +1,11 @@
+name = "lookupHistory.ini"
+filename = "lookupHistory.ini"
+side = "both"
+
+[download]
+url = "https://scentcraft-modpack.netlify.app/public/config/jei/world/server/___________46c42a40/lookupHistory.ini"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "1926b98d9a0b49c519102b76d29dfcc3c7d0209f51dcda1463b3cd186964d0c9"

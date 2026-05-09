@@ -1,0 +1,11 @@
+name = "explorerscompass.json"
+filename = "explorerscompass.json"
+side = "both"
+
+[download]
+url = "https://scentcraft-modpack.netlify.app/public/config/explorerscompass.json"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "21c1113b8bf7a04a53c26aba3387a5da8b613c468466fe9494bb3ba86bc73900"

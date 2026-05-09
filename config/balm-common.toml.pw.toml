@@ -1,0 +1,11 @@
+name = "balm-common.toml"
+filename = "balm-common.toml"
+side = "both"
+
+[download]
+url = "https://scentcraft-modpack.netlify.app/public/config/balm-common.toml"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "83e4d6a8c6c6ac2c68cba89d8f1300c5f810797a807ddd3b0c1b3d89a925edc9"

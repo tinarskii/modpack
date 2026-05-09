@@ -1,0 +1,11 @@
+name = "tranquili_tea.png"
+filename = "tranquili_tea.png"
+side = "both"
+
+[download]
+url = "https://scentcraft-modpack.netlify.app/public/config/openloader/resources/ftbquests/assets/ftbquests/textures/homestead/tranquili_tea.png"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "7480468d4a21d6cafcb3b9fdcfb818f2e9164e919479b7eda77ac7a9c28067a5"

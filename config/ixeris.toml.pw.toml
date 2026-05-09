@@ -1,0 +1,11 @@
+name = "ixeris.toml"
+filename = "ixeris.toml"
+side = "both"
+
+[download]
+url = "https://scentcraft-modpack.netlify.app/public/config/ixeris.toml"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "f5c147bd62399f62d933cebf52702085d9c960dfc5dc7508c64564c79c71708e"

@@ -1,0 +1,11 @@
+name = "preferred-gamerules.properties"
+filename = "preferred-gamerules.properties"
+side = "both"
+
+[download]
+url = "https://scentcraft-modpack.netlify.app/public/config/preferred-gamerules.properties"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "e22fe1ee3105da007779e7d0abb4ba781a09c6c6241e64bd0deed011bb95e433"

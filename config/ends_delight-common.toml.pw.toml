@@ -1,0 +1,11 @@
+name = "ends_delight-common.toml"
+filename = "ends_delight-common.toml"
+side = "both"
+
+[download]
+url = "https://scentcraft-modpack.netlify.app/public/config/ends_delight-common.toml"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "ea6b2e61cc298447fd4273e1d119f92cc744ca50ae22a21098043129c0f6ab2e"

@@ -1,0 +1,11 @@
+name = "enhanced_bes.properties"
+filename = "enhanced_bes.properties"
+side = "both"
+
+[download]
+url = "https://scentcraft-modpack.netlify.app/public/config/enhanced_bes.properties"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "d14771b05f7b2f7ec65ea6d91817f8419464efaca832b6bd33afb712b1886841"

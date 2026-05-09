@@ -1,0 +1,11 @@
+name = "entities.toml"
+filename = "entities.toml"
+side = "both"
+
+[download]
+url = "https://scentcraft-modpack.netlify.app/public/config/subtle_effects/entities.toml"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "96412613753ab3d841d97ddd7c5f6331ff2e05866d7cbe9a708a1648f0702297"

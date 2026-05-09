@@ -1,0 +1,11 @@
+name = "vinery_quest_bg.png"
+filename = "vinery_quest_bg.png"
+side = "both"
+
+[download]
+url = "https://scentcraft-modpack.netlify.app/public/config/openloader/resources/ftbquests/assets/ftbquests/textures/homestead/vinery_quest_bg.png"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "60c5a0ceddb937724eb4acc12f026dc1d97151b2968ce2960c8892ce97b87460"

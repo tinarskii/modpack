@@ -1,0 +1,11 @@
+name = "logbegone.toml"
+filename = "logbegone.toml"
+side = "both"
+
+[download]
+url = "https://scentcraft-modpack.netlify.app/public/config/logbegone.toml"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "8f5b621961f7d6de387cc29053d6aa01b59c74a3e960ae516117ab7f7a941265"

@@ -1,0 +1,11 @@
+name = "bookmarks.ini"
+filename = "bookmarks.ini"
+side = "both"
+
+[download]
+url = "https://scentcraft-modpack.netlify.app/public/config/jei/world/server/___________46c42a40/bookmarks.ini"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "f9928863d69362d72f1e9356fc39db761317635ba0c11e7fb0b06894b95e1900"

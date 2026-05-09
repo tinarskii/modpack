@@ -1,0 +1,11 @@
+name = "end_quest_bg.png"
+filename = "end_quest_bg.png"
+side = "both"
+
+[download]
+url = "https://scentcraft-modpack.netlify.app/public/config/openloader/resources/ftbquests/assets/ftbquests/textures/homestead/end_quest_bg.png"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "b1222e78dcf7a3c6ab42e86cc3c74825e5d53adc27bdf3aa4c91ae04276ea49d"

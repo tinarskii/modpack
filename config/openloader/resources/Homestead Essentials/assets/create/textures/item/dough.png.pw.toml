@@ -1,0 +1,11 @@
+name = "dough.png"
+filename = "dough.png"
+side = "both"
+
+[download]
+url = "https://scentcraft-modpack.netlify.app/public/config/openloader/resources/Homestead%20Essentials/assets/create/textures/item/dough.png"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "3dada5871dcc7f201f2ffd7b3026f2b125630b50d992cc3879006238c2b42fbd"

@@ -1,0 +1,11 @@
+name = "sophisticatedcore-client.toml"
+filename = "sophisticatedcore-client.toml"
+side = "both"
+
+[download]
+url = "https://scentcraft-modpack.netlify.app/public/config/sophisticatedcore-client.toml"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "20a722a82474b3491b31807e18d93f253c58e472c7c65c1913f921b78ee91063"

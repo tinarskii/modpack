@@ -1,0 +1,11 @@
+name = "squishy_friends.png"
+filename = "squishy_friends.png"
+side = "both"
+
+[download]
+url = "https://scentcraft-modpack.netlify.app/public/config/openloader/resources/ftbquests/assets/ftbquests/textures/homestead/squishy_friends.png"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "89521a40d5490f7fe3f489663a6489f273dcc0fd17e520f853e20cf3c74c2241"

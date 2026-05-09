@@ -1,0 +1,11 @@
+name = "soul.json"
+filename = "soul.json"
+side = "both"
+
+[download]
+url = "https://scentcraft-modpack.netlify.app/public/config/universal-graves/example_models/soul.json"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "4cefc36dc1ad8737b92db8c912bb8386e43ca0323e0515ac2ed13be5b5082af5"

@@ -1,0 +1,11 @@
+name = "axis.png"
+filename = "axis.png"
+side = "both"
+
+[download]
+url = "https://scentcraft-modpack.netlify.app/public/config/openloader/resources/Homestead%20Essentials/assets/create/textures/block/axis.png"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "dec7ce78a1f3f298ec4935402fc91956fedd6bcc5f89cbf5afbdb0d3b4388ac4"

@@ -1,0 +1,11 @@
+name = "vanillabackport-common.toml"
+filename = "vanillabackport-common.toml"
+side = "both"
+
+[download]
+url = "https://scentcraft-modpack.netlify.app/public/config/vanillabackport-common.toml"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "5006558e1de7092ad096d04246af234b68f59f119f8669bc793d4251c028e4a3"

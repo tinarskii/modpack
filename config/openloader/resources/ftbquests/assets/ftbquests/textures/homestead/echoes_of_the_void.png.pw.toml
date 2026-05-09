@@ -1,0 +1,11 @@
+name = "echoes_of_the_void.png"
+filename = "echoes_of_the_void.png"
+side = "both"
+
+[download]
+url = "https://scentcraft-modpack.netlify.app/public/config/openloader/resources/ftbquests/assets/ftbquests/textures/homestead/echoes_of_the_void.png"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "21042616c4d40550580d36fe4b146e8db2c69652c20a99d9d4ec87b023f04040"

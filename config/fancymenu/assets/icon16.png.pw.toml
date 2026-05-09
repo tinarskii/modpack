@@ -1,0 +1,11 @@
+name = "icon16.png"
+filename = "icon16.png"
+side = "both"
+
+[download]
+url = "https://scentcraft-modpack.netlify.app/public/config/fancymenu/assets/icon16.png"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "990b49810b6f3e3c17765c05cec30aefa57353eb0e84c8e8c99b837a148be64a"

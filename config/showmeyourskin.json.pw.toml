@@ -1,0 +1,11 @@
+name = "showmeyourskin.json"
+filename = "showmeyourskin.json"
+side = "both"
+
+[download]
+url = "https://scentcraft-modpack.netlify.app/public/config/showmeyourskin.json"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "2499d2b5d88d6d0c1ecf7aa869231e558159e0a218099a5f1d13263732da5af0"

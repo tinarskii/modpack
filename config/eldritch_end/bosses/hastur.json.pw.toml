@@ -1,0 +1,11 @@
+name = "hastur.json"
+filename = "hastur.json"
+side = "both"
+
+[download]
+url = "https://scentcraft-modpack.netlify.app/public/config/eldritch_end/bosses/hastur.json"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "cbaa3036c058f6fec9432ed52c2f4d6c2b9d4fb10505f31ecf5f19429af99be0"

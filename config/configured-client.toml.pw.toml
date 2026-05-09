@@ -1,0 +1,11 @@
+name = "configured-client.toml"
+filename = "configured-client.toml"
+side = "both"
+
+[download]
+url = "https://scentcraft-modpack.netlify.app/public/config/configured-client.toml"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "eb911eab8f1efdb7490dfe80ce95f3d704e0791fb433e2f8177b51860dfbb218"

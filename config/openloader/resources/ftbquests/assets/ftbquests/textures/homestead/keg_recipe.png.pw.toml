@@ -1,0 +1,11 @@
+name = "keg_recipe.png"
+filename = "keg_recipe.png"
+side = "both"
+
+[download]
+url = "https://scentcraft-modpack.netlify.app/public/config/openloader/resources/ftbquests/assets/ftbquests/textures/homestead/keg_recipe.png"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "a83b9dfa77d848de8eb8e673518470cabc1b24efe7acce551a6b2f022da048aa"

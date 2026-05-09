@@ -1,0 +1,11 @@
+name = "toolstats.json"
+filename = "toolstats.json"
+side = "both"
+
+[download]
+url = "https://scentcraft-modpack.netlify.app/public/config/toolstats.json"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "27a7daab8a6e86487fe1d019ffdf0411db6ea7438d99d6aa4d727094473857f9"

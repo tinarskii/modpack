@@ -1,0 +1,11 @@
+name = "veinmining-common.toml"
+filename = "veinmining-common.toml"
+side = "both"
+
+[download]
+url = "https://scentcraft-modpack.netlify.app/public/config/veinmining-common.toml"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "5e45dcf8c8d929e3ac98c64b923823e91e3b79485de2acb9ecd3b6ff27eca487"

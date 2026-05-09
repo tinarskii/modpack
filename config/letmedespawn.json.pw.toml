@@ -1,0 +1,11 @@
+name = "letmedespawn.json"
+filename = "letmedespawn.json"
+side = "both"
+
+[download]
+url = "https://scentcraft-modpack.netlify.app/public/config/letmedespawn.json"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "62bc543ca210653481556bf3319166c160222c08b7efa5f92d5541c000a241b1"

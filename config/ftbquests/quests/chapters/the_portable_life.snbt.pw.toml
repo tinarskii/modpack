@@ -1,0 +1,11 @@
+name = "the_portable_life.snbt"
+filename = "the_portable_life.snbt"
+side = "both"
+
+[download]
+url = "https://scentcraft-modpack.netlify.app/public/config/ftbquests/quests/chapters/the_portable_life.snbt"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "34fffb6f74544539916ccc21ddeb1df8c43b77b48762fb0ae112cb913725c4ca"

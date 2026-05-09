@@ -1,0 +1,11 @@
+name = "sidebar_buttons.json"
+filename = "sidebar_buttons.json"
+side = "both"
+
+[download]
+url = "https://scentcraft-modpack.netlify.app/public/config/sidebar_buttons.json"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "f37500e8d3440dc1da3307f0fbbb3a0c181794c844efab9cfeb16564b4f22f3d"

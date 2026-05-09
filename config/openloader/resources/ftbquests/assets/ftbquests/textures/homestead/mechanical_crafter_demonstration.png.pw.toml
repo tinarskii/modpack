@@ -1,0 +1,11 @@
+name = "mechanical_crafter_demonstration.png"
+filename = "mechanical_crafter_demonstration.png"
+side = "both"
+
+[download]
+url = "https://scentcraft-modpack.netlify.app/public/config/openloader/resources/ftbquests/assets/ftbquests/textures/homestead/mechanical_crafter_demonstration.png"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "9a953e6cc940b1e874e0ea4abb50e57edc35dedc4a53c4ffd927a82cbcc6b33c"

@@ -1,0 +1,11 @@
+name = "client.json"
+filename = "client.json"
+side = "both"
+
+[download]
+url = "https://scentcraft-modpack.netlify.app/public/config/fallingtrees/client.json"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "32250607fd16180bc354ee685dbd5739aecbc86a30872fc29cd36ac43ac2d4a5"

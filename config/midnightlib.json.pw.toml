@@ -1,0 +1,11 @@
+name = "midnightlib.json"
+filename = "midnightlib.json"
+side = "both"
+
+[download]
+url = "https://scentcraft-modpack.netlify.app/public/config/midnightlib.json"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "57b848fb6d7c03b6124297de49b1e4cb169e74db042c74aecf79f035ae2f3980"

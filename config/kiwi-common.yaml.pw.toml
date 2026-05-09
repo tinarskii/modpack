@@ -1,0 +1,11 @@
+name = "kiwi-common.yaml"
+filename = "kiwi-common.yaml"
+side = "both"
+
+[download]
+url = "https://scentcraft-modpack.netlify.app/public/config/kiwi-common.yaml"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "be8ffd6a4ed69300864736280b44e2b537fef40ee69fcdf8687403d9a13b8014"

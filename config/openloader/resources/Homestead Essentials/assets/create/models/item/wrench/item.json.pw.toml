@@ -1,0 +1,11 @@
+name = "item.json"
+filename = "item.json"
+side = "both"
+
+[download]
+url = "https://scentcraft-modpack.netlify.app/public/config/openloader/resources/Homestead%20Essentials/assets/create/models/item/wrench/item.json"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "07711c885a73f3869992915f38971909fc7826b2e9d198f02de692f0bbf1f56c"

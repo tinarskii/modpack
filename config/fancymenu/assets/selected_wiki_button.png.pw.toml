@@ -1,0 +1,11 @@
+name = "selected_wiki_button.png"
+filename = "selected_wiki_button.png"
+side = "both"
+
+[download]
+url = "https://scentcraft-modpack.netlify.app/public/config/fancymenu/assets/selected_wiki_button.png"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "7591385bfea035d4e34330de4d5a4b1324264f240d498f4885d7ba80ff8a1ece"

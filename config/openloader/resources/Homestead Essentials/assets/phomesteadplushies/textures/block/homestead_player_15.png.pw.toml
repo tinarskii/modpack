@@ -1,0 +1,11 @@
+name = "homestead_player_15.png"
+filename = "homestead_player_15.png"
+side = "both"
+
+[download]
+url = "https://scentcraft-modpack.netlify.app/public/config/openloader/resources/Homestead%20Essentials/assets/phomesteadplushies/textures/block/homestead_player_15.png"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "39532e853b0bbacd00d25b0686d0a3c1f0461469d26e61c1a727f4d3935b895a"

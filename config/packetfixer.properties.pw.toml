@@ -1,0 +1,11 @@
+name = "packetfixer.properties"
+filename = "packetfixer.properties"
+side = "both"
+
+[download]
+url = "https://scentcraft-modpack.netlify.app/public/config/packetfixer.properties"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "8321b637e6b681765002e9db474a3a54f6f1ee61cfb0f863f5872a8e0f642b2b"

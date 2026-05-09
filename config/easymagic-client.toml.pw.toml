@@ -1,0 +1,11 @@
+name = "easymagic-client.toml"
+filename = "easymagic-client.toml"
+side = "both"
+
+[download]
+url = "https://scentcraft-modpack.netlify.app/public/config/easymagic-client.toml"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "1b4a655f8a12caa9c1ca54fcf54da717609ee545322a13b38e5cc2fd980cef82"

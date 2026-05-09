@@ -1,0 +1,11 @@
+name = "welcomescreen.json5"
+filename = "welcomescreen.json5"
+side = "both"
+
+[download]
+url = "https://scentcraft-modpack.netlify.app/public/config/welcomescreen/welcomescreen/welcomescreen.json5"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "0c0a293fa74e1dafe1a235f3fb909c3b348348cf9c803583931bf4e4889c5847"

@@ -1,0 +1,11 @@
+name = "title_screen_noftb.txt"
+filename = "title_screen_noftb.txt"
+side = "both"
+
+[download]
+url = "https://scentcraft-modpack.netlify.app/public/config/fancymenu/customization/title_screen_noftb.txt"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "ed85fa2818a09e7304be9d8535e8ab0d83f180e53a80e9088575faf422a00fbc"

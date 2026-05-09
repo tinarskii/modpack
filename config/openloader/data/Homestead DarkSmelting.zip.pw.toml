@@ -1,0 +1,11 @@
+name = "Homestead DarkSmelting.zip"
+filename = "Homestead DarkSmelting.zip"
+side = "both"
+
+[download]
+url = "https://scentcraft-modpack.netlify.app/public/config/openloader/data/Homestead%20DarkSmelting.zip"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "739e29e9bce96c4df1b32b687cabd25322b8a02106e7f050a31411d907791fe7"

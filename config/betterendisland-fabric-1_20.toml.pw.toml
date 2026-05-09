@@ -1,0 +1,11 @@
+name = "betterendisland-fabric-1_20.toml"
+filename = "betterendisland-fabric-1_20.toml"
+side = "both"
+
+[download]
+url = "https://scentcraft-modpack.netlify.app/public/config/betterendisland-fabric-1_20.toml"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "8dc553b84ad47cefbfbe3706d2172a06caa2549ad8e6f151a3b2763ddf08936f"

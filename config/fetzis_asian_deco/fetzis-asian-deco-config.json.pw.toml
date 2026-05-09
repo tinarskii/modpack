@@ -1,0 +1,11 @@
+name = "fetzis-asian-deco-config.json"
+filename = "fetzis-asian-deco-config.json"
+side = "both"
+
+[download]
+url = "https://scentcraft-modpack.netlify.app/public/config/fetzis_asian_deco/fetzis-asian-deco-config.json"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "b8dfac76c6c6240ae61b42ec85e97a9f352946183e84088d545aa6baf4e3b0a3"

@@ -1,0 +1,11 @@
+name = "simple_copper_pipes.json5"
+filename = "simple_copper_pipes.json5"
+side = "both"
+
+[download]
+url = "https://scentcraft-modpack.netlify.app/public/config/simple_copper_pipes.json5"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "d9c4c3095334e9e9ba9d018cddbdc37842b8f93ed18a66b468bc53a778069252"

@@ -1,0 +1,11 @@
+name = "pack.mcmeta"
+filename = "pack.mcmeta"
+side = "both"
+
+[download]
+url = "https://scentcraft-modpack.netlify.app/public/config/openloader/resources/Homestead%20Essentials/pack.mcmeta"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "c8c1f4cf7084f3287bbcd713cc0cdde3d3211b650a7079406c901a36cdaadf2d"

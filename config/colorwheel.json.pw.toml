@@ -1,0 +1,11 @@
+name = "colorwheel.json"
+filename = "colorwheel.json"
+side = "both"
+
+[download]
+url = "https://scentcraft-modpack.netlify.app/public/config/colorwheel.json"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "9ab6611e934216b48c8dbf63f5407c797e8670966b2f74431265d1ffd35ab250"

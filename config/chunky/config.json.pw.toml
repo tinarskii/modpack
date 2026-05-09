@@ -1,0 +1,11 @@
+name = "config.json"
+filename = "config.json"
+side = "both"
+
+[download]
+url = "https://scentcraft-modpack.netlify.app/public/config/chunky/config.json"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "c7384a22595488f79f3125b22cc175eb729267267807a084479419349797abc8"

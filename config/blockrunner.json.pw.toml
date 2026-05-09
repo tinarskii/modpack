@@ -1,0 +1,11 @@
+name = "blockrunner.json"
+filename = "blockrunner.json"
+side = "both"
+
+[download]
+url = "https://scentcraft-modpack.netlify.app/public/config/blockrunner.json"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "754b977401f6a769eb3f2436852b02d57c21c3d3b8d3e4857b4b960912ca1bd1"
