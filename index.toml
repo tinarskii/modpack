@@ -4596,33 +4596,33 @@ hash = "41e364c29ac783e302b4dfd7e1832ca3d814870acdfc4591e4791eb80ce445f7"
 metafile = true
 
 [[files]]
-file = "mods/ftb-essentials.pw.toml"
-hash = "3916c26efd555e31b91585303cf9858c611a54b1225816870b47732a456bda07"
+file = "mods/ftb-essentials-fabric-2001.2.3.jar.pw.toml"
+hash = "0a3936baa293cd51b8fc54e8a91c26df91872f684049fffc8c830b034ccd913b"
 metafile = true
 
 [[files]]
-file = "mods/ftb-filter-system.pw.toml"
-hash = "a6619696faf68893d4d386c325e7494eb50b329ee9c2752f5d21e6895f7af60f"
+file = "mods/ftb-filter-system-fabric-20.0.1.jar.pw.toml"
+hash = "3a1e290d32f0ccbfc3450037c18273d2adf022cdbf9ee13bdcb1806179866364"
 metafile = true
 
 [[files]]
-file = "mods/ftb-library-fabric.pw.toml"
-hash = "7c4c132e1ffb20c72dfc2b9288cffc457df74417b264b83a007f969b323fecff"
+file = "mods/ftb-library-fabric-2001.2.9.jar.pw.toml"
+hash = "461d482ba255c022eada1c5f0fc5bf2dca7c87e52ade6a7daaa4b947217b8ff0"
 metafile = true
 
 [[files]]
-file = "mods/ftb-quests-fabric.pw.toml"
-hash = "2f1bd441d4d03bc5c56858c87a7d1d61b8482d8434c00c1803c89e25ef516f9f"
+file = "mods/ftb-quests-fabric-2001.4.13.jar.pw.toml"
+hash = "6578db16bc360d5a62f7f3e2302149c23b8d8606202379317c0e801b64e594d4"
 metafile = true
 
 [[files]]
-file = "mods/ftb-teams-fabric.pw.toml"
-hash = "8c2e6738d318980533ea582b51249f2bd3313eff1f5d1ca06766dc7bda1f89fe"
+file = "mods/ftb-teams-fabric-2001.3.1.jar.pw.toml"
+hash = "b9e6ba9cad683a630b0958c721c67143713848976892fa22ab5f897aa9f1e28f"
 metafile = true
 
 [[files]]
-file = "mods/ftb-xmod-compat.pw.toml"
-hash = "ee976759d1fe85a69a448bffcb391aa91354edc6ba969e0b1bb5b369691abf53"
+file = "mods/ftb-xmod-compat-fabric-2.1.3.jar.pw.toml"
+hash = "c8dea1953cbe39248ddc2d0077572b685ff9fa236457917cfe3d743f81413924"
 metafile = true
 
 [[files]]

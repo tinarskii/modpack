@@ -1,0 +1,11 @@
+name = "ftb-library-fabric-2001.2.9.jar"
+filename = "ftb-library-fabric-2001.2.9.jar"
+side = "both"
+
+[download]
+url = "https://r2.otternoon.com/mods/ftb-library-fabric-2001.2.9.jar"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "08e80107ae3f73c6608bece1f5a8e487031b5baf37a8f5d266928bd5cc1652ce"

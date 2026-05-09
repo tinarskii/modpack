@@ -1,0 +1,11 @@
+name = "ftb-teams-fabric-2001.3.1.jar"
+filename = "ftb-teams-fabric-2001.3.1.jar"
+side = "both"
+
+[download]
+url = "https://r2.otternoon.com/mods/ftb-teams-fabric-2001.3.1.jar"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "37d213480a558453d196a7837b6a44fb3006e61cd4bf3a6d86c2d25243ebb1c8"
