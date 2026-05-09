@@ -3981,6 +3981,11 @@ hash = "7e3c28b7a772ac2deee1964c0544c44ee49637f6767a219eedce02d661f25bd8"
 metafile = true
 
 [[files]]
+file = "mods/Eldritch_End-FABRIC-MC1.20.1-0.3.4.jar.pw.toml"
+hash = "11f9835ec52fa5ad0d04b2fad5a2d74cc78457d2530260ca55de4405d8ff3c10"
+metafile = true
+
+[[files]]
 file = "mods/accelerated-decay.pw.toml"
 hash = "040d4082526cfde97d2a8b16f1e95f102220a8ef274afb1939398217b1f645ea"
 metafile = true
@@ -4271,11 +4276,6 @@ hash = "429284603e4c5ca44777cb4ce2455477fcc1eee4dc9a4ae2f759c4895bf332e7"
 metafile = true
 
 [[files]]
-file = "mods/cozystudios-core.pw.toml"
-hash = "c9fa60633f0cc15cab333e357e6b408d6e254d6c917d1a209209ec264af9a74d"
-metafile = true
-
-[[files]]
 file = "mods/cozystudioscore-1.3-1.20.1.jar.pw.toml"
 hash = "d1b174e15be438d41e0b1bf05b46f38f85bbe337c4b64467b029737640be1753"
 metafile = true
@@ -4398,11 +4398,6 @@ metafile = true
 [[files]]
 file = "mods/diagonal-walls.pw.toml"
 hash = "11ac285fc1559ce51b09113860fec889076ba0c2eb42178209791d0a64f5bd90"
-metafile = true
-
-[[files]]
-file = "mods/diagonal-windows.pw.toml"
-hash = "f53127f5487705ab6eea8cd69a663f6d1cabc3d21aacfb0026d177c9842da4e0"
 metafile = true
 
 [[files]]
@@ -4688,11 +4683,6 @@ metafile = true
 [[files]]
 file = "mods/hexalia-1.2.82-1.20.1+fabric.jar.pw.toml"
 hash = "4e18a72e839e02700a4ee258628f77ef252dbc4a7309722ba3cb2924f9e72bd9"
-metafile = true
-
-[[files]]
-file = "mods/hexalia.pw.toml"
-hash = "981549fef3bf3c8c59204f4a37ab37b474abfb09dda06403d0debd0909d28df4"
 metafile = true
 
 [[files]]
