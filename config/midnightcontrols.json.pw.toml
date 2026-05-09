@@ -3,7 +3,7 @@ filename = "midnightcontrols.json"
 side = "both"
 
 [download]
-url = "https://scentcraft-modpack.netlify.app/public/config/midnightcontrols.json"
+url = "https://r2.otternoon.com/public/config/midnightcontrols.json"
 
 # A number of tools can generate the hash for you, including 7-zip and sha256sum
 # packwiz supports a number of hashes, including sha256, sha512, sha1 and md5

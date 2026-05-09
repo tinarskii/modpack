@@ -3,7 +3,7 @@ filename = "beacon.png"
 side = "both"
 
 [download]
-url = "https://scentcraft-modpack.netlify.app/public/resourcepacks/Homestead%20GUI/assets/minecraft/textures/gui/container/beacon.png"
+url = "https://r2.otternoon.com/public/resourcepacks/Homestead%20GUI/assets/minecraft/textures/gui/container/beacon.png"
 
 # A number of tools can generate the hash for you, including 7-zip and sha256sum
 # packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
