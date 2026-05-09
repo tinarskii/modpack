@@ -5611,11 +5611,6 @@ hash = "444a54f31f3596779f4926b42fa36fe95a761a477c9ff66d131a39373c02ab32"
 metafile = true
 
 [[files]]
-file = "mods/tokimistoolshed.pw.toml"
-hash = "9fdd96fc26ffbbaa9fbaded4e55f2b8680afc12c15048cf21b0a24df0fe2396e"
-metafile = true
-
-[[files]]
 file = "mods/toms-storage.pw.toml"
 hash = "c57e5187ae4382be6c19e596c8a3f4a7a2b4d566c16c6fc8ad8a0629dc9454d1"
 metafile = true
