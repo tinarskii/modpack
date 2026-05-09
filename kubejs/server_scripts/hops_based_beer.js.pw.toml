@@ -1,0 +1,11 @@
+name = "hops_based_beer.js"
+filename = "hops_based_beer.js"
+side = "both"
+
+[download]
+url = "https://scentcraft-modpack.netlify.app/public/kubejs/server_scripts/hops_based_beer.js"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "d3433fe3a605391187e16000ff57a30b417970ac8cedf824117c32823a7eaac5"

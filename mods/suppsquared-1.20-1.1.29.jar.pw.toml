@@ -1,0 +1,11 @@
+name = "suppsquared-1.20-1.1.29.jar"
+filename = "suppsquared-1.20-1.1.29.jar"
+side = "both"
+
+[download]
+url = "https://scentcraft-modpack.netlify.app/public/mods/suppsquared-1.20-1.1.29.jar"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "910e2468373c54eab7f3be5db4dcdf432d2b2e3309f020c66f6b0e1ade3cb70c"

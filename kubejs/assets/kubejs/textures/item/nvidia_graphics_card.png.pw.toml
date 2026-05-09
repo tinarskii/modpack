@@ -1,0 +1,11 @@
+name = "nvidia_graphics_card.png"
+filename = "nvidia_graphics_card.png"
+side = "both"
+
+[download]
+url = "https://scentcraft-modpack.netlify.app/public/kubejs/assets/kubejs/textures/item/nvidia_graphics_card.png"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "365ea9fa3d2c6481efce02ae73324dd6a4c97d1f539dfa90f56b39272e7b15b9"

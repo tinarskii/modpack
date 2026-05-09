@@ -20,6 +20,8 @@ async function getFiles(root: string) {
 const config_files = await getFiles("./public/config");
 const scripts_files = await getFiles("./public/scripts");
 const resourcepacks_files = await getFiles("./public/resourcepacks");
+const kubejs_files = await getFiles("./public/kubejs");
+const mods_files = await getFiles("./public/mods");
 
 async function sha256File(path) {
 	const file = Bun.file(path);
@@ -58,5 +60,13 @@ for (const file of scripts_files) {
 }
 
 for (const file of resourcepacks_files) {
+	await createContent(file);
+}
+
+for (const file of kubejs_files) {
+	await createContent(file);
+}
+
+for (const file of mods_files) {
 	await createContent(file);
 }

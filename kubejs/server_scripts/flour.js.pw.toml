@@ -1,0 +1,11 @@
+name = "flour.js"
+filename = "flour.js"
+side = "both"
+
+[download]
+url = "https://scentcraft-modpack.netlify.app/public/kubejs/server_scripts/flour.js"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "d37b0f74bdb57db810c54adb9b710bfc8e84c2495fe9805654b90d70b2ce8e71"

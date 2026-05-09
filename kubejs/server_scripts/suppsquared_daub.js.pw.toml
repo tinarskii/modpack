@@ -1,0 +1,11 @@
+name = "suppsquared_daub.js"
+filename = "suppsquared_daub.js"
+side = "both"
+
+[download]
+url = "https://scentcraft-modpack.netlify.app/public/kubejs/server_scripts/suppsquared_daub.js"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "905ffab7c842d8849798e612df7d99180ca338b912dd7f62735b811ea5563c83"

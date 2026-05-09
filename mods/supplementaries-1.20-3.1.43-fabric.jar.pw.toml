@@ -1,0 +1,11 @@
+name = "supplementaries-1.20-3.1.43-fabric.jar"
+filename = "supplementaries-1.20-3.1.43-fabric.jar"
+side = "both"
+
+[download]
+url = "https://scentcraft-modpack.netlify.app/public/mods/supplementaries-1.20-3.1.43-fabric.jar"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "93b865c213f64ce7fdc74888b79048ff3002434db5adb0af3b6d5bcad58f7b5d"

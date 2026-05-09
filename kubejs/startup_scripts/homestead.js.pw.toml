@@ -1,0 +1,11 @@
+name = "homestead.js"
+filename = "homestead.js"
+side = "both"
+
+[download]
+url = "https://scentcraft-modpack.netlify.app/public/kubejs/startup_scripts/homestead.js"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "c67ab0e999cfed3749e4123773f89980accdb19bb2a6b378dc6b6e30dbcddeb7"

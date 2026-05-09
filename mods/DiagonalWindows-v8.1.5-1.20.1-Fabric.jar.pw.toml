@@ -1,0 +1,11 @@
+name = "DiagonalWindows-v8.1.5-1.20.1-Fabric.jar"
+filename = "DiagonalWindows-v8.1.5-1.20.1-Fabric.jar"
+side = "both"
+
+[download]
+url = "https://scentcraft-modpack.netlify.app/public/mods/DiagonalWindows-v8.1.5-1.20.1-Fabric.jar"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "c64343bf1b7132d71ff4e5904ac6aebefd770256480adc0e8472fdc5e18f4376"

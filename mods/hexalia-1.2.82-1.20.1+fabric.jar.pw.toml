@@ -1,0 +1,11 @@
+name = "hexalia-1.2.82-1.20.1+fabric.jar"
+filename = "hexalia-1.2.82-1.20.1+fabric.jar"
+side = "both"
+
+[download]
+url = "https://scentcraft-modpack.netlify.app/public/mods/hexalia-1.2.82-1.20.1%2Bfabric.jar"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "1c5e008a1d1b733521f1633f7f12bc0a473cee261512e4679c1dc3fd6db19326"

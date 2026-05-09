@@ -1,0 +1,11 @@
+name = "shiitake_mushroom_soup.js"
+filename = "shiitake_mushroom_soup.js"
+side = "both"
+
+[download]
+url = "https://scentcraft-modpack.netlify.app/public/kubejs/startup_scripts/shiitake_mushroom_soup.js"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "46f7c9b0eb9a4fde4461184ad9b649e25998178cc396e66d11e5be0b1ffd4626"

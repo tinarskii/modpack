@@ -1,0 +1,11 @@
+name = "ram.png"
+filename = "ram.png"
+side = "both"
+
+[download]
+url = "https://scentcraft-modpack.netlify.app/public/kubejs/assets/kubejs/textures/item/ram.png"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "f26dd49f932cb1c32d7bac45de53ec1d77f96173658fb2ffcff3badb94f826d4"

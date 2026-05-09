@@ -1,0 +1,11 @@
+name = "lyn.js"
+filename = "lyn.js"
+side = "both"
+
+[download]
+url = "https://scentcraft-modpack.netlify.app/public/kubejs/startup_scripts/lyn.js"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "8362a3b9f43177fe4244071bb4ecab459a66149f9a58c97df885e3ddeaf462c6"

@@ -1,0 +1,11 @@
+name = "tokimistoolshed-fabric-1.0+mc1.20.1.jar"
+filename = "tokimistoolshed-fabric-1.0+mc1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://scentcraft-modpack.netlify.app/public/mods/tokimistoolshed-fabric-1.0%2Bmc1.20.1.jar"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "a9885347f33d24cfc7f80a4149476435ba62cff32a920118388a4ecce33382ea"

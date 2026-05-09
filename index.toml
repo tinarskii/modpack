@@ -18,7 +18,7 @@ hash = "07768a58a3a8efbcb1735f1ad8f1694f2d539c83975a57c3b99760d49076aa7c"
 
 [[files]]
 file = "build-toml.ts"
-hash = "819a58fba7ca0ba100c1fb682ca1cedf67c1acbe38e2eae8f647f787afe64885"
+hash = "2d34ded6d1dc1e920a344fdb54be5a5ab439afe6030130e6fafce369b3a1ca98"
 
 [[files]]
 file = "config/CoroUtil/General.toml.pw.toml"
@@ -3856,8 +3856,148 @@ hash = "ed0d2f69200d65039b2102281cc2aef17503468e9fc2d868841522d7373f5085"
 metafile = true
 
 [[files]]
+file = "kubejs/README.txt.pw.toml"
+hash = "4e1dd5b8e280da6a989f390c775c23f8b9de64cc67328982b7e29e0f0eda4394"
+metafile = true
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/amd_drivers.png.pw.toml"
+hash = "ec4e4e13984c3a4295a5b2b004ac13ac1f7765a837b26d8e4d12a8ff4d03380a"
+metafile = true
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/nvidia_graphics_card.png.pw.toml"
+hash = "d4e1ed704267697ed379c06b204329858f8df57a0ed68663a704be0dee542f32"
+metafile = true
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/obsidian_upgrade_smithing_template.png.pw.toml"
+hash = "fd24984dfa7e6296f9ceee8ff6ad27a20f27f999f2c8a44ff6fdfb026238dda7"
+metafile = true
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/ram.png.pw.toml"
+hash = "c2e58689095cba0932b47e9fb45c6121090d45602e4d376cf9454cbfb50d7398"
+metafile = true
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/shiitake_mushroom_soup.png.pw.toml"
+hash = "f2c96bb70d8f7cdd89cfc7c9e0c8749b1f3f1c993fa339749572df0e022eabb6"
+metafile = true
+
+[[files]]
+file = "kubejs/client_scripts/example.js.pw.toml"
+hash = "996ebbec3bdc97c474c8194bb95fce7fb3474e496db1f6d41596abf074df3b7f"
+metafile = true
+
+[[files]]
+file = "kubejs/config/client.properties.pw.toml"
+hash = "2cd23e0d6fae3a5f39f4b88f353300eb110d425b731baf0fe4272128c6ebf965"
+metafile = true
+
+[[files]]
+file = "kubejs/config/common.properties.pw.toml"
+hash = "91714f6c111e748164bc273339485b2fbae204abaa1ad9a9ed05aa175d320d87"
+metafile = true
+
+[[files]]
+file = "kubejs/server_scripts/amethyst.js.pw.toml"
+hash = "82a443357390bf28e06680b425a1c0a35e24a402066d94fb33ea86b5085957bd"
+metafile = true
+
+[[files]]
+file = "kubejs/server_scripts/cluster_recipes.js.pw.toml"
+hash = "c0e6ce7c634bb9cf8b30f3630acf8c6e65ced235991fc8de3c244aa74603fbd1"
+metafile = true
+
+[[files]]
+file = "kubejs/server_scripts/copper_nugget.js.pw.toml"
+hash = "c56abc33bba4ef004841260bad438a1abf781d46dc5a0e4c7bd32a9ce00f5578"
+metafile = true
+
+[[files]]
+file = "kubejs/server_scripts/flour.js.pw.toml"
+hash = "df76f883b73f485d8df383babed85b1b39eca0d8ae392e3d6befebca7d197840"
+metafile = true
+
+[[files]]
+file = "kubejs/server_scripts/furnace_fix.js.pw.toml"
+hash = "a7638616027bc8b4910a148156bf6a467aec2fd748a31f2419ea7ffa05acadcb"
+metafile = true
+
+[[files]]
+file = "kubejs/server_scripts/hops_based_beer.js.pw.toml"
+hash = "0c3a4a1fb95231c3c93c2f75df768328bf3bf80896b398b107562a6e96ddbf68"
+metafile = true
+
+[[files]]
+file = "kubejs/server_scripts/resin.js.pw.toml"
+hash = "2f7d2886936a44dd4bb257f920635f746af10fdd9ad0726147923047ccc0808e"
+metafile = true
+
+[[files]]
+file = "kubejs/server_scripts/string_fix.js.pw.toml"
+hash = "c7f3bf9c55ec411ef886952efbbd9cf04b5c98f96c1ec3116a40623ddd0077d0"
+metafile = true
+
+[[files]]
+file = "kubejs/server_scripts/supplementaries_presents.js.pw.toml"
+hash = "c4bd439df325b1f1fd58032cc8dd0fd20a6a476c95d11760b755f8c3222f5cb7"
+metafile = true
+
+[[files]]
+file = "kubejs/server_scripts/suppsquared_daub.js.pw.toml"
+hash = "2b92c7fbc1e9eb2152874bdb27692464636ebb3a7c756c170fc2f528adf198fb"
+metafile = true
+
+[[files]]
+file = "kubejs/startup_scripts/amd_drivers.js.pw.toml"
+hash = "4c1fdea4617c09478ebfa7e9b3ef2da90feadf911744ba1ddc8bd02c1fd5a130"
+metafile = true
+
+[[files]]
+file = "kubejs/startup_scripts/homestead.js.pw.toml"
+hash = "e005017e6c2f5960075b694eecbadbbda8516429fa84db547586bb2bb24dccb0"
+metafile = true
+
+[[files]]
+file = "kubejs/startup_scripts/lyn.js.pw.toml"
+hash = "66e3222fa40c8f3c81751f5a67cd445ad9d996047f6b7b76d2e1ffd6d3d0de15"
+metafile = true
+
+[[files]]
+file = "kubejs/startup_scripts/mortar.js.pw.toml"
+hash = "2ac02c74fcc5d9e87ea2b351514808b133f70dcbd3a5fcd9bea721f2205af7fd"
+metafile = true
+
+[[files]]
+file = "kubejs/startup_scripts/nvidia_graphics_card.js.pw.toml"
+hash = "dbfe52aef52f0d4c2ffb4d01512939b58898539b35bbc2bf1e6c09cbfa9fbe9b"
+metafile = true
+
+[[files]]
+file = "kubejs/startup_scripts/obsidian_template.js.pw.toml"
+hash = "8ad687123a585edf9f174e332c496990ab30acd87cbd4d45c483aca832c84126"
+metafile = true
+
+[[files]]
+file = "kubejs/startup_scripts/ram.js.pw.toml"
+hash = "6eac6924eadc91e2339f1fa9018a31624ad40d6d7f74dd8272a94311f0f9f632"
+metafile = true
+
+[[files]]
+file = "kubejs/startup_scripts/shiitake_mushroom_soup.js.pw.toml"
+hash = "4b1446efcb7768c961dde240363be273a06e878296d3d113be32d440e39f68c4"
+metafile = true
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "f303dd184afae5d86b675faf853c52edd3ffa1e8b066e7ca68a6c7410a777865"
+metafile = true
+
+[[files]]
+file = "mods/DiagonalWindows-v8.1.5-1.20.1-Fabric.jar.pw.toml"
+hash = "8c0c21ac579fac5f423652197d1443742115e50e5ccd14f3b803bed30efd179a"
 metafile = true
 
 [[files]]
@@ -3931,8 +4071,8 @@ hash = "064b0019e4f545599e5af2a4f74f11777086fce18e68f0b93dd77136ce7c0193"
 metafile = true
 
 [[files]]
-file = "mods/azurelib.pw.toml"
-hash = "10c0e7564673946dc2895ca23e247c170df281716c7d9bed4f6f61da1adf6af8"
+file = "mods/azurelib-fabric-1.20.1-3.0.27.jar.pw.toml"
+hash = "399f3e1da9206ed7e5a45126fcf31fcfcced53b0a43a7a86b011fae6f9c9ece2"
 metafile = true
 
 [[files]]
@@ -4153,6 +4293,11 @@ metafile = true
 [[files]]
 file = "mods/cozystudios-core.pw.toml"
 hash = "c9fa60633f0cc15cab333e357e6b408d6e254d6c917d1a209209ec264af9a74d"
+metafile = true
+
+[[files]]
+file = "mods/cozystudioscore-1.3-1.20.1.jar.pw.toml"
+hash = "04c2cbe2e522a71710024921d1647e108ae049a6b11019e1dfb2f05a57e7e031"
 metafile = true
 
 [[files]]
@@ -4558,6 +4703,11 @@ metafile = true
 [[files]]
 file = "mods/hearth-and-home.pw.toml"
 hash = "8969ef7b75fa8cd7d0f6dc68c9e69065b7be85d0b91fe26db2881f8f0a1abcd5"
+metafile = true
+
+[[files]]
+file = "mods/hexalia-1.2.82-1.20.1+fabric.jar.pw.toml"
+hash = "e61cb37b49e4afbaffb220dc49de098dd813905310c0c7473d37493a07bdc5d5"
 metafile = true
 
 [[files]]
@@ -5436,13 +5586,13 @@ hash = "7dbe736e6c0aba8639a4e501a7e78771a8d592ab8f2baa16c485fed90a57648a"
 metafile = true
 
 [[files]]
-file = "mods/supplementaries-squared.pw.toml"
-hash = "d6527df25f7bde5556b71899b89ce85830cd29ff529bd5845ee41a51cc4441ef"
+file = "mods/supplementaries-1.20-3.1.43-fabric.jar.pw.toml"
+hash = "d181f3fd5ba33766e69d9883c46d7adf5250eaee9ec0be142c87dc3378fc2ad1"
 metafile = true
 
 [[files]]
-file = "mods/supplementaries.pw.toml"
-hash = "67fc732c5360d30b216d01fffd0dbc7fc6ce2459855a09f6550100723408fe6f"
+file = "mods/suppsquared-1.20-1.1.29.jar.pw.toml"
+hash = "6844b16228b81c1c20e7ca854532d5a4d9c66665b1265097d4186246ac53372f"
 metafile = true
 
 [[files]]
@@ -5483,6 +5633,11 @@ metafile = true
 [[files]]
 file = "mods/tiny-item-animations.pw.toml"
 hash = "1bddd2c7698c383126833f6ce562321349a5a9d5ba4e82342c94471e5f7b0694"
+metafile = true
+
+[[files]]
+file = "mods/tokimistoolshed-fabric-1.0+mc1.20.1.jar.pw.toml"
+hash = "e63e82af678c369af798acc1c97fc957452290c7761e14267100e8092e212408"
 metafile = true
 
 [[files]]
@@ -8764,8 +8919,156 @@ file = "public/config/zoomify.json"
 hash = "82caee9b1f532332c798ee216c9a9ba5857c35e58afacba44946d9264fc05b36"
 
 [[files]]
+file = "public/defaultconfigs/ftblibrary/ftblibrary-client.snbt"
+hash = "7cf44bc2b79d6798ac1b0bca7dc52ab570a14ade2c11eccf4e1272ce6e081001"
+
+[[files]]
+file = "public/defaultconfigs/ftbquests/client-config.snbt"
+hash = "9e81651d680291e2c8ab65f4a1168a9f8ccb974d688cf8203d9abf843c8bd346"
+
+[[files]]
+file = "public/defaultconfigs/ftbxmodcompat/ftbxmodcompat.snbt"
+hash = "a16630bdc2fbecab73b939d2adb903481b3c1f84bf1bd02cc2bed1d1189f9770"
+
+[[files]]
 file = "public/icon.png"
 hash = "32af9b5ef2c4116ece145498996af2f036877b2e819c94e8e942b0ffb5f483ce"
+
+[[files]]
+file = "public/kubejs/README.txt"
+hash = "989f3737ae4621b8ff6730bce4cbeeee756921e7e510e0c281c8a350501d98af"
+
+[[files]]
+file = "public/kubejs/assets/kubejs/textures/item/amd_drivers.png"
+hash = "1f97a8df3258d47c4930c088f7335a80e776c670bbe77d391a1ce0f3f4641062"
+
+[[files]]
+file = "public/kubejs/assets/kubejs/textures/item/nvidia_graphics_card.png"
+hash = "365ea9fa3d2c6481efce02ae73324dd6a4c97d1f539dfa90f56b39272e7b15b9"
+
+[[files]]
+file = "public/kubejs/assets/kubejs/textures/item/obsidian_upgrade_smithing_template.png"
+hash = "2b9a1ee018a07b221226a40c41af328c9003501009ee51246aa932fdc415a69d"
+
+[[files]]
+file = "public/kubejs/assets/kubejs/textures/item/ram.png"
+hash = "f26dd49f932cb1c32d7bac45de53ec1d77f96173658fb2ffcff3badb94f826d4"
+
+[[files]]
+file = "public/kubejs/assets/kubejs/textures/item/shiitake_mushroom_soup.png"
+hash = "9b1ab11b68d4d37b1182de094f5eda47ef02e2cde7e7c76a97500a7b469be54b"
+
+[[files]]
+file = "public/kubejs/client_scripts/example.js"
+hash = "152019ed6e0410a82805a95ea10f1ad1a17beaf2b50864d89b8fa9d172129ac7"
+
+[[files]]
+file = "public/kubejs/config/client.properties"
+hash = "10c796dad0e37f594a5a8faf64f93a4c78f838f84632d248bbeff982b980f3c9"
+
+[[files]]
+file = "public/kubejs/config/common.properties"
+hash = "a2d93fd4fe37ace988afd9fb21cf95fdbcc138424060f262fb29654744866baf"
+
+[[files]]
+file = "public/kubejs/server_scripts/amethyst.js"
+hash = "e7e98d1778363e6200959a113cfd62a5f0a2bfd8b4c18aa6b95cd868e750a8e2"
+
+[[files]]
+file = "public/kubejs/server_scripts/cluster_recipes.js"
+hash = "fb705c517bddfbaed94033430c665aa1d0c50e4a5bebf7ee05b8c927337a8687"
+
+[[files]]
+file = "public/kubejs/server_scripts/copper_nugget.js"
+hash = "4fc329485333d65b2400052de80a8782f0a2a27d7246885d48b83315c91417fe"
+
+[[files]]
+file = "public/kubejs/server_scripts/flour.js"
+hash = "d37b0f74bdb57db810c54adb9b710bfc8e84c2495fe9805654b90d70b2ce8e71"
+
+[[files]]
+file = "public/kubejs/server_scripts/furnace_fix.js"
+hash = "88fd2ed247e6d8dc32834335e198b261baf0fcd6d0ed0aac159fee80ab75e0de"
+
+[[files]]
+file = "public/kubejs/server_scripts/hops_based_beer.js"
+hash = "d3433fe3a605391187e16000ff57a30b417970ac8cedf824117c32823a7eaac5"
+
+[[files]]
+file = "public/kubejs/server_scripts/resin.js"
+hash = "111eb712101e160e96a7d6ff8d3125f6c0df3909428fad53eb26401d0c36e599"
+
+[[files]]
+file = "public/kubejs/server_scripts/string_fix.js"
+hash = "e50be98fb05801a500e94ccaacdaa0ab30be6fa321a57dba0c51b3a1caaab0ff"
+
+[[files]]
+file = "public/kubejs/server_scripts/supplementaries_presents.js"
+hash = "e61d958bdb14bc82858ef1d8d396690b49a603ad37324f91047e656a997a86ef"
+
+[[files]]
+file = "public/kubejs/server_scripts/suppsquared_daub.js"
+hash = "905ffab7c842d8849798e612df7d99180ca338b912dd7f62735b811ea5563c83"
+
+[[files]]
+file = "public/kubejs/startup_scripts/amd_drivers.js"
+hash = "1421c6ca0cf25a4e14b2edc4259e291670d13c804cc52c58eb061b4147a5eaf9"
+
+[[files]]
+file = "public/kubejs/startup_scripts/homestead.js"
+hash = "c67ab0e999cfed3749e4123773f89980accdb19bb2a6b378dc6b6e30dbcddeb7"
+
+[[files]]
+file = "public/kubejs/startup_scripts/lyn.js"
+hash = "8362a3b9f43177fe4244071bb4ecab459a66149f9a58c97df885e3ddeaf462c6"
+
+[[files]]
+file = "public/kubejs/startup_scripts/mortar.js"
+hash = "433562d748a21933545ba1c6c4a4caec36e7c4b24575451d185371fc9e5effc2"
+
+[[files]]
+file = "public/kubejs/startup_scripts/nvidia_graphics_card.js"
+hash = "efa59ecd7f797d6e5bc12e04c42a76850ae0906a38d51c08cbc806cfda4faee2"
+
+[[files]]
+file = "public/kubejs/startup_scripts/obsidian_template.js"
+hash = "53c0b57d86d54b55fd8c9ce0fe58e1443b4ce1037c8bdfd14a24e5b2cb40d0bd"
+
+[[files]]
+file = "public/kubejs/startup_scripts/ram.js"
+hash = "d04c91c0a4f86ef4fc72387110abe617a66769fe27e8606ac541fb73d2de13c9"
+
+[[files]]
+file = "public/kubejs/startup_scripts/shiitake_mushroom_soup.js"
+hash = "46f7c9b0eb9a4fde4461184ad9b649e25998178cc396e66d11e5be0b1ffd4626"
+
+[[files]]
+file = "public/mods/DiagonalWindows-v8.1.5-1.20.1-Fabric.jar"
+hash = "c64343bf1b7132d71ff4e5904ac6aebefd770256480adc0e8472fdc5e18f4376"
+
+[[files]]
+file = "public/mods/azurelib-fabric-1.20.1-3.0.27.jar"
+hash = "503f54351ebac2eabf31ab47364aad4a7ed1d4fc2bb5f93bc443735456f1e5b3"
+
+[[files]]
+file = "public/mods/cozystudioscore-1.3-1.20.1.jar"
+hash = "b8e7a5dda500af9bdf26b23494107f16552e76b4eeaed6413bdf01c7ddab35a7"
+
+[[files]]
+file = "public/mods/hexalia-1.2.82-1.20.1+fabric.jar"
+hash = "1c5e008a1d1b733521f1633f7f12bc0a473cee261512e4679c1dc3fd6db19326"
+
+[[files]]
+file = "public/mods/supplementaries-1.20-3.1.43-fabric.jar"
+hash = "93b865c213f64ce7fdc74888b79048ff3002434db5adb0af3b6d5bcad58f7b5d"
+
+[[files]]
+file = "public/mods/suppsquared-1.20-1.1.29.jar"
+hash = "910e2468373c54eab7f3be5db4dcdf432d2b2e3309f020c66f6b0e1ade3cb70c"
+
+[[files]]
+file = "public/mods/tokimistoolshed-fabric-1.0+mc1.20.1.jar"
+hash = "a9885347f33d24cfc7f80a4149476435ba62cff32a920118388a4ecce33382ea"
 
 [[files]]
 file = "public/resourcepacks/Homestead GUI/assets/appleskin/appleskin.png"

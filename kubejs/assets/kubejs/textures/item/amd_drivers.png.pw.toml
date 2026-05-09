@@ -1,0 +1,11 @@
+name = "amd_drivers.png"
+filename = "amd_drivers.png"
+side = "both"
+
+[download]
+url = "https://scentcraft-modpack.netlify.app/public/kubejs/assets/kubejs/textures/item/amd_drivers.png"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "1f97a8df3258d47c4930c088f7335a80e776c670bbe77d391a1ce0f3f4641062"

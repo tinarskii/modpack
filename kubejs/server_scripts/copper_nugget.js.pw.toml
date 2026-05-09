@@ -1,0 +1,11 @@
+name = "copper_nugget.js"
+filename = "copper_nugget.js"
+side = "both"
+
+[download]
+url = "https://scentcraft-modpack.netlify.app/public/kubejs/server_scripts/copper_nugget.js"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "4fc329485333d65b2400052de80a8782f0a2a27d7246885d48b83315c91417fe"

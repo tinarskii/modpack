@@ -1,0 +1,11 @@
+name = "supplementaries_presents.js"
+filename = "supplementaries_presents.js"
+side = "both"
+
+[download]
+url = "https://scentcraft-modpack.netlify.app/public/kubejs/server_scripts/supplementaries_presents.js"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "e61d958bdb14bc82858ef1d8d396690b49a603ad37324f91047e656a997a86ef"
