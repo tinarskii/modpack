@@ -1,0 +1,7 @@
+public/
+.netlify/
+.idea/
+README.md
+build-toml.ts
+.gitignore
+.packwizignore
