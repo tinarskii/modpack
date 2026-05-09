@@ -1,0 +1,11 @@
+name = "backpack_border.png"
+filename = "backpack_border.png"
+side = "both"
+
+[download]
+url = "https://scentcraft-modpack.netlify.app/public/resourcepacks/Homestead%20GUI/assets/sophisticatedbackpacks/textures/block/backpack_border.png"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "854eb8b2f409e25e66d285cbdb4f3b60007503921f6df22cd5d1f8e4c9c80493"

@@ -1,0 +1,11 @@
+name = "slot.png"
+filename = "slot.png"
+side = "both"
+
+[download]
+url = "https://scentcraft-modpack.netlify.app/public/resourcepacks/Homestead%20GUI/assets/trashslot/textures/gui/slot.png"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "1e4191826fc56d63948a51e471a4570d107c52e4b25e961a1776f12a692d4e34"

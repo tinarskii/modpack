@@ -1,9 +1,9 @@
-name = "hammer_changes"
+name = "hammer_changes.zs"
 filename = "hammer_changes.zs"
 side = "both"
 
 [download]
-url = "https://scentcraft-modpack.netlify.app/public/compat/hammer_changes.zs"
+url = "https://scentcraft-modpack.netlify.app/public/scripts/mods/Compat/hammer_changes.zs"
 
 # A number of tools can generate the hash for you, including 7-zip and sha256sum
 # packwiz supports a number of hashes, including sha256, sha512, sha1 and md5

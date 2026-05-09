@@ -1,0 +1,11 @@
+name = "backpack_left_pouch.json"
+filename = "backpack_left_pouch.json"
+side = "both"
+
+[download]
+url = "https://scentcraft-modpack.netlify.app/public/resourcepacks/Homestead%20GUI/assets/sophisticatedbackpacks/models/block/backpack_left_pouch.json"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "587171df3ed3c72060a3430dbb8562b49abbdc51aa9286bb3c1eb89239ab6e59"

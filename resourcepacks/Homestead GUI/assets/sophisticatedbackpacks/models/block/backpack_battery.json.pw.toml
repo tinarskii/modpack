@@ -1,0 +1,11 @@
+name = "backpack_battery.json"
+filename = "backpack_battery.json"
+side = "both"
+
+[download]
+url = "https://scentcraft-modpack.netlify.app/public/resourcepacks/Homestead%20GUI/assets/sophisticatedbackpacks/models/block/backpack_battery.json"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "1bd3e3fb722de130ad654381961e22be80e573f3e413010fee0cf4855d1359ac"

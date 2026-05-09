@@ -1,0 +1,11 @@
+name = "glove_mirrored.png"
+filename = "glove_mirrored.png"
+side = "both"
+
+[download]
+url = "https://scentcraft-modpack.netlify.app/public/resourcepacks/Homestead%20GUI/assets/trinkets/textures/gui/slots/glove_mirrored.png"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "796687fa687a45059efd507836d148e202a77bb079322a0aecf2650cb9400315"

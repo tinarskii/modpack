@@ -1,0 +1,11 @@
+name = "diffuser_upgrade.png"
+filename = "diffuser_upgrade.png"
+side = "both"
+
+[download]
+url = "https://scentcraft-modpack.netlify.app/public/resourcepacks/Homestead%20GUI/assets/sophisticatedbackpacks/textures/item/diffuser_upgrade.png"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "369df205c9e9db691364663d44a1862c1f5d639ca14b9c0ff6309cc82e3d4bd9"

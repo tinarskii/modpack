@@ -1,0 +1,11 @@
+name = "crafting_table.png"
+filename = "crafting_table.png"
+side = "both"
+
+[download]
+url = "https://scentcraft-modpack.netlify.app/public/resourcepacks/Homestead%20GUI/assets/minecraft/textures/gui/container/crafting_table.png"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "6b1437f9281a81b6e485b46ab57ba3b9a9b788bd0a9f4abf99b8e7a8c8df591a"

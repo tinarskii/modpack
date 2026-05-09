@@ -1,9 +1,9 @@
-name = "remove_prismarite_cluster_trim"
+name = "remove_prismarite_cluster_trim.zs"
 filename = "remove_prismarite_cluster_trim.zs"
 side = "both"
 
 [download]
-url = "https://scentcraft-modpack.netlify.app/public/compat/remove_prismarite_cluster_trim.zs"
+url = "https://scentcraft-modpack.netlify.app/public/scripts/mods/Compat/remove_prismarite_cluster_trim.zs"
 
 # A number of tools can generate the hash for you, including 7-zip and sha256sum
 # packwiz supports a number of hashes, including sha256, sha512, sha1 and md5

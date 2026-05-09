@@ -1,0 +1,11 @@
+name = "mama.zs"
+filename = "mama.zs"
+side = "both"
+
+[download]
+url = "https://scentcraft-modpack.netlify.app/public/scripts/mods/Custom/mama.zs"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "f2946c83fa07888c79611d21e0ac34e431abe4d664f891a5dfc6d5f5138d792d"

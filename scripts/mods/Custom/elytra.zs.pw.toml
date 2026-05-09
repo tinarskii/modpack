@@ -1,0 +1,11 @@
+name = "elytra.zs"
+filename = "elytra.zs"
+side = "both"
+
+[download]
+url = "https://scentcraft-modpack.netlify.app/public/scripts/mods/Custom/elytra.zs"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "4ede4510a2a3b5a1b377696fcb6b76eed2ef57b0e8cfcb6bcd203d8556439979"

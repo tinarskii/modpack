@@ -1,9 +1,9 @@
-name = "butterfly_wings"
+name = "butterfly_wings.zs"
 filename = "butterfly_wings.zs"
 side = "both"
 
 [download]
-url = "https://scentcraft-modpack.netlify.app/public/compat/butterfly_wings.zs"
+url = "https://scentcraft-modpack.netlify.app/public/scripts/mods/Compat/butterfly_wings.zs"
 
 # A number of tools can generate the hash for you, including 7-zip and sha256sum
 # packwiz supports a number of hashes, including sha256, sha512, sha1 and md5

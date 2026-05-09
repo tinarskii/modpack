@@ -1,0 +1,11 @@
+name = "silver_additions.zs"
+filename = "silver_additions.zs"
+side = "both"
+
+[download]
+url = "https://scentcraft-modpack.netlify.app/public/scripts/mods/Create/ore_processing/silver_additions.zs"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "686711fbb8ff9f8ad42da8102cd177cca6946732b236c1391edd783e79693f80"

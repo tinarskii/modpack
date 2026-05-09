@@ -1,0 +1,11 @@
+name = "toadstool.zs"
+filename = "toadstool.zs"
+side = "both"
+
+[download]
+url = "https://scentcraft-modpack.netlify.app/public/scripts/mods/Custom/toadstool.zs"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "a5013207aa25c9e2fe3a2a80c678ea1a322258d70127b5384ba23228ec8e63d2"

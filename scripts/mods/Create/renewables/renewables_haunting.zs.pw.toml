@@ -1,0 +1,11 @@
+name = "renewables_haunting.zs"
+filename = "renewables_haunting.zs"
+side = "both"
+
+[download]
+url = "https://scentcraft-modpack.netlify.app/public/scripts/mods/Create/renewables/renewables_haunting.zs"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "a0ed6a5b2708d4edd6bd8d4691c0cf965894d422e0d4f64b3d370e46239aeffb"

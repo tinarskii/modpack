@@ -1,0 +1,11 @@
+name = "villager2.png"
+filename = "villager2.png"
+side = "both"
+
+[download]
+url = "https://scentcraft-modpack.netlify.app/public/resourcepacks/Homestead%20GUI/assets/minecraft/textures/gui/container/villager2.png"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "9b919d3d58576f015f26bfe4e40da384b390812d0a8c23b252c271244a189e47"

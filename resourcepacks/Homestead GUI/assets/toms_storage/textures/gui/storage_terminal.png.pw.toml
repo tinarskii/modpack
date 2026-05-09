@@ -1,0 +1,11 @@
+name = "storage_terminal.png"
+filename = "storage_terminal.png"
+side = "both"
+
+[download]
+url = "https://scentcraft-modpack.netlify.app/public/resourcepacks/Homestead%20GUI/assets/toms_storage/textures/gui/storage_terminal.png"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "406b502020ba8b42784a597f327019cb214b42fcc2a25b14800f1cd2e45f872f"

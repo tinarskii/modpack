@@ -1,0 +1,11 @@
+name = "renewables_mixing.zs"
+filename = "renewables_mixing.zs"
+side = "both"
+
+[download]
+url = "https://scentcraft-modpack.netlify.app/public/scripts/mods/Create/renewables/renewables_mixing.zs"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "d2d9ed171d8f15eec56991e308614df56866448ec6cbd03d0fc80710f69a8e39"

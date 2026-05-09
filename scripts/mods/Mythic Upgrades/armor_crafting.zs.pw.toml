@@ -1,0 +1,11 @@
+name = "armor_crafting.zs"
+filename = "armor_crafting.zs"
+side = "both"
+
+[download]
+url = "https://scentcraft-modpack.netlify.app/public/scripts/mods/Mythic%20Upgrades/armor_crafting.zs"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "79fd9a304d0d1669cfec2321bb4f3e28bc36e5f6760e190b33f494262f0aefe2"

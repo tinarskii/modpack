@@ -1,0 +1,11 @@
+name = "pl_pl.json"
+filename = "pl_pl.json"
+side = "both"
+
+[download]
+url = "https://scentcraft-modpack.netlify.app/public/resourcepacks/Homestead%20GUI/assets/appleskin/lang/pl_pl.json"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "4f5f2ccfd95e8bfc69308986685010f79f150862c123e2d59d4c0232a1810498"

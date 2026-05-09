@@ -1,0 +1,11 @@
+name = "face.png"
+filename = "face.png"
+side = "both"
+
+[download]
+url = "https://scentcraft-modpack.netlify.app/public/resourcepacks/Homestead%20GUI/assets/trinkets/textures/gui/slots/face.png"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "652edb092dfe2c28443059ee98f8ec07ed5644f5497f9f8411459f8f0e8bdd5b"

@@ -1,0 +1,11 @@
+name = "ko_kr.json"
+filename = "ko_kr.json"
+side = "both"
+
+[download]
+url = "https://scentcraft-modpack.netlify.app/public/resourcepacks/Homestead%20GUI/assets/detailab/lang/ko_kr.json"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "3430f76c30278e7e19e10031c64f55dd4e12e49fda8392641fbb2a95c0c53e33"

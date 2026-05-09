@@ -1,0 +1,11 @@
+name = "ironpickonastick.zs"
+filename = "ironpickonastick.zs"
+side = "both"
+
+[download]
+url = "https://scentcraft-modpack.netlify.app/public/scripts/mods/Spelunkery/ironpickonastick.zs"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "df7864966710b407e5ab16098db86ab5e502f0f4dad1819010e434e8a6724a73"

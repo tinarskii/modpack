@@ -1,0 +1,11 @@
+name = "peaceful_blaze_burner.zs"
+filename = "peaceful_blaze_burner.zs"
+side = "both"
+
+[download]
+url = "https://scentcraft-modpack.netlify.app/public/scripts/mods/Create/peaceful_blaze_burner.zs"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "daa19067cc9ff0d34e71fa2254818a4c9534e3351a96bbfe3385633b1984f717"

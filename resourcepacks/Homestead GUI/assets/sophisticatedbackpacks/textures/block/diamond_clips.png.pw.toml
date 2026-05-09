@@ -1,0 +1,11 @@
+name = "diamond_clips.png"
+filename = "diamond_clips.png"
+side = "both"
+
+[download]
+url = "https://scentcraft-modpack.netlify.app/public/resourcepacks/Homestead%20GUI/assets/sophisticatedbackpacks/textures/block/diamond_clips.png"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "fbcebdf07b0b32cab8a8fd6f62449e0f5de2bb7795ca7e077e6d843e3dc62a38"

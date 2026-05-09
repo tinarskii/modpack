@@ -1,6 +1,6 @@
-name = "Homestead GUI"
+name = "HomesteadGUI.zip"
 filename = "HomesteadGUI.zip"
-side = "client"
+side = "both"
 
 [download]
 url = "https://scentcraft-modpack.netlify.app/public/resourcepacks/HomesteadGUI.zip"

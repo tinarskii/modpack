@@ -1,0 +1,11 @@
+name = "advanced_jukebox_upgrade.png"
+filename = "advanced_jukebox_upgrade.png"
+side = "both"
+
+[download]
+url = "https://scentcraft-modpack.netlify.app/public/resourcepacks/Homestead%20GUI/assets/sophisticatedbackpacks/textures/item/advanced_jukebox_upgrade.png"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "ae03e93c46c81cd394f81c4fa001178862f8f2aaf86a32461ec6ab9a8364d9b6"

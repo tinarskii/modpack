@@ -1,0 +1,11 @@
+name = "slider.png"
+filename = "slider.png"
+side = "both"
+
+[download]
+url = "https://scentcraft-modpack.netlify.app/public/resourcepacks/Homestead%20GUI/assets/minecraft/textures/gui/slider.png"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "33cc5a3b189186aa9df766a2c57a7fd6f05ccc362cfb34213213958f2f759624"

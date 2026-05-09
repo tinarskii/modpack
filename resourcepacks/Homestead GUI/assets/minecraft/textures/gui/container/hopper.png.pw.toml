@@ -1,0 +1,11 @@
+name = "hopper.png"
+filename = "hopper.png"
+side = "both"
+
+[download]
+url = "https://scentcraft-modpack.netlify.app/public/resourcepacks/Homestead%20GUI/assets/minecraft/textures/gui/container/hopper.png"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "e789f3d9057ef9ad39bec510e7298e4ca89afdb32abf2021d3bf686de4d99488"

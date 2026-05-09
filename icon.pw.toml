@@ -1,0 +1,11 @@
+name = "icon"
+filename = "icon.png"
+side = "both"
+
+[download]
+url = "https://scentcraft-modpack.netlify.app/public/icon.png"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "32af9b5ef2c4116ece145498996af2f036877b2e819c94e8e942b0ffb5f483ce"

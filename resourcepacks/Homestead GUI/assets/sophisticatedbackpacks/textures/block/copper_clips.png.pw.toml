@@ -1,0 +1,11 @@
+name = "copper_clips.png"
+filename = "copper_clips.png"
+side = "both"
+
+[download]
+url = "https://scentcraft-modpack.netlify.app/public/resourcepacks/Homestead%20GUI/assets/sophisticatedbackpacks/textures/block/copper_clips.png"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "2bce5cd0d1dedae6ab1ecc43dd57e6a559110d4c27b689174e9aa28565050ba4"

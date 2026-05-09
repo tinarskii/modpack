@@ -1,0 +1,11 @@
+name = "furnace.png"
+filename = "furnace.png"
+side = "both"
+
+[download]
+url = "https://scentcraft-modpack.netlify.app/public/resourcepacks/Homestead%20GUI/assets/minecraft/textures/gui/container/furnace.png"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "91b70fa90936ca736e44b36155d267384c26941b85efd5e3c6ac070dc8cfefa2"

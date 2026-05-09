@@ -1,0 +1,11 @@
+name = "netherite_clips.png"
+filename = "netherite_clips.png"
+side = "both"
+
+[download]
+url = "https://scentcraft-modpack.netlify.app/public/resourcepacks/Homestead%20GUI/assets/sophisticatedbackpacks/textures/block/netherite_clips.png"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "531c8e6eef4620be6c280f59cc69375e7eb76ea5543f344b07e154dfd1f36004"

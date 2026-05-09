@@ -1,0 +1,11 @@
+name = "de_de.json"
+filename = "de_de.json"
+side = "both"
+
+[download]
+url = "https://scentcraft-modpack.netlify.app/public/resourcepacks/Homestead%20GUI/assets/appleskin/lang/de_de.json"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "c840e629008d3bf0b7ab823787161669e11c6239e982b062d151c9c9210973cc"

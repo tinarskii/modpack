@@ -1,0 +1,11 @@
+name = "pump_upgrade.png"
+filename = "pump_upgrade.png"
+side = "both"
+
+[download]
+url = "https://scentcraft-modpack.netlify.app/public/resourcepacks/Homestead%20GUI/assets/sophisticatedbackpacks/textures/item/pump_upgrade.png"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "999da6579bbba88bc4b4619e9f1fec37f71b93f49b5c84a477151e552bff4bcd"

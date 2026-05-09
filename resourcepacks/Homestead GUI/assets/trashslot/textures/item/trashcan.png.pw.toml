@@ -1,0 +1,11 @@
+name = "trashcan.png"
+filename = "trashcan.png"
+side = "both"
+
+[download]
+url = "https://scentcraft-modpack.netlify.app/public/resourcepacks/Homestead%20GUI/assets/trashslot/textures/item/trashcan.png"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "bc4bd89ed297d9cf66cc24565d0066b19394d85d7af8331a0dbda82d4fb73aea"

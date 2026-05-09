@@ -1,0 +1,11 @@
+name = "mason_table_upgrade.png"
+filename = "mason_table_upgrade.png"
+side = "both"
+
+[download]
+url = "https://scentcraft-modpack.netlify.app/public/resourcepacks/Homestead%20GUI/assets/sophisticatedbackpacks/textures/item/chipped/mason_table_upgrade.png"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "1e2c9343d2d0fe998a0de6a88423a5a784699337a2707a7d9ae663c650a1edaf"

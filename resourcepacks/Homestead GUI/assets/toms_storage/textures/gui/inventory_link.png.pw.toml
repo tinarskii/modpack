@@ -1,0 +1,11 @@
+name = "inventory_link.png"
+filename = "inventory_link.png"
+side = "both"
+
+[download]
+url = "https://scentcraft-modpack.netlify.app/public/resourcepacks/Homestead%20GUI/assets/toms_storage/textures/gui/inventory_link.png"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "fdcc0449587a8153f4f027e76ad9c7d8737808eeabba42181fcbff096b7c0cfc"

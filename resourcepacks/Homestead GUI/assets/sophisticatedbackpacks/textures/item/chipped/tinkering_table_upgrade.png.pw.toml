@@ -1,0 +1,11 @@
+name = "tinkering_table_upgrade.png"
+filename = "tinkering_table_upgrade.png"
+side = "both"
+
+[download]
+url = "https://scentcraft-modpack.netlify.app/public/resourcepacks/Homestead%20GUI/assets/sophisticatedbackpacks/textures/item/chipped/tinkering_table_upgrade.png"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "0c3a8ea7b75e3553a04367b197e8f0aeab2ed2a419c71006f2c04650ab8b064e"

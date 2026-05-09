@@ -1,11 +1,11 @@
-name = "bater_wucket"
-filename = "bater_wucket.zs"
+name = "pack.png"
+filename = "pack.png"
 side = "both"
 
 [download]
-url = "https://scentcraft-modpack.netlify.app/public/compat/bater_wucket.zs"
+url = "https://scentcraft-modpack.netlify.app/public/resourcepacks/Homestead%20GUI/pack.png"
 
 # A number of tools can generate the hash for you, including 7-zip and sha256sum
 # packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
 hash-format = "sha256"
-hash = "618c5bba55f67a37d4b306240c13dc5b7e006c320e4ea656b21962afa3315b9d"
+hash = "cbd14c8d14bf6e1775e398513dd0f2649d66e1495d532f0f50d847e2c7833858"

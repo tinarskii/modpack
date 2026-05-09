@@ -1,0 +1,11 @@
+name = "gui_controls.png"
+filename = "gui_controls.png"
+side = "both"
+
+[download]
+url = "https://scentcraft-modpack.netlify.app/public/resourcepacks/Homestead%20GUI/assets/sophisticatedcore/textures/gui/gui_controls.png"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "101710d01475c5a90590b0f8fe671571ea895c078f31ce478da496ebe48af05e"

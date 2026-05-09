@@ -1,0 +1,11 @@
+name = "book.png"
+filename = "book.png"
+side = "both"
+
+[download]
+url = "https://scentcraft-modpack.netlify.app/public/resourcepacks/Homestead%20GUI/assets/minecraft/textures/gui/book.png"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "eeb514bf914da98bf120f177cde776129d8fe17d4d5bc934c8abb0a3b584ad60"

@@ -1,0 +1,11 @@
+name = "leather_clips.png"
+filename = "leather_clips.png"
+side = "both"
+
+[download]
+url = "https://scentcraft-modpack.netlify.app/public/resourcepacks/Homestead%20GUI/assets/sophisticatedbackpacks/textures/block/leather_clips.png"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "ba0aa6d2eaaec43fa0fdd89b0cb1850f6930ce1fa0c7859d407f0423d7d37fcb"

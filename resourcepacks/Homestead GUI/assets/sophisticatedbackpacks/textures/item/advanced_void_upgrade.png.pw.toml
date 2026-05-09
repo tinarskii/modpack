@@ -1,0 +1,11 @@
+name = "advanced_void_upgrade.png"
+filename = "advanced_void_upgrade.png"
+side = "both"
+
+[download]
+url = "https://scentcraft-modpack.netlify.app/public/resourcepacks/Homestead%20GUI/assets/sophisticatedbackpacks/textures/item/advanced_void_upgrade.png"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "5a68d3b2516ec7c4bea0cb7d2d70aa4096f7043ea4c4a41c45c7f987653de1e2"

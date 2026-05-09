@@ -1,0 +1,11 @@
+name = "icons.png"
+filename = "icons.png"
+side = "both"
+
+[download]
+url = "https://scentcraft-modpack.netlify.app/public/resourcepacks/Homestead%20GUI/assets/appleskin/textures/icons.png"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "c67fe2b1fac3d9990c0b15d5ff1687be373312ed3bd14fae42247bb9eaefa529"

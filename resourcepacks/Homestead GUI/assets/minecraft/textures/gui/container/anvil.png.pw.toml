@@ -1,0 +1,11 @@
+name = "anvil.png"
+filename = "anvil.png"
+side = "both"
+
+[download]
+url = "https://scentcraft-modpack.netlify.app/public/resourcepacks/Homestead%20GUI/assets/minecraft/textures/gui/container/anvil.png"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "9acbc9fa7552830405ed317bcd1af5d2279142e3aa142a49b2332433f1e41731"

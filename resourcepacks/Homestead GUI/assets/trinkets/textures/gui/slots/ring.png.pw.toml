@@ -1,0 +1,11 @@
+name = "ring.png"
+filename = "ring.png"
+side = "both"
+
+[download]
+url = "https://scentcraft-modpack.netlify.app/public/resourcepacks/Homestead%20GUI/assets/trinkets/textures/gui/slots/ring.png"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "8a3cb118a82888d31da9ea7ca9244fc501b046eb46038ff88e838929160bb0d3"

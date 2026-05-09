@@ -1,0 +1,11 @@
+name = "create_milk.zs"
+filename = "create_milk.zs"
+side = "both"
+
+[download]
+url = "https://scentcraft-modpack.netlify.app/public/scripts/mods/Create/create_milk.zs"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "beb69cc2f6dba0c4294dba6618e26101f25a180793b1721bc73e245e700275bf"

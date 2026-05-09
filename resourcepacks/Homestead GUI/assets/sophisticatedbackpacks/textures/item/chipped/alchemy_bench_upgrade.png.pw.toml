@@ -1,0 +1,11 @@
+name = "alchemy_bench_upgrade.png"
+filename = "alchemy_bench_upgrade.png"
+side = "both"
+
+[download]
+url = "https://scentcraft-modpack.netlify.app/public/resourcepacks/Homestead%20GUI/assets/sophisticatedbackpacks/textures/item/chipped/alchemy_bench_upgrade.png"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "a14b0030771a754a62d75a9035bc8e3803752cf0fd23268378557a6d7727120c"

@@ -1,0 +1,11 @@
+name = "upgrade_base.png"
+filename = "upgrade_base.png"
+side = "both"
+
+[download]
+url = "https://scentcraft-modpack.netlify.app/public/resourcepacks/Homestead%20GUI/assets/sophisticatedbackpacks/textures/item/upgrade_base.png"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "b9890609fa68755ab97e25ad241d204f6b95a7fd2d91ab3c9805176b1c5971e3"

@@ -1,0 +1,11 @@
+name = "filter_buttons.png"
+filename = "filter_buttons.png"
+side = "both"
+
+[download]
+url = "https://scentcraft-modpack.netlify.app/public/resourcepacks/Homestead%20GUI/assets/toms_storage/textures/gui/filter_buttons.png"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "f08ce6187706007fcfb1f041301a6cc0496a9c7c8d7d054c242d034ac0cf7ec7"

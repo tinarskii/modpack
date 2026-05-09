@@ -1,0 +1,11 @@
+name = "particle.png"
+filename = "particle.png"
+side = "both"
+
+[download]
+url = "https://scentcraft-modpack.netlify.app/public/resourcepacks/Homestead%20GUI/assets/sophisticatedbackpacks/textures/block/particle.png"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "31ffdfe8d97dc69f8dd4ca205b66c7061be0a7968c7952bafea1dd5b1cb7051d"

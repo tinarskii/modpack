@@ -1,0 +1,11 @@
+name = "aglet.png"
+filename = "aglet.png"
+side = "both"
+
+[download]
+url = "https://scentcraft-modpack.netlify.app/public/resourcepacks/Homestead%20GUI/assets/trinkets/textures/gui/slots/aglet.png"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "dd860bc22b79170688f98ac941eb766e46458d3a5a89c9338de86770bdb0d057"

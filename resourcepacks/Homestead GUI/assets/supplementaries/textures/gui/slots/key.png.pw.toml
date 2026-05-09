@@ -1,0 +1,11 @@
+name = "key.png"
+filename = "key.png"
+side = "both"
+
+[download]
+url = "https://scentcraft-modpack.netlify.app/public/resourcepacks/Homestead%20GUI/assets/supplementaries/textures/gui/slots/key.png"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "e6486a4e8c949514dbeb2f852725c70523e252fc0be41503a6278e92e228b8ee"

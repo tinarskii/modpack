@@ -1,0 +1,11 @@
+name = "nametag.zs"
+filename = "nametag.zs"
+side = "both"
+
+[download]
+url = "https://scentcraft-modpack.netlify.app/public/scripts/mods/Custom/nametag.zs"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "a038d5b9ecc62a3a7cbfed00686c6ba6a5d049f1f3e145a8a684020ead4e52cf"

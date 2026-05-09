@@ -1,0 +1,11 @@
+name = "plushies.zs"
+filename = "plushies.zs"
+side = "both"
+
+[download]
+url = "https://scentcraft-modpack.netlify.app/public/scripts/mods/Custom/plushies.zs"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "d5ddcaa7d0932da9121ae79a1802a92686e038058e2d1094c241797f56ec9541"

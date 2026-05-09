@@ -1,9 +1,9 @@
-name = "questbook_recipefix"
+name = "questbook_recipefix.zs"
 filename = "questbook_recipefix.zs"
 side = "both"
 
 [download]
-url = "https://scentcraft-modpack.netlify.app/public/compat/questbook_recipefix.zs"
+url = "https://scentcraft-modpack.netlify.app/public/scripts/mods/Compat/questbook_recipefix.zs"
 
 # A number of tools can generate the hash for you, including 7-zip and sha256sum
 # packwiz supports a number of hashes, including sha256, sha512, sha1 and md5

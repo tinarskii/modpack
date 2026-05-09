@@ -1,0 +1,11 @@
+name = "stonecutter_upgrade.png"
+filename = "stonecutter_upgrade.png"
+side = "both"
+
+[download]
+url = "https://scentcraft-modpack.netlify.app/public/resourcepacks/Homestead%20GUI/assets/sophisticatedbackpacks/textures/item/stonecutter_upgrade.png"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "2bc6c3fd7c2f98cbc072297765e74f2bd9212dfca5e318a7a20d065b87c2a7fa"

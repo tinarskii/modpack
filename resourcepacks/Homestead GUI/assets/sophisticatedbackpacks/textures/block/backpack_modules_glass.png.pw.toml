@@ -1,0 +1,11 @@
+name = "backpack_modules_glass.png"
+filename = "backpack_modules_glass.png"
+side = "both"
+
+[download]
+url = "https://scentcraft-modpack.netlify.app/public/resourcepacks/Homestead%20GUI/assets/sophisticatedbackpacks/textures/block/backpack_modules_glass.png"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "7711647aabb8d1c170510f8ecd01798c67c8f0e6d86e2b438be7b0cdca0649e2"

@@ -1,0 +1,11 @@
+name = "uk_ua.json"
+filename = "uk_ua.json"
+side = "both"
+
+[download]
+url = "https://scentcraft-modpack.netlify.app/public/resourcepacks/Homestead%20GUI/assets/appleskin/lang/uk_ua.json"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "f44bcf83822dd53a063a36d60cd501d1340e4c8d460918c2609b296e6925afa5"
