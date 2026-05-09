@@ -1,13 +1,13 @@
 name = "Obsidian Equipment Reworked"
-filename = "obsidianequipmentrework-fabric-0.4+mc1.20.1.jar"
+filename = "obsidianequipmentrework-fabric-0.3+mc1.20.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/F0yI8Qcm/versions/TfT4327b/obsidianequipmentrework-fabric-0.4%2Bmc1.20.1.jar"
+url = "https://cdn.modrinth.com/data/F0yI8Qcm/versions/m3KKPYfv/obsidianequipmentrework-fabric-0.3%2Bmc1.20.1.jar"
 hash-format = "sha512"
-hash = "40c98890b0fe6e90aaf606546859740017470149ec00d71b36f2f8360fde08ee82d67c1ec71d33c8263da31d9ad13ee98d0f93c9e9f58153306657b7fd268e78"
+hash = "9a6d3a200b6b40394f2a1b8033cfb8acb6ad56133d91214cd1b2f3bfb180d4d80aa56a99430511cf3434c54ecd07d1f28602b1bad580c619b53cf304b7c9765b"
 
 [update]
 [update.modrinth]
 mod-id = "F0yI8Qcm"
-version = "TfT4327b"
+version = "m3KKPYfv"

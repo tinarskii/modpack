@@ -1,13 +1,13 @@
 name = "Rebind Narrator"
-filename = "rebind_narrator-1.20.1-fabric-2025.12.23.jar"
+filename = "rebind_narrator-1.20.1-fabric-2025.10.21.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/qw2Ls89j/versions/jFjY1jvl/rebind_narrator-1.20.1-fabric-2025.12.23.jar"
+url = "https://cdn.modrinth.com/data/qw2Ls89j/versions/JY5ju09v/rebind_narrator-1.20.1-fabric-2025.10.21.jar"
 hash-format = "sha512"
-hash = "46fc780e0a36929cfb18248a32adb168695a3afbbfce86b220c57a3c189b61fed3871e200f5e3b639180732f88ff0d0d8a9b78d866a13a92f9a8f6532e161451"
+hash = "01470d720e5e1d125a5d81d1161cda5ccce41329e6bc9d995f741bdb581b121112f06ef7b9311b62b9f59ea91a5fcfa6137b54f016525300f8eed96709ea16a7"
 
 [update]
 [update.modrinth]
 mod-id = "qw2Ls89j"
-version = "jFjY1jvl"
+version = "JY5ju09v"
