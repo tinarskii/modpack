@@ -18,7 +18,7 @@ hash = "07768a58a3a8efbcb1735f1ad8f1694f2d539c83975a57c3b99760d49076aa7c"
 
 [[files]]
 file = "build-toml.ts"
-hash = "0fffa07fcabf3e2a553c775daf1f847d21a7d8434a11862f5529d395b8caf190"
+hash = "819a58fba7ca0ba100c1fb682ca1cedf67c1acbe38e2eae8f647f787afe64885"
 
 [[files]]
 file = "config/CoroUtil/General.toml.pw.toml"
@@ -3848,6 +3848,11 @@ metafile = true
 [[files]]
 file = "config/zoomify.json.pw.toml"
 hash = "27f095d6651739c4e6a45075f544421b7b552379fa7a9ecb6d6a8398d2b6a2fd"
+metafile = true
+
+[[files]]
+file = "icon.pw.toml"
+hash = "ed0d2f69200d65039b2102281cc2aef17503468e9fc2d868841522d7373f5085"
 metafile = true
 
 [[files]]
@@ -8759,163 +8764,2275 @@ file = "public/config/zoomify.json"
 hash = "82caee9b1f532332c798ee216c9a9ba5857c35e58afacba44946d9264fc05b36"
 
 [[files]]
-file = "public/scripts/alcocraft/keg_test.zs"
-hash = "4f1ef7f8636fb6b931f8174df49d247f0144ad84b527f06db1e0c4b24ffbb440"
+file = "public/icon.png"
+hash = "32af9b5ef2c4116ece145498996af2f036877b2e819c94e8e942b0ffb5f483ce"
 
 [[files]]
-file = "public/scripts/compat/appletrinketfix.zs"
-hash = "1ea391e2b6ea0ee46740dc40890206d270fc09f54e6dbb45084d5883fcbade9c"
+file = "public/resourcepacks/Homestead GUI/assets/appleskin/appleskin.png"
+hash = "d3472a89d2cb5b653a3b23749535a94239fd783ca46778d1a3057716d21a76fe"
 
 [[files]]
-file = "public/scripts/compat/bater_wucket.zs"
-hash = "618c5bba55f67a37d4b306240c13dc5b7e006c320e4ea656b21962afa3315b9d"
+file = "public/resourcepacks/Homestead GUI/assets/appleskin/lang/cs_cz.json"
+hash = "040877b6120b4b8664b3de984f9efa142137bfbaa8058fc825d417cb901c07a3"
 
 [[files]]
-file = "public/scripts/compat/butterfly_wings.zs"
-hash = "169752f5ae09c34bf7b6e8b6626b748e4ac290daacc75a7f20aced69b3c70a5a"
+file = "public/resourcepacks/Homestead GUI/assets/appleskin/lang/de_de.json"
+hash = "c840e629008d3bf0b7ab823787161669e11c6239e982b062d151c9c9210973cc"
 
 [[files]]
-file = "public/scripts/compat/explorers_compass.zs"
-hash = "16420e5c98eef64d55bca157249cfbc3f427c0c4704ae3e8884edac70f35c874"
+file = "public/resourcepacks/Homestead GUI/assets/appleskin/lang/en_us.json"
+hash = "ba7e63cccb8c3c2085acce7056acad29515a32d3cbc1905efeef8e7f99a39073"
 
 [[files]]
-file = "public/scripts/compat/farmland_fix.zs"
-hash = "87efd684fe5cc17a9e82612fa25e4651d45424e5c90cf196e5520e1335e5031e"
+file = "public/resourcepacks/Homestead GUI/assets/appleskin/lang/fr_fr.json"
+hash = "246f042480b4b4630b7fc9ff81030e97f7e929360efad9cc734fb16629c0a144"
 
 [[files]]
-file = "public/scripts/compat/flour.zs"
-hash = "09a5e6f6078e5a521907d779c8a88bacf6d9242972b983dff0b5b41ed39d756e"
+file = "public/resourcepacks/Homestead GUI/assets/appleskin/lang/hy_am.json"
+hash = "7f01cb5f5cd70ae9850465ac03901303474541ccaba9d01a82ee1adde01c0df7"
 
 [[files]]
-file = "public/scripts/compat/hammer_changes.zs"
-hash = "e3b9291655b44587844553d2a6ab920675ab9c9d322bba07bf7682f392ed3830"
+file = "public/resourcepacks/Homestead GUI/assets/appleskin/lang/ko_kr.json"
+hash = "fa1ca929f961fcabcc97fd44825866f3f5afd1d34231315e9fdae490c7ef48b0"
 
 [[files]]
-file = "public/scripts/compat/loot_table_fixes.zs"
-hash = "548fd5cc028e50db55e739e50554f30b6001365b0a852cdb2189c99e1afb46bd"
+file = "public/resourcepacks/Homestead GUI/assets/appleskin/lang/pl_pl.json"
+hash = "4f5f2ccfd95e8bfc69308986685010f79f150862c123e2d59d4c0232a1810498"
 
 [[files]]
-file = "public/scripts/compat/mod_compat.zs"
-hash = "485844ae352e8bbd7f55044302f4379c947282f51d2c811d805221cfea46e751"
+file = "public/resourcepacks/Homestead GUI/assets/appleskin/lang/ru_ru.json"
+hash = "fcee2cdccdc887cde7108af90c875ee63410db892f60b71465a4f3f1f344bdb7"
 
 [[files]]
-file = "public/scripts/compat/obsidian_tool_tagging.zs"
-hash = "2a1209913dc9d87c7e3a659a36c041436a8a3de3b834d1a85cd13ebb0fc6a3ee"
+file = "public/resourcepacks/Homestead GUI/assets/appleskin/lang/tr_TR.json"
+hash = "03c0590881884a5460fc01037b26ae8cc0d12f4871aff4bdb7413f79fd8539e6"
 
 [[files]]
-file = "public/scripts/compat/questbook_recipefix.zs"
-hash = "d33142f0889bf1f7d108b6a144564753c1661bbfceced6cd2636a475534f0ebd"
+file = "public/resourcepacks/Homestead GUI/assets/appleskin/lang/uk_ua.json"
+hash = "f44bcf83822dd53a063a36d60cd501d1340e4c8d460918c2609b296e6925afa5"
 
 [[files]]
-file = "public/scripts/compat/remove_prismarite_cluster_trim.zs"
-hash = "6a82ad1500f05c3c6841f52fa116d1c85a0d7acf3a35b973de4e1c520b285f24"
+file = "public/resourcepacks/Homestead GUI/assets/appleskin/lang/zh_cn.json"
+hash = "6dff01f116a7557685dbbf5c21dd10843569d6ad794532b7640d1b76600d8dcf"
 
 [[files]]
-file = "public/scripts/compat/rope_arrow.zs"
-hash = "e63133333e23874f9fd85414d4300fa0d6be55424aa67f87e95086728f5c52e4"
+file = "public/resourcepacks/Homestead GUI/assets/appleskin/textures/icons.png"
+hash = "c67fe2b1fac3d9990c0b15d5ff1687be373312ed3bd14fae42247bb9eaefa529"
 
 [[files]]
-file = "public/scripts/compat/stack_upgrade_balance.zs"
-hash = "42b1905af35eea48c21f855b90e405c961b61a3c2f24adb8563d299a33a8d679"
+file = "public/resourcepacks/Homestead GUI/assets/backpack_allthemodium_upgrade/textures/item/stack_upgrade_tier_5.png"
+hash = "31a57ff813e4ba7a31e187aa9955efeec6f06abb267189cc15d5ca16bd5fd844"
 
 [[files]]
-file = "public/scripts/compat/stone.zs"
-hash = "423cb58d653efcc2fda163ec1d0edb982be97752b6071551a1e2e3614d85203b"
+file = "public/resourcepacks/Homestead GUI/assets/backpack_allthemodium_upgrade/textures/item/stack_upgrade_tier_6.png"
+hash = "b44d46744dae64ac266b88b8da8cdcfbfc0243a93c51ecf2fd8edb5c481b2f89"
 
 [[files]]
-file = "public/scripts/compat/via_romana.zs"
-hash = "dcfa1a864d62f80e334853e26e668dcbb013eeeaf278c3ae328395c07ec8fd25"
+file = "public/resourcepacks/Homestead GUI/assets/backpack_allthemodium_upgrade/textures/item/stack_upgrade_tier_7.png"
+hash = "ff1ef16e9d5961013a37f587f808e79bff0d32c211969483aa6a4c6dbcdc99fa"
 
 [[files]]
-file = "public/scripts/resourcepacks/HomesteadGUI.zip"
+file = "public/resourcepacks/Homestead GUI/assets/detailab/icon.png"
+hash = "e74cbfcd6cdc2a6c0d71c823c4ec014e11c03e994677641e646cf5ab7cdf31e7"
+
+[[files]]
+file = "public/resourcepacks/Homestead GUI/assets/detailab/lang/en_us.json"
+hash = "fb0c31d7c9ab5273ca06b87e30d87c34490d046db725e60269fe6159d4215d2d"
+
+[[files]]
+file = "public/resourcepacks/Homestead GUI/assets/detailab/lang/ko_kr.json"
+hash = "3430f76c30278e7e19e10031c64f55dd4e12e49fda8392641fbb2a95c0c53e33"
+
+[[files]]
+file = "public/resourcepacks/Homestead GUI/assets/detailab/textures/armor_bar.png"
+hash = "0443035ed3ebd4032b380eba39984a54376393f616ffb58a193ac6b1d2f91b72"
+
+[[files]]
+file = "public/resourcepacks/Homestead GUI/assets/homestead/textures/farm_diagram.png"
+hash = "dcda1c4e5f38dd03e43ede187621b031105752f35cddd39ae5f61209eb044b01"
+
+[[files]]
+file = "public/resourcepacks/Homestead GUI/assets/minecraft/lang/en_us.json"
+hash = "4d69ef689c1c951ad0b2bf20e79568bbf1e9beddc42cdac9885e21be00f3ab24"
+
+[[files]]
+file = "public/resourcepacks/Homestead GUI/assets/minecraft/sounds/random/click.ogg"
+hash = "670f0988c45260b68b2553359db6c8fc30b0c76568b891cd66518203b510a0bb"
+
+[[files]]
+file = "public/resourcepacks/Homestead GUI/assets/minecraft/textures/gui/accessibility.png"
+hash = "e6e2341763066846d664921ec15f3e8250b4b37221dbf5f9e4d0771e97d71ffe"
+
+[[files]]
+file = "public/resourcepacks/Homestead GUI/assets/minecraft/textures/gui/advancements/tabs.png"
+hash = "1d4ec8e1bd26e6b27b032c48b79bc0e6fe89fb6d5e09dba2e5601220d1a20807"
+
+[[files]]
+file = "public/resourcepacks/Homestead GUI/assets/minecraft/textures/gui/advancements/widgets.png"
+hash = "736aab9c4eea2db6879a5c863b89f41b38e6f4d3ae7626c65070338bd806cd19"
+
+[[files]]
+file = "public/resourcepacks/Homestead GUI/assets/minecraft/textures/gui/advancements/window.png"
+hash = "598c8dd2d4527dbe1c6e23b114172c9ff9a46557725c53b573a15646552d7f1f"
+
+[[files]]
+file = "public/resourcepacks/Homestead GUI/assets/minecraft/textures/gui/bars.png"
+hash = "c15bfc77235fe522043d6e7581425f8e5ca486aef7f46012740980e01f42aa6d"
+
+[[files]]
+file = "public/resourcepacks/Homestead GUI/assets/minecraft/textures/gui/book.png"
+hash = "eeb514bf914da98bf120f177cde776129d8fe17d4d5bc934c8abb0a3b584ad60"
+
+[[files]]
+file = "public/resourcepacks/Homestead GUI/assets/minecraft/textures/gui/container/anvil.png"
+hash = "9acbc9fa7552830405ed317bcd1af5d2279142e3aa142a49b2332433f1e41731"
+
+[[files]]
+file = "public/resourcepacks/Homestead GUI/assets/minecraft/textures/gui/container/beacon.png"
+hash = "8040b93f21dce35bfa9a60060cd108c35425113a6b783b7cb829138ab0f863b9"
+
+[[files]]
+file = "public/resourcepacks/Homestead GUI/assets/minecraft/textures/gui/container/blast_furnace.png"
+hash = "2cb6a56f8ee2a91affa62317e5534433e5cc14009f3d13db209ab18f6be89836"
+
+[[files]]
+file = "public/resourcepacks/Homestead GUI/assets/minecraft/textures/gui/container/brewing_stand.png"
+hash = "3a7c6b00cdc7abf9f6e1722595694f4014b4947437cda75897de6d1bb7a46086"
+
+[[files]]
+file = "public/resourcepacks/Homestead GUI/assets/minecraft/textures/gui/container/bundle.png"
+hash = "3abfdef3b3ab9c1600078a788b75481153900fb6252ded4ba9285729960fe9cd"
+
+[[files]]
+file = "public/resourcepacks/Homestead GUI/assets/minecraft/textures/gui/container/cartography_table.png"
+hash = "7efdcc3e711a4fb335082209b92b51405237af5f734f443e6834a2e403a6f57d"
+
+[[files]]
+file = "public/resourcepacks/Homestead GUI/assets/minecraft/textures/gui/container/crafting_table.png"
+hash = "6b1437f9281a81b6e485b46ab57ba3b9a9b788bd0a9f4abf99b8e7a8c8df591a"
+
+[[files]]
+file = "public/resourcepacks/Homestead GUI/assets/minecraft/textures/gui/container/creative_inventory/tab_inventory.png"
+hash = "3ed5357db12caecda3fe76f1f8cdbc422bb64447e2a1dcde9d4cd01b957647fa"
+
+[[files]]
+file = "public/resourcepacks/Homestead GUI/assets/minecraft/textures/gui/container/creative_inventory/tab_item_search.png"
+hash = "294ff93afbcd3bc8491d1cb3144daaded3f87bbf3ca2b9f923ba9e7e787075ab"
+
+[[files]]
+file = "public/resourcepacks/Homestead GUI/assets/minecraft/textures/gui/container/creative_inventory/tab_items.png"
+hash = "7ebe7d1dcb3f72b6de321ff155d2cc73c46aa4b9923a190302a2d4c6df28ad79"
+
+[[files]]
+file = "public/resourcepacks/Homestead GUI/assets/minecraft/textures/gui/container/creative_inventory/tabs.png"
+hash = "d5c2acd3379d9ab5b9ede62332f6befbd73ef422f2c6a37e8e5c719599c406dd"
+
+[[files]]
+file = "public/resourcepacks/Homestead GUI/assets/minecraft/textures/gui/container/dispenser.png"
+hash = "8787a05169cfc7b0128c5362a51d456ea03f01e0923b4b4102656a3d3c17a5c6"
+
+[[files]]
+file = "public/resourcepacks/Homestead GUI/assets/minecraft/textures/gui/container/enchanting_table.png"
+hash = "b5f7211d77cce5970d326ad34fde098f2f0b4e67c2232425b3f4da9ef16344ec"
+
+[[files]]
+file = "public/resourcepacks/Homestead GUI/assets/minecraft/textures/gui/container/furnace.png"
+hash = "91b70fa90936ca736e44b36155d267384c26941b85efd5e3c6ac070dc8cfefa2"
+
+[[files]]
+file = "public/resourcepacks/Homestead GUI/assets/minecraft/textures/gui/container/gamemode_switcher.png"
+hash = "1846a504e3305f1d7fb6d171c252b06329d168436c6737d3d1fa13a061ce8097"
+
+[[files]]
+file = "public/resourcepacks/Homestead GUI/assets/minecraft/textures/gui/container/generic_54.png"
+hash = "3e8e5f54d84c9479e149f8eeec9b65a9dec8f089494877579438cae749d3ff49"
+
+[[files]]
+file = "public/resourcepacks/Homestead GUI/assets/minecraft/textures/gui/container/grindstone.png"
+hash = "17145ac7ba8afcda135134fdbfa47a73437cc81a9522c693404c4156a6e0fbc6"
+
+[[files]]
+file = "public/resourcepacks/Homestead GUI/assets/minecraft/textures/gui/container/hopper.png"
+hash = "e789f3d9057ef9ad39bec510e7298e4ca89afdb32abf2021d3bf686de4d99488"
+
+[[files]]
+file = "public/resourcepacks/Homestead GUI/assets/minecraft/textures/gui/container/horse.png"
+hash = "fef3203cf53f4ca68376286bf606753b289538f76c746e0646e5a953b8fbacbe"
+
+[[files]]
+file = "public/resourcepacks/Homestead GUI/assets/minecraft/textures/gui/container/inventory.png"
+hash = "fb2ef8c9347d03de13545dbf662267d2624db343d4fd4fec694e2db92b2bb2ef"
+
+[[files]]
+file = "public/resourcepacks/Homestead GUI/assets/minecraft/textures/gui/container/legacy_smithing.png"
+hash = "6d02f0c34ae6dacec4a509d01de5794363547965273ce5992454fb70e28d9c55"
+
+[[files]]
+file = "public/resourcepacks/Homestead GUI/assets/minecraft/textures/gui/container/loom.png"
+hash = "a43362feeecde669defe3ab92d4c50eae39782faf74b87a5506443af7b47d4f4"
+
+[[files]]
+file = "public/resourcepacks/Homestead GUI/assets/minecraft/textures/gui/container/shulker_box.png"
+hash = "ce367e2625425e0caa52ecfeeaa9ce651451cb4dd48d290b13408dc45f57c89e"
+
+[[files]]
+file = "public/resourcepacks/Homestead GUI/assets/minecraft/textures/gui/container/smithing.png"
+hash = "278fd55b51fbf63f8acf86ed06c49abab5156763f0196254d8fdccbc8519cab4"
+
+[[files]]
+file = "public/resourcepacks/Homestead GUI/assets/minecraft/textures/gui/container/smoker.png"
+hash = "593b3d3ab23fe0d80fe14ddeec86ca66adc7f5cb771b18c24ad90a06bd4a4446"
+
+[[files]]
+file = "public/resourcepacks/Homestead GUI/assets/minecraft/textures/gui/container/stats_icons.png"
+hash = "8e7f272df0fcb0d8af16f2aeb90188fd893a21bf822ceafb8d2b882cd6bb5a65"
+
+[[files]]
+file = "public/resourcepacks/Homestead GUI/assets/minecraft/textures/gui/container/stonecutter.png"
+hash = "72562152fdc0a74e9adc8bbbe0dbf52639f3e77ce33c383f6284c67991e3d3f1"
+
+[[files]]
+file = "public/resourcepacks/Homestead GUI/assets/minecraft/textures/gui/container/villager2.png"
+hash = "9b919d3d58576f015f26bfe4e40da384b390812d0a8c23b252c271244a189e47"
+
+[[files]]
+file = "public/resourcepacks/Homestead GUI/assets/minecraft/textures/gui/icons.png"
+hash = "e0f0075eb4f37ebbff195480d3bf88b7ba3cdc3e207a9e91f981f10e5bbf015a"
+
+[[files]]
+file = "public/resourcepacks/Homestead GUI/assets/minecraft/textures/gui/light_dirt_background.png"
+hash = "c36a89cb43e4df494a57f39ccbd0bbb82aaadf6d583de97acda4d516026912f2"
+
+[[files]]
+file = "public/resourcepacks/Homestead GUI/assets/minecraft/textures/gui/options_background.png"
+hash = "793289cc7c13644373496be40fe3d4896c26b31c7375ce4644d97a18f743921d"
+
+[[files]]
+file = "public/resourcepacks/Homestead GUI/assets/minecraft/textures/gui/recipe_book.png"
+hash = "85f92601df88137317ef755bed8dd60e76febb33b9b7cb166b0692f033bdbed6"
+
+[[files]]
+file = "public/resourcepacks/Homestead GUI/assets/minecraft/textures/gui/recipe_button.png"
+hash = "01ccce6ef4c5b9b8362955cd7bda5dd9ac0454e81c28146d81dbef7d878f9fca"
+
+[[files]]
+file = "public/resourcepacks/Homestead GUI/assets/minecraft/textures/gui/resource_packs.png"
+hash = "86fffa58f882ff95bf5d17dd99e8a1e8490e31c1249c428ddc4c78985593de93"
+
+[[files]]
+file = "public/resourcepacks/Homestead GUI/assets/minecraft/textures/gui/server_selection.png"
+hash = "3640c2c6f8d6a43438c66c83fef5f32c1afc5b9279484c655658e030dd68a6a2"
+
+[[files]]
+file = "public/resourcepacks/Homestead GUI/assets/minecraft/textures/gui/slider.png"
+hash = "33cc5a3b189186aa9df766a2c57a7fd6f05ccc362cfb34213213958f2f759624"
+
+[[files]]
+file = "public/resourcepacks/Homestead GUI/assets/minecraft/textures/gui/social_interactions.png"
+hash = "92ed0735648d0288ea044fd90959c813b8f6592218f0967b23ada758e980fcf4"
+
+[[files]]
+file = "public/resourcepacks/Homestead GUI/assets/minecraft/textures/gui/toasts.png"
+hash = "21ec1e5ceef56954fd360bf9b925973fc291f097597e1351db7989a6f15a213e"
+
+[[files]]
+file = "public/resourcepacks/Homestead GUI/assets/minecraft/textures/gui/widgets.png"
+hash = "bd2fa0986a5cff7014105c59595e5a670c77cb838884eb9b9f247032887a42c0"
+
+[[files]]
+file = "public/resourcepacks/Homestead GUI/assets/minecraft/textures/gui/world_selection.png"
+hash = "cb29da498a9640aa5be19b3e5bc12aad536581cc967531c2257f81d1ba6a6de5"
+
+[[files]]
+file = "public/resourcepacks/Homestead GUI/assets/sophisticatedbackpacks/models/block/backpack.json"
+hash = "3d87682770c74b8acc831eb2cb5bd1aa92bd684bfdb692d97ac2e02f0a87ced7"
+
+[[files]]
+file = "public/resourcepacks/Homestead GUI/assets/sophisticatedbackpacks/models/block/backpack_base.json"
+hash = "1e18554ff4bb8e3b7cd2e5bbcbe3b67f423841bae81888826d8c9ce6749f0bfa"
+
+[[files]]
+file = "public/resourcepacks/Homestead GUI/assets/sophisticatedbackpacks/models/block/backpack_battery.json"
+hash = "1bd3e3fb722de130ad654381961e22be80e573f3e413010fee0cf4855d1359ac"
+
+[[files]]
+file = "public/resourcepacks/Homestead GUI/assets/sophisticatedbackpacks/models/block/backpack_front_pouch.json"
+hash = "429106fee2222e593a004da8f35bb76428addd65910d5d3eaea21eef37ecde45"
+
+[[files]]
+file = "public/resourcepacks/Homestead GUI/assets/sophisticatedbackpacks/models/block/backpack_left_pouch.json"
+hash = "587171df3ed3c72060a3430dbb8562b49abbdc51aa9286bb3c1eb89239ab6e59"
+
+[[files]]
+file = "public/resourcepacks/Homestead GUI/assets/sophisticatedbackpacks/models/block/backpack_left_tank.json"
+hash = "b7a2f200f130574d26e452662d19c48490a669c711f37f0902e8fbbc56be02a3"
+
+[[files]]
+file = "public/resourcepacks/Homestead GUI/assets/sophisticatedbackpacks/models/block/backpack_right_pouch.json"
+hash = "7834f67aefde003e910c158dc12e9ace1d74cab137f1314c046fc0ba08fa4e81"
+
+[[files]]
+file = "public/resourcepacks/Homestead GUI/assets/sophisticatedbackpacks/models/block/backpack_right_tank.json"
+hash = "95c76dd20d311ba5717fbbeca52673f7a0c3caf91654c83a9fcb65156a009168"
+
+[[files]]
+file = "public/resourcepacks/Homestead GUI/assets/sophisticatedbackpacks/models/block/copper_backpack.json"
+hash = "533ea42c2dc070211f6893548fc70b2e12f4db880dc4f29b8e8a8f837446f8cb"
+
+[[files]]
+file = "public/resourcepacks/Homestead GUI/assets/sophisticatedbackpacks/models/block/diamond_backpack.json"
+hash = "95309b88fa88f24a4c2741146f8d2dc87d9b196d406df7a8d759ccef777664b6"
+
+[[files]]
+file = "public/resourcepacks/Homestead GUI/assets/sophisticatedbackpacks/models/block/gold_backpack.json"
+hash = "bf099100f27c4fa798136ebe346781a8c3b374497528ecedf8cc7211f1b7144f"
+
+[[files]]
+file = "public/resourcepacks/Homestead GUI/assets/sophisticatedbackpacks/models/block/iron_backpack.json"
+hash = "6195d15269d1f278c61248e765a61dfe86c0c0e0de42f31884e0a6385100af5d"
+
+[[files]]
+file = "public/resourcepacks/Homestead GUI/assets/sophisticatedbackpacks/models/block/netherite_backpack.json"
+hash = "f614f714cfee0714bea36669e68d496cb76a76ff241782411bdea3010064cd6c"
+
+[[files]]
+file = "public/resourcepacks/Homestead GUI/assets/sophisticatedbackpacks/textures/block/backpack_border.png"
+hash = "854eb8b2f409e25e66d285cbdb4f3b60007503921f6df22cd5d1f8e4c9c80493"
+
+[[files]]
+file = "public/resourcepacks/Homestead GUI/assets/sophisticatedbackpacks/textures/block/backpack_cloth.png"
+hash = "7a0373b7682a2da6e766ad517438537c61e8e6a45592d04728475c3530b00a41"
+
+[[files]]
+file = "public/resourcepacks/Homestead GUI/assets/sophisticatedbackpacks/textures/block/backpack_modules.png"
+hash = "07a40333af6deb041314d47110255dca8bc9bfeeb835d9f2ddec62c71f74d269"
+
+[[files]]
+file = "public/resourcepacks/Homestead GUI/assets/sophisticatedbackpacks/textures/block/backpack_modules_glass.png"
+hash = "7711647aabb8d1c170510f8ecd01798c67c8f0e6d86e2b438be7b0cdca0649e2"
+
+[[files]]
+file = "public/resourcepacks/Homestead GUI/assets/sophisticatedbackpacks/textures/block/copper_clips.png"
+hash = "2bce5cd0d1dedae6ab1ecc43dd57e6a559110d4c27b689174e9aa28565050ba4"
+
+[[files]]
+file = "public/resourcepacks/Homestead GUI/assets/sophisticatedbackpacks/textures/block/diamond_clips.png"
+hash = "fbcebdf07b0b32cab8a8fd6f62449e0f5de2bb7795ca7e077e6d843e3dc62a38"
+
+[[files]]
+file = "public/resourcepacks/Homestead GUI/assets/sophisticatedbackpacks/textures/block/gold_clips.png"
+hash = "5678c7fb50e822033ac2314c017f03eccad12d9a690a503f9c734db8c0c6a80b"
+
+[[files]]
+file = "public/resourcepacks/Homestead GUI/assets/sophisticatedbackpacks/textures/block/iron_clips.png"
+hash = "96419afb0d9afea8b9490e3ea8e61ce9338816e6506899a17aacd563e4659259"
+
+[[files]]
+file = "public/resourcepacks/Homestead GUI/assets/sophisticatedbackpacks/textures/block/leather_clips.png"
+hash = "ba0aa6d2eaaec43fa0fdd89b0cb1850f6930ce1fa0c7859d407f0423d7d37fcb"
+
+[[files]]
+file = "public/resourcepacks/Homestead GUI/assets/sophisticatedbackpacks/textures/block/netherite_clips.png"
+hash = "531c8e6eef4620be6c280f59cc69375e7eb76ea5543f344b07e154dfd1f36004"
+
+[[files]]
+file = "public/resourcepacks/Homestead GUI/assets/sophisticatedbackpacks/textures/block/particle.png"
+hash = "31ffdfe8d97dc69f8dd4ca205b66c7061be0a7968c7952bafea1dd5b1cb7051d"
+
+[[files]]
+file = "public/resourcepacks/Homestead GUI/assets/sophisticatedbackpacks/textures/entity/backpack.png"
+hash = "79d88952cbd523dbb2d0f56f3adcfc9642fdf7917892596583fc077cdac730b4"
+
+[[files]]
+file = "public/resourcepacks/Homestead GUI/assets/sophisticatedbackpacks/textures/entity/tank_glass.png"
+hash = "97e313a6af47c43c3f634a7d51ba5052050d739c1dc1ace45c96b08966706f1b"
+
+[[files]]
+file = "public/resourcepacks/Homestead GUI/assets/sophisticatedbackpacks/textures/item/activator_upgrade.png"
+hash = "5cc5119b3f55995a59e5dfb2477dc0e698c5a7a3d5f9e46d664255a873de72d5"
+
+[[files]]
+file = "public/resourcepacks/Homestead GUI/assets/sophisticatedbackpacks/textures/item/advanced_compacting_upgrade.png"
+hash = "b82881861c84bc3e36531919a08d2b6359028f9281cde480da62fe3a016c213f"
+
+[[files]]
+file = "public/resourcepacks/Homestead GUI/assets/sophisticatedbackpacks/textures/item/advanced_deposit_upgrade.png"
+hash = "6b5659848d7f816ec207875d164239ab1a5e8f1c635c428803ffd93521a63977"
+
+[[files]]
+file = "public/resourcepacks/Homestead GUI/assets/sophisticatedbackpacks/textures/item/advanced_feeding_upgrade.png"
+hash = "a7e72955033a4ac282fb68b01f4664b7e9cd3f708028a39ced339e7cfce7bc67"
+
+[[files]]
+file = "public/resourcepacks/Homestead GUI/assets/sophisticatedbackpacks/textures/item/advanced_filter_upgrade.png"
+hash = "2efebb8b7a519ae02737faedf9509bbf503899c5ee77781a18e064a0e1eea8ad"
+
+[[files]]
+file = "public/resourcepacks/Homestead GUI/assets/sophisticatedbackpacks/textures/item/advanced_jukebox_upgrade.png"
+hash = "ae03e93c46c81cd394f81c4fa001178862f8f2aaf86a32461ec6ab9a8364d9b6"
+
+[[files]]
+file = "public/resourcepacks/Homestead GUI/assets/sophisticatedbackpacks/textures/item/advanced_magnet_upgrade.png"
+hash = "9938280b7e2b3207023c824f5ffde9c0518c9c1e77e06fb15f0164d95c3d46d6"
+
+[[files]]
+file = "public/resourcepacks/Homestead GUI/assets/sophisticatedbackpacks/textures/item/advanced_pickup_upgrade.png"
+hash = "f6b5726821fdce1b5019d28868dc6d668476061c2f48e615a77800872b437e4d"
+
+[[files]]
+file = "public/resourcepacks/Homestead GUI/assets/sophisticatedbackpacks/textures/item/advanced_pump_upgrade.png"
+hash = "decc3784b7d198e9e0cad473a05db167a1c253d84a9b54e43373953a950c9ddf"
+
+[[files]]
+file = "public/resourcepacks/Homestead GUI/assets/sophisticatedbackpacks/textures/item/advanced_refill_upgrade.png"
+hash = "fbeceeda4b8abdefe37c820b2cf2103d76aae60e4a8bd65022a43c57ca02f957"
+
+[[files]]
+file = "public/resourcepacks/Homestead GUI/assets/sophisticatedbackpacks/textures/item/advanced_restock_upgrade.png"
+hash = "97919e8ed26e2d9a23c6da9cc2a69f105bec05f0937be514f09dd131c3d08038"
+
+[[files]]
+file = "public/resourcepacks/Homestead GUI/assets/sophisticatedbackpacks/textures/item/advanced_tool_swapper_upgrade.png"
+hash = "0a128a05c088172d7670ff74f56febeca520e1bdb91e7245cd6a5a296ac61732"
+
+[[files]]
+file = "public/resourcepacks/Homestead GUI/assets/sophisticatedbackpacks/textures/item/advanced_upgrade_base.png"
+hash = "4e23c419c131b6ef248fcdb0464c8b5b8beb44901dfc0fbb30da4171ffd129f3"
+
+[[files]]
+file = "public/resourcepacks/Homestead GUI/assets/sophisticatedbackpacks/textures/item/advanced_void_upgrade.png"
+hash = "5a68d3b2516ec7c4bea0cb7d2d70aa4096f7043ea4c4a41c45c7f987653de1e2"
+
+[[files]]
+file = "public/resourcepacks/Homestead GUI/assets/sophisticatedbackpacks/textures/item/anvil_upgrade.png"
+hash = "3eddc5cb7064ff0a15e1a9816f4a25859a3ab1f1f5ea9a3253bda7db58ca49b6"
+
+[[files]]
+file = "public/resourcepacks/Homestead GUI/assets/sophisticatedbackpacks/textures/item/auto_blasting_upgrade.png"
+hash = "537e5f191ba5521a5441cd4e2a3569f801225cb3bb65f2d307cfd52e6410d2ae"
+
+[[files]]
+file = "public/resourcepacks/Homestead GUI/assets/sophisticatedbackpacks/textures/item/auto_smelting_upgrade.png"
+hash = "93426c3435a12e43f5a5ec632de1697926850f968d98927904bb0245f927da61"
+
+[[files]]
+file = "public/resourcepacks/Homestead GUI/assets/sophisticatedbackpacks/textures/item/auto_smoking_upgrade.png"
+hash = "e834a5d7056bd7df45e8c963f4ddf08b5432fd7a6ff59d55a300ff44c5224b61"
+
+[[files]]
+file = "public/resourcepacks/Homestead GUI/assets/sophisticatedbackpacks/textures/item/battery_upgrade.png"
+hash = "f0d310c7f453e85f03f40e58133eea9d156a1de89220f83e084aa49a96da8683"
+
+[[files]]
+file = "public/resourcepacks/Homestead GUI/assets/sophisticatedbackpacks/textures/item/blasting_upgrade.png"
+hash = "ab69b99415f4ed6d873dee808d38a91635cee0131368fe9f290e9bf419140123"
+
+[[files]]
+file = "public/resourcepacks/Homestead GUI/assets/sophisticatedbackpacks/textures/item/chipped/alchemy_bench_upgrade.png"
+hash = "a14b0030771a754a62d75a9035bc8e3803752cf0fd23268378557a6d7727120c"
+
+[[files]]
+file = "public/resourcepacks/Homestead GUI/assets/sophisticatedbackpacks/textures/item/chipped/botanist_workbench_upgrade.png"
+hash = "cce94ad9fbbfd0160abff46f22aa0794fd71612d369118ae018e24bdccc23057"
+
+[[files]]
+file = "public/resourcepacks/Homestead GUI/assets/sophisticatedbackpacks/textures/item/chipped/carpenters_table_upgrade.png"
+hash = "9638dd4e1c6d4ef2f81b5e81ca7a1677802df638a1627c049db4bd7bdf7dee74"
+
+[[files]]
+file = "public/resourcepacks/Homestead GUI/assets/sophisticatedbackpacks/textures/item/chipped/glassblower_upgrade.png"
+hash = "b0ebcbca0f4101083dbfff3b31bcb00e6cc70b62cd9b7361107b348e070bb017"
+
+[[files]]
+file = "public/resourcepacks/Homestead GUI/assets/sophisticatedbackpacks/textures/item/chipped/loom_table_upgrade.png"
+hash = "26934cc6dd91eedfabfb9948379d20c704d92cb3ff2d0343a339958d4206f916"
+
+[[files]]
+file = "public/resourcepacks/Homestead GUI/assets/sophisticatedbackpacks/textures/item/chipped/mason_table_upgrade.png"
+hash = "1e2c9343d2d0fe998a0de6a88423a5a784699337a2707a7d9ae663c650a1edaf"
+
+[[files]]
+file = "public/resourcepacks/Homestead GUI/assets/sophisticatedbackpacks/textures/item/chipped/tinkering_table_upgrade.png"
+hash = "0c3a8ea7b75e3553a04367b197e8f0aeab2ed2a419c71006f2c04650ab8b064e"
+
+[[files]]
+file = "public/resourcepacks/Homestead GUI/assets/sophisticatedbackpacks/textures/item/compacting_upgrade.png"
+hash = "3e09dfebda99258c93bd6ab4ba9a9ec9f38ee849c719ade534ffa2b147392fd5"
+
+[[files]]
+file = "public/resourcepacks/Homestead GUI/assets/sophisticatedbackpacks/textures/item/crafting_upgrade.png"
+hash = "ea00c28ae0f170cb6b5748f44ae28f39b1033d67ba7d92cac525843eba07e292"
+
+[[files]]
+file = "public/resourcepacks/Homestead GUI/assets/sophisticatedbackpacks/textures/item/deposit_upgrade.png"
+hash = "88d736886f940b5a3c3edc85f9c09c56f9da45000075274ab357967827d5a50a"
+
+[[files]]
+file = "public/resourcepacks/Homestead GUI/assets/sophisticatedbackpacks/textures/item/diffuser_upgrade.png"
+hash = "369df205c9e9db691364663d44a1862c1f5d639ca14b9c0ff6309cc82e3d4bd9"
+
+[[files]]
+file = "public/resourcepacks/Homestead GUI/assets/sophisticatedbackpacks/textures/item/diffuser_upgrade_advanced.png"
+hash = "ef5cc1be7119dbf6a65fa646725badc3c97b0e8ea0d570ba9b3c10aef5ec9d8c"
+
+[[files]]
+file = "public/resourcepacks/Homestead GUI/assets/sophisticatedbackpacks/textures/item/drop_upgrade.png"
+hash = "64fc23ca98ff50d40add129a5249bc042f3d93f1e7bca42e21d8346e1a0c1b7a"
+
+[[files]]
+file = "public/resourcepacks/Homestead GUI/assets/sophisticatedbackpacks/textures/item/drop_upgrade_advanced.png"
+hash = "efa3da298857e616eb542142c2b096e2fdd46d7d191cb7825d38930bd32293ce"
+
+[[files]]
+file = "public/resourcepacks/Homestead GUI/assets/sophisticatedbackpacks/textures/item/empty_hammer_slot.png"
+hash = "7de6563adbdc48fac6541438644c14adaa14a2b4236aa453f00648a5789008d5"
+
+[[files]]
+file = "public/resourcepacks/Homestead GUI/assets/sophisticatedbackpacks/textures/item/everlasting_upgrade.png"
+hash = "145a31810794435291d82b0ddc43fb1a25dc8ffaaa9c6010214133210fc82b1e"
+
+[[files]]
+file = "public/resourcepacks/Homestead GUI/assets/sophisticatedbackpacks/textures/item/feeding_upgrade.png"
+hash = "ec45186ada21c1bda58611d53f3f54016cf62178877da7cd29618ccd6fcfa237"
+
+[[files]]
+file = "public/resourcepacks/Homestead GUI/assets/sophisticatedbackpacks/textures/item/filter_upgrade.png"
+hash = "7fe6122d866b4444920f4f15d6a3e8448bd87b86a40b923aca44bcc6ffd9c6f8"
+
+[[files]]
+file = "public/resourcepacks/Homestead GUI/assets/sophisticatedbackpacks/textures/item/identification_upgrade.png"
+hash = "7bdc4e05ac6980be32480132b3d1b80d4b81ba241e9f3ce9fb4c63dd8a5cd628"
+
+[[files]]
+file = "public/resourcepacks/Homestead GUI/assets/sophisticatedbackpacks/textures/item/identification_upgrade_advanced.png"
+hash = "b4a3495ea6e2e254c1971f43b5ff33ea791587ffb7d0478b5ba4c3af8fd7bdd0"
+
+[[files]]
+file = "public/resourcepacks/Homestead GUI/assets/sophisticatedbackpacks/textures/item/inception_upgrade.png"
+hash = "5752fea74aee3219f40a7b69d016710df37893297634675105f119329061896e"
+
+[[files]]
+file = "public/resourcepacks/Homestead GUI/assets/sophisticatedbackpacks/textures/item/infinity_upgrade.png"
+hash = "aeb8c1ccab27abeb097d28ccf78b93a9859857d33869504390f7ad8405b20a3a"
+
+[[files]]
+file = "public/resourcepacks/Homestead GUI/assets/sophisticatedbackpacks/textures/item/jukebox_upgrade.png"
+hash = "cec3323c07193e11fcbfc5f8d7b030755e2e95c112236422cc9715b789cffb9e"
+
+[[files]]
+file = "public/resourcepacks/Homestead GUI/assets/sophisticatedbackpacks/textures/item/magnet_upgrade.png"
+hash = "9cfe267e3214d68bc78bdc60ef305c4284ea554015e15d2e892fa3ad35cd915a"
+
+[[files]]
+file = "public/resourcepacks/Homestead GUI/assets/sophisticatedbackpacks/textures/item/pickup_upgrade.png"
+hash = "0784a23c0513d16d1d91c95dab1ca528c39d42b603e51805c76d9c2a7a85d634"
+
+[[files]]
+file = "public/resourcepacks/Homestead GUI/assets/sophisticatedbackpacks/textures/item/pump_upgrade.png"
+hash = "999da6579bbba88bc4b4619e9f1fec37f71b93f49b5c84a477151e552bff4bcd"
+
+[[files]]
+file = "public/resourcepacks/Homestead GUI/assets/sophisticatedbackpacks/textures/item/recycler_upgrade.png"
+hash = "9564df4c389d4f50686622c52b0734044b42247038ad9dbd280e9e5f6828b177"
+
+[[files]]
+file = "public/resourcepacks/Homestead GUI/assets/sophisticatedbackpacks/textures/item/recycler_upgrade_advanced.png"
+hash = "49eb9a1ce93722d65a131ae9f9b9406ded9fb79476e5bb153d91e86cb9690492"
+
+[[files]]
+file = "public/resourcepacks/Homestead GUI/assets/sophisticatedbackpacks/textures/item/refill_upgrade.png"
+hash = "d77d631c9223642fd108d94f92ab10e5f6e24be6e0d91978414934effa73c986"
+
+[[files]]
+file = "public/resourcepacks/Homestead GUI/assets/sophisticatedbackpacks/textures/item/restock_upgrade.png"
+hash = "9f2c8b579f118f2f68a42d817fc1497c11efe2e0c100e8dda60770929439e35e"
+
+[[files]]
+file = "public/resourcepacks/Homestead GUI/assets/sophisticatedbackpacks/textures/item/smelting_upgrade.png"
+hash = "36a6bc22bf48305dc20e1681fdc8a128b904092e5d78ef7d4206830364298dbe"
+
+[[files]]
+file = "public/resourcepacks/Homestead GUI/assets/sophisticatedbackpacks/textures/item/smithing_upgrade.png"
+hash = "08b853c8f2f48b89add3c7aeeb4e7b300fdc445e1731d830de9b24bca73c4113"
+
+[[files]]
+file = "public/resourcepacks/Homestead GUI/assets/sophisticatedbackpacks/textures/item/smoking_upgrade.png"
+hash = "b96c690915e921d5b31960504c3c462d0eaeb7e5d2deb90e3201c659f943a882"
+
+[[files]]
+file = "public/resourcepacks/Homestead GUI/assets/sophisticatedbackpacks/textures/item/stack_downgrade_tier_1.png"
+hash = "3f812cc0dc97c07f5c7af27b8053682888c721749a7be36f90d06765dd3c56c6"
+
+[[files]]
+file = "public/resourcepacks/Homestead GUI/assets/sophisticatedbackpacks/textures/item/stack_downgrade_tier_2.png"
+hash = "bf6112a4d01114aa99cc96df42b9ac6c3104171f68f6dd75eb6a561bf1f0f1b2"
+
+[[files]]
+file = "public/resourcepacks/Homestead GUI/assets/sophisticatedbackpacks/textures/item/stack_downgrade_tier_3.png"
+hash = "e14bc9b0bda48d22aa942dad3f9d29986a6bb0366a7bd7bbe8d031cc21ead3e3"
+
+[[files]]
+file = "public/resourcepacks/Homestead GUI/assets/sophisticatedbackpacks/textures/item/stack_upgrade_omega_tier.png"
+hash = "9be14dc818f49f51acd020f296d8fb6ddea4bab7a93ba85d04a33c919836fbc8"
+
+[[files]]
+file = "public/resourcepacks/Homestead GUI/assets/sophisticatedbackpacks/textures/item/stack_upgrade_starter_tier.png"
+hash = "11b2f2ff49a2c174dae898350e5df8fba98984ee30443b229d49c035ed42b922"
+
+[[files]]
+file = "public/resourcepacks/Homestead GUI/assets/sophisticatedbackpacks/textures/item/stack_upgrade_tier_1.png"
+hash = "b44a22b7c7beff825b366ad013c9f90aaa424628b292dd9e060c8f988d6568f1"
+
+[[files]]
+file = "public/resourcepacks/Homestead GUI/assets/sophisticatedbackpacks/textures/item/stack_upgrade_tier_2.png"
+hash = "8b5e783283540059cf8375c50d85498dd1a2a7bd1fcc3980b4e5c2be92353200"
+
+[[files]]
+file = "public/resourcepacks/Homestead GUI/assets/sophisticatedbackpacks/textures/item/stack_upgrade_tier_3.png"
+hash = "f279049d256e6cbc1835e4593747949e9badd9474e120681279c177cf79b35ae"
+
+[[files]]
+file = "public/resourcepacks/Homestead GUI/assets/sophisticatedbackpacks/textures/item/stack_upgrade_tier_4.png"
+hash = "3419992f824908c9633e3b1696f9f963d14911bd3f6617af2de8da20a5a21068"
+
+[[files]]
+file = "public/resourcepacks/Homestead GUI/assets/sophisticatedbackpacks/textures/item/stonecutter_upgrade.png"
+hash = "2bc6c3fd7c2f98cbc072297765e74f2bd9212dfca5e318a7a20d065b87c2a7fa"
+
+[[files]]
+file = "public/resourcepacks/Homestead GUI/assets/sophisticatedbackpacks/textures/item/survival_infinity_upgrade.png"
+hash = "62324c903ce66055dcd189887d227aa2046cf1fba8da0243cd88a1f6343ef28f"
+
+[[files]]
+file = "public/resourcepacks/Homestead GUI/assets/sophisticatedbackpacks/textures/item/tank_upgrade.png"
+hash = "948391c247c406a2a980d3dee3ae95914583a06a8d009f2506ba60e981cdf14a"
+
+[[files]]
+file = "public/resourcepacks/Homestead GUI/assets/sophisticatedbackpacks/textures/item/tool_swapper_upgrade.png"
+hash = "e997edb8069e52b5e92b2c62c12aaea7b0c277368ab638c81e014b6018429e82"
+
+[[files]]
+file = "public/resourcepacks/Homestead GUI/assets/sophisticatedbackpacks/textures/item/upgrade_base.png"
+hash = "b9890609fa68755ab97e25ad241d204f6b95a7fd2d91ab3c9805176b1c5971e3"
+
+[[files]]
+file = "public/resourcepacks/Homestead GUI/assets/sophisticatedbackpacks/textures/item/void_upgrade.png"
+hash = "b7465ca4017d8b0eadd56d234b0c59e0bf3aa7b4d59433c8fb749a4bd24273a4"
+
+[[files]]
+file = "public/resourcepacks/Homestead GUI/assets/sophisticatedbackpacks/textures/item/xp_pump_upgrade.png"
+hash = "5c0a6d5a861cb6a6026b98681997680a2d130fae8a63ad74f273df598e16dc8a"
+
+[[files]]
+file = "public/resourcepacks/Homestead GUI/assets/sophisticatedcore/textures/gui/gui_controls.png"
+hash = "101710d01475c5a90590b0f8fe671571ea895c078f31ce478da496ebe48af05e"
+
+[[files]]
+file = "public/resourcepacks/Homestead GUI/assets/sophisticatedcore/textures/gui/icons.png"
+hash = "d1ec87509939e43080efaede474d2a06b7a3c5d9a987beda42f668b77fd4f448"
+
+[[files]]
+file = "public/resourcepacks/Homestead GUI/assets/sophisticatedcore/textures/gui/slots_background.png"
+hash = "8d2efe93b2c8b7f221814e3e4b831872bc96cafcc7837f08cd33ab7e1a628b0f"
+
+[[files]]
+file = "public/resourcepacks/Homestead GUI/assets/sophisticatedcore/textures/gui/storage_background_12.png"
+hash = "a501001598421845c04ddaaff39b503555e64275abb984dc9d9f526b75f8cd65"
+
+[[files]]
+file = "public/resourcepacks/Homestead GUI/assets/sophisticatedcore/textures/gui/storage_background_12_wider.png"
+hash = "ff5229e7586fc1fc741c9b49bb8098b38a0c975131cdbb4a6ad1145cb5f210e9"
+
+[[files]]
+file = "public/resourcepacks/Homestead GUI/assets/sophisticatedcore/textures/gui/storage_background_9.png"
+hash = "83af88b1b77c96661c3bc7b52dbbf183f5737504f50650e0b1dc9ebd6587d807"
+
+[[files]]
+file = "public/resourcepacks/Homestead GUI/assets/sophisticatedcore/textures/gui/storage_background_9_wider.png"
+hash = "02df7f9fb98fcafca640e845fbf7ef46477aa3f7b1110512b600eec1bf72c3c0"
+
+[[files]]
+file = "public/resourcepacks/Homestead GUI/assets/supplementaries/textures/gui/slots/key.png"
+hash = "e6486a4e8c949514dbeb2f852725c70523e252fc0be41503a6278e92e228b8ee"
+
+[[files]]
+file = "public/resourcepacks/Homestead GUI/assets/supplementaries/textures/gui/slots/quiver.png"
+hash = "ae2c2993165f8c3a6944bef1953f5bcbd7b12ab7018c8d42cdf1caf113df8407"
+
+[[files]]
+file = "public/resourcepacks/Homestead GUI/assets/toms_storage/textures/gui/crafting_terminal.png"
+hash = "c7bfc707ec7e455e614d4b50be43185ddb86ac87cf271e78da01764bbbfc8337"
+
+[[files]]
+file = "public/resourcepacks/Homestead GUI/assets/toms_storage/textures/gui/filter_buttons.png"
+hash = "f08ce6187706007fcfb1f041301a6cc0496a9c7c8d7d054c242d034ac0cf7ec7"
+
+[[files]]
+file = "public/resourcepacks/Homestead GUI/assets/toms_storage/textures/gui/inventory_link.png"
+hash = "fdcc0449587a8153f4f027e76ad9c7d8737808eeabba42181fcbff096b7c0cfc"
+
+[[files]]
+file = "public/resourcepacks/Homestead GUI/assets/toms_storage/textures/gui/level_emitter.png"
+hash = "44ea90232be17661efae5ab0c323a20392ee86d4b7c2a790d86283d31e75ded6"
+
+[[files]]
+file = "public/resourcepacks/Homestead GUI/assets/toms_storage/textures/gui/storage_terminal.png"
+hash = "406b502020ba8b42784a597f327019cb214b42fcc2a25b14800f1cd2e45f872f"
+
+[[files]]
+file = "public/resourcepacks/Homestead GUI/assets/toms_storage/textures/gui/tag_filter.png"
+hash = "a87ed5afbeee40c78b5af3c2f43352aec8fe3cffdd8e8770fa5aa455b464a48d"
+
+[[files]]
+file = "public/resourcepacks/Homestead GUI/assets/trashslot/textures/gui/slot.png"
+hash = "1e4191826fc56d63948a51e471a4570d107c52e4b25e961a1776f12a692d4e34"
+
+[[files]]
+file = "public/resourcepacks/Homestead GUI/assets/trashslot/textures/item/trashcan.png"
+hash = "bc4bd89ed297d9cf66cc24565d0066b19394d85d7af8331a0dbda82d4fb73aea"
+
+[[files]]
+file = "public/resourcepacks/Homestead GUI/assets/trinketlantern/textures/gui/legs/lantern_slot.png"
+hash = "6be0d90f23eb46d095d3171106004457153c30ef28e2aa082fba50266d458518"
+
+[[files]]
+file = "public/resourcepacks/Homestead GUI/assets/trinkets/textures/gui/blank_back.png"
+hash = "8cddacc07db9af68c9cec64705784567e1cbbb83c3df5c44d4987e1df06068c8"
+
+[[files]]
+file = "public/resourcepacks/Homestead GUI/assets/trinkets/textures/gui/more_slots.png"
+hash = "7f90487a162d4b3b7ea88b749297180f6b89a13eb858b34b50a5c88930756acc"
+
+[[files]]
+file = "public/resourcepacks/Homestead GUI/assets/trinkets/textures/gui/slots/aglet.png"
+hash = "dd860bc22b79170688f98ac941eb766e46458d3a5a89c9338de86770bdb0d057"
+
+[[files]]
+file = "public/resourcepacks/Homestead GUI/assets/trinkets/textures/gui/slots/back.png"
+hash = "58a8ecb6835d8a95a55f0816444373d7aad8433e9ece36cf77e50013f52adb5e"
+
+[[files]]
+file = "public/resourcepacks/Homestead GUI/assets/trinkets/textures/gui/slots/belt.png"
+hash = "e3b8109f5abf127a1b3d30dbfb18573f2f7db2da5cc063dd6e635d056c76bad2"
+
+[[files]]
+file = "public/resourcepacks/Homestead GUI/assets/trinkets/textures/gui/slots/cape.png"
+hash = "d2a69c7fd746b52f0e0ede198c2c6420dc871dbdb3f188d59c587134afa92594"
+
+[[files]]
+file = "public/resourcepacks/Homestead GUI/assets/trinkets/textures/gui/slots/charm.png"
+hash = "bca736d6cd957519f499b3db168e267d43c8007c062a0c115984fba02e6a397e"
+
+[[files]]
+file = "public/resourcepacks/Homestead GUI/assets/trinkets/textures/gui/slots/face.png"
+hash = "652edb092dfe2c28443059ee98f8ec07ed5644f5497f9f8411459f8f0e8bdd5b"
+
+[[files]]
+file = "public/resourcepacks/Homestead GUI/assets/trinkets/textures/gui/slots/glove.png"
+hash = "029dc97ca90983254b6e8f78be3f2a190626c21103ea48d0792eb2cfe266f402"
+
+[[files]]
+file = "public/resourcepacks/Homestead GUI/assets/trinkets/textures/gui/slots/glove_mirrored.png"
+hash = "796687fa687a45059efd507836d148e202a77bb079322a0aecf2650cb9400315"
+
+[[files]]
+file = "public/resourcepacks/Homestead GUI/assets/trinkets/textures/gui/slots/hat.png"
+hash = "1628b1457468fa4d08e9ac3275b8406b5b6d1dd902c48cbc5165848fbcce8c2b"
+
+[[files]]
+file = "public/resourcepacks/Homestead GUI/assets/trinkets/textures/gui/slots/necklace.png"
+hash = "8d53b46f5c30a5c78c158d9a9b461dc1f1e74865d36434fd5b38c48771c0cd30"
+
+[[files]]
+file = "public/resourcepacks/Homestead GUI/assets/trinkets/textures/gui/slots/ring.png"
+hash = "8a3cb118a82888d31da9ea7ca9244fc501b046eb46038ff88e838929160bb0d3"
+
+[[files]]
+file = "public/resourcepacks/Homestead GUI/assets/trinkets/textures/gui/slots/shoes.png"
+hash = "c8f0f1b62ff4d7e54fbd722ceb049eb3c7076020c54444b63f6ae011a54da17b"
+
+[[files]]
+file = "public/resourcepacks/Homestead GUI/pack.mcmeta"
+hash = "fa6ec1fe3d14f871dcf2b04578f084238a4ee9e3b958c1ddd437c9721699195b"
+
+[[files]]
+file = "public/resourcepacks/Homestead GUI/pack.png"
+hash = "cbd14c8d14bf6e1775e398513dd0f2649d66e1495d532f0f50d847e2c7833858"
+
+[[files]]
+file = "public/resourcepacks/HomesteadGUI.zip"
 hash = "e12b7d0b31f73ccbcfcb58ca5969fe327292da2bb6f5dd7617d0313cbcc13725"
 
 [[files]]
+file = "public/resourcepacks/Nobushleaves.zip"
+hash = "a957b0ff9f5e679574a0c88a26a35f2dc3d20a2f524378f85c5159d18e7b7d8f"
+
+[[files]]
+file = "public/resourcepacks/Stay_True_1.20.zip"
+hash = "508bc459fe7125378e595681c3f571724648ff9f0be6dd21e31a83f7eeb1f8e0"
+
+[[files]]
+file = "public/scripts/mods/AlcoCraft+/keg_test.zs"
+hash = "4f1ef7f8636fb6b931f8174df49d247f0144ad84b527f06db1e0c4b24ffbb440"
+
+[[files]]
+file = "public/scripts/mods/Compat/appletrinketfix.zs"
+hash = "1ea391e2b6ea0ee46740dc40890206d270fc09f54e6dbb45084d5883fcbade9c"
+
+[[files]]
+file = "public/scripts/mods/Compat/bater_wucket.zs"
+hash = "618c5bba55f67a37d4b306240c13dc5b7e006c320e4ea656b21962afa3315b9d"
+
+[[files]]
+file = "public/scripts/mods/Compat/butterfly_wings.zs"
+hash = "169752f5ae09c34bf7b6e8b6626b748e4ac290daacc75a7f20aced69b3c70a5a"
+
+[[files]]
+file = "public/scripts/mods/Compat/explorers_compass.zs"
+hash = "16420e5c98eef64d55bca157249cfbc3f427c0c4704ae3e8884edac70f35c874"
+
+[[files]]
+file = "public/scripts/mods/Compat/farmland_fix.zs"
+hash = "87efd684fe5cc17a9e82612fa25e4651d45424e5c90cf196e5520e1335e5031e"
+
+[[files]]
+file = "public/scripts/mods/Compat/flour.zs"
+hash = "09a5e6f6078e5a521907d779c8a88bacf6d9242972b983dff0b5b41ed39d756e"
+
+[[files]]
+file = "public/scripts/mods/Compat/hammer_changes.zs"
+hash = "e3b9291655b44587844553d2a6ab920675ab9c9d322bba07bf7682f392ed3830"
+
+[[files]]
+file = "public/scripts/mods/Compat/loot_table_fixes.zs"
+hash = "548fd5cc028e50db55e739e50554f30b6001365b0a852cdb2189c99e1afb46bd"
+
+[[files]]
+file = "public/scripts/mods/Compat/mod_compat.zs"
+hash = "485844ae352e8bbd7f55044302f4379c947282f51d2c811d805221cfea46e751"
+
+[[files]]
+file = "public/scripts/mods/Compat/obsidian_tool_tagging.zs"
+hash = "2a1209913dc9d87c7e3a659a36c041436a8a3de3b834d1a85cd13ebb0fc6a3ee"
+
+[[files]]
+file = "public/scripts/mods/Compat/questbook_recipefix.zs"
+hash = "d33142f0889bf1f7d108b6a144564753c1661bbfceced6cd2636a475534f0ebd"
+
+[[files]]
+file = "public/scripts/mods/Compat/remove_prismarite_cluster_trim.zs"
+hash = "6a82ad1500f05c3c6841f52fa116d1c85a0d7acf3a35b973de4e1c520b285f24"
+
+[[files]]
+file = "public/scripts/mods/Compat/rope_arrow.zs"
+hash = "e63133333e23874f9fd85414d4300fa0d6be55424aa67f87e95086728f5c52e4"
+
+[[files]]
+file = "public/scripts/mods/Compat/stack_upgrade_balance.zs"
+hash = "42b1905af35eea48c21f855b90e405c961b61a3c2f24adb8563d299a33a8d679"
+
+[[files]]
+file = "public/scripts/mods/Compat/stone.zs"
+hash = "423cb58d653efcc2fda163ec1d0edb982be97752b6071551a1e2e3614d85203b"
+
+[[files]]
+file = "public/scripts/mods/Compat/via_romana.zs"
+hash = "dcfa1a864d62f80e334853e26e668dcbb013eeeaf278c3ae328395c07ec8fd25"
+
+[[files]]
+file = "public/scripts/mods/Create/coin_smelting.zs"
+hash = "b73aafe6994a417e9b8502eedaa40ccc4e7a796b23e0d64b863df13e7d62df87"
+
+[[files]]
+file = "public/scripts/mods/Create/create_milk.zs"
+hash = "beb69cc2f6dba0c4294dba6618e26101f25a180793b1721bc73e245e700275bf"
+
+[[files]]
+file = "public/scripts/mods/Create/ore_processing/main_processing.zs"
+hash = "e12ae88f850a9534a9e12223530437fae12d65c9155ae915d027e98e17439888"
+
+[[files]]
+file = "public/scripts/mods/Create/ore_processing/silver_additions.zs"
+hash = "686711fbb8ff9f8ad42da8102cd177cca6946732b236c1391edd783e79693f80"
+
+[[files]]
+file = "public/scripts/mods/Create/peaceful_blaze_burner.zs"
+hash = "daa19067cc9ff0d34e71fa2254818a4c9534e3351a96bbfe3385633b1984f717"
+
+[[files]]
+file = "public/scripts/mods/Create/renewables/renewables_compacting.zs"
+hash = "d761a12d0b1bd0e0c04120a75152482e238146115ea278d1e0e60fedb1057695"
+
+[[files]]
+file = "public/scripts/mods/Create/renewables/renewables_crushing.zs"
+hash = "5361ae22ef40919f2d352bee2c842c881ae15ee67c7a9cfa936a59a39fe02f9b"
+
+[[files]]
+file = "public/scripts/mods/Create/renewables/renewables_deploying.zs"
+hash = "1b98f4f7ada4a721c453deb8dd8b02534a464dfb8ca22c489d35affbb8d9ea7c"
+
+[[files]]
+file = "public/scripts/mods/Create/renewables/renewables_haunting.zs"
+hash = "a0ed6a5b2708d4edd6bd8d4691c0cf965894d422e0d4f64b3d370e46239aeffb"
+
+[[files]]
+file = "public/scripts/mods/Create/renewables/renewables_mixing.zs"
+hash = "d2d9ed171d8f15eec56991e308614df56866448ec6cbd03d0fc80710f69a8e39"
+
+[[files]]
+file = "public/scripts/mods/Create/renewables/renewables_pressing.zs"
+hash = "d5fbf00d20c5979141498d4bb9d264c9bf7cde63b716e021663cc0ec3a055a2d"
+
+[[files]]
+file = "public/scripts/mods/Create/renewables/renewables_splashing.zs"
+hash = "39e02215f214a4ea3e52de6b375edfb6f51685c13efeefb0957ec302f465ee50"
+
+[[files]]
+file = "public/scripts/mods/Create/renewables/sandpaper_polishing.zs"
+hash = "8cdac4bb17feb5c7a27903bf92b5fd00d5396c2b40683cb26b2e1db0eeedfecb"
+
+[[files]]
+file = "public/scripts/mods/Create/vault.zs"
+hash = "abf8e699bd585e9f79ac8546f5c6b2a9833af5d4f22a0f2b6a83c26e6a696b5b"
+
+[[files]]
+file = "public/scripts/mods/Custom/amd_drivers.zs"
+hash = "6ae6c8819795add827feb2e88b73157348cfa194fc4c739eb9f9065393a0e42a"
+
+[[files]]
+file = "public/scripts/mods/Custom/custom_smithing.zs"
+hash = "3f0451155298dcf07df8fcfcf2acc9e90e623e0fa023456d7fbf9c5e1614aa82"
+
+[[files]]
+file = "public/scripts/mods/Custom/elytra.zs"
+hash = "4ede4510a2a3b5a1b377696fcb6b76eed2ef57b0e8cfcb6bcd203d8556439979"
+
+[[files]]
+file = "public/scripts/mods/Custom/logo.zs"
+hash = "c4bc99cd57e0f3d6f0ee3b7fd26b9e65c0af201f53d8264d954d85de942f2018"
+
+[[files]]
+file = "public/scripts/mods/Custom/lyn.zs"
+hash = "83850d3adae4b5d7fc81646da85da4b3b90b6a76ae07c41728ce66663e0cdf7c"
+
+[[files]]
+file = "public/scripts/mods/Custom/mama.zs"
+hash = "f2946c83fa07888c79611d21e0ac34e431abe4d664f891a5dfc6d5f5138d792d"
+
+[[files]]
+file = "public/scripts/mods/Custom/nametag.zs"
+hash = "a038d5b9ecc62a3a7cbfed00686c6ba6a5d049f1f3e145a8a684020ead4e52cf"
+
+[[files]]
+file = "public/scripts/mods/Custom/nvidia_graphics_card.zs"
+hash = "568df00d700392915fc7a379f4386695798e6da6d1c1165e6eeeb8c1c4c2f0c1"
+
+[[files]]
+file = "public/scripts/mods/Custom/plushies.zs"
+hash = "d5ddcaa7d0932da9121ae79a1802a92686e038058e2d1094c241797f56ec9541"
+
+[[files]]
+file = "public/scripts/mods/Custom/ram.zs"
+hash = "b069eb573fba6e0cf703b2452041e41c6d37a9fa0d5e59ef07fe97c034318616"
+
+[[files]]
+file = "public/scripts/mods/Custom/saddle.zs"
+hash = "95ba0e3e3cdc853490cae331b229eb83c297a9ca08b5e541f68177218041ea31"
+
+[[files]]
+file = "public/scripts/mods/Custom/shiitake_mushroom_soup.zs"
+hash = "42ad5f240eea6cfe69f1cb62fd5451f46d304eb6adb436012562294295669ea7"
+
+[[files]]
+file = "public/scripts/mods/Custom/template.zs"
+hash = "ddaf2957cfd74fd42a2ced4d860c5135b110c4ea3257af389c7d04da3869b71f"
+
+[[files]]
+file = "public/scripts/mods/Custom/toadstool.zs"
+hash = "a5013207aa25c9e2fe3a2a80c678ea1a322258d70127b5384ba23228ec8e63d2"
+
+[[files]]
+file = "public/scripts/mods/Custom/tuff.zs"
+hash = "d49995d236d0c02c62aab5c40cfadea1c5b3b02e1fd8705d4542871302bc3229"
+
+[[files]]
+file = "public/scripts/mods/Mythic Upgrades/armor_attribute_buff.zs"
+hash = "edb0c74f23181b94263bea6062706e5ff3d2a1c3d5306d99f6332133d5ed857b"
+
+[[files]]
+file = "public/scripts/mods/Mythic Upgrades/armor_crafting.zs"
+hash = "79fd9a304d0d1669cfec2321bb4f3e28bc36e5f6760e190b33f494262f0aefe2"
+
+[[files]]
+file = "public/scripts/mods/Mythic Upgrades/mythic-upgrades-changelog.txt"
+hash = "d8704cd77106819049409f5a0d5f4f6ec4594cb7f90b3683e876bdc607e21e55"
+
+[[files]]
+file = "public/scripts/mods/Spelunkery/ironpickonastick.zs"
+hash = "df7864966710b407e5ab16098db86ab5e502f0f4dad1819010e434e8a6724a73"
+
+[[files]]
+file = "public/scripts/mods/[Let's Do] Brewery/hops_based_beers.zs"
+hash = "aea899e0b3f96ece5584824618f704d2abed4633587199878833241ef5931de3"
+
+[[files]]
+file = "resourcepacks/Homestead GUI/assets/appleskin/appleskin.png.pw.toml"
+hash = "ad7ecfcb44849483c9c44fd46f474433320c183dd68f16c37646934d4198b6a4"
+metafile = true
+
+[[files]]
+file = "resourcepacks/Homestead GUI/assets/appleskin/lang/cs_cz.json.pw.toml"
+hash = "b468571ff0de45b79889d84bdb17ac6dc334f8fc6960e5348973f69729d2d518"
+metafile = true
+
+[[files]]
+file = "resourcepacks/Homestead GUI/assets/appleskin/lang/de_de.json.pw.toml"
+hash = "446bf6a21f8f3d56843a12bd08c21b6c0a9731420efaa4c3eaae62915ec9e28c"
+metafile = true
+
+[[files]]
+file = "resourcepacks/Homestead GUI/assets/appleskin/lang/en_us.json.pw.toml"
+hash = "326ddb3350fbc74da8d47142460530732184049bca01fe832ad5efef501cf9e1"
+metafile = true
+
+[[files]]
+file = "resourcepacks/Homestead GUI/assets/appleskin/lang/fr_fr.json.pw.toml"
+hash = "7617ac3700e5ca8d43553ae5e8ff8e8fdb38df852cee2bb070112effeb71969d"
+metafile = true
+
+[[files]]
+file = "resourcepacks/Homestead GUI/assets/appleskin/lang/hy_am.json.pw.toml"
+hash = "c3fa4f6b47b8e71e7ebccd3154d001e012673927d4c741b367f3daadc4b3288d"
+metafile = true
+
+[[files]]
+file = "resourcepacks/Homestead GUI/assets/appleskin/lang/ko_kr.json.pw.toml"
+hash = "5f2dd4a457a9470947bcf04a050e006bddec918d0969e765f787f517b37936f3"
+metafile = true
+
+[[files]]
+file = "resourcepacks/Homestead GUI/assets/appleskin/lang/pl_pl.json.pw.toml"
+hash = "6508febd4633dba800958e18850db96b91f59ba784e3b0da462b360938126e89"
+metafile = true
+
+[[files]]
+file = "resourcepacks/Homestead GUI/assets/appleskin/lang/ru_ru.json.pw.toml"
+hash = "0e9104938aba2dadb42a35047c04f85b65ff4db24148c58265cc33ac8ff60efb"
+metafile = true
+
+[[files]]
+file = "resourcepacks/Homestead GUI/assets/appleskin/lang/tr_TR.json.pw.toml"
+hash = "560acae064c733b5b10ba6ca581ee3129d981ecc9f8a7a399604679e6f9d18bb"
+metafile = true
+
+[[files]]
+file = "resourcepacks/Homestead GUI/assets/appleskin/lang/uk_ua.json.pw.toml"
+hash = "4f3a7587058deffdd8a8c48fbe17be3f5820562b24f6372d9e36b0bfbb99aa15"
+metafile = true
+
+[[files]]
+file = "resourcepacks/Homestead GUI/assets/appleskin/lang/zh_cn.json.pw.toml"
+hash = "a454bb4365a6638c325e2515eb23c34876e4bad43af7d4360f52b86389f244d0"
+metafile = true
+
+[[files]]
+file = "resourcepacks/Homestead GUI/assets/appleskin/textures/icons.png.pw.toml"
+hash = "f1f949c173fcbc2cb21cc31a43c4992c302ad430754f89ed14db9594185e985a"
+metafile = true
+
+[[files]]
+file = "resourcepacks/Homestead GUI/assets/backpack_allthemodium_upgrade/textures/item/stack_upgrade_tier_5.png.pw.toml"
+hash = "497ebf861271a815a87b9b7b00ba9c1066740b99ab99763978f21587255972f1"
+metafile = true
+
+[[files]]
+file = "resourcepacks/Homestead GUI/assets/backpack_allthemodium_upgrade/textures/item/stack_upgrade_tier_6.png.pw.toml"
+hash = "41ab87ee1e8d99a2f2810b682882ac67edd48a113ae59f12b8b008adc4ecac2a"
+metafile = true
+
+[[files]]
+file = "resourcepacks/Homestead GUI/assets/backpack_allthemodium_upgrade/textures/item/stack_upgrade_tier_7.png.pw.toml"
+hash = "d3bc98ff2a849e76b7182b9e1199a8f3fce782fb2e5eb71f053c009277229595"
+metafile = true
+
+[[files]]
+file = "resourcepacks/Homestead GUI/assets/detailab/icon.png.pw.toml"
+hash = "6e99ebca616349420367989082bd17e871098c0e9ed0aab4ca451dbaee3c02f7"
+metafile = true
+
+[[files]]
+file = "resourcepacks/Homestead GUI/assets/detailab/lang/en_us.json.pw.toml"
+hash = "d266f67b6bc9629f8d55671df353843feedc0af4e2493dd2c9aeaec2c358b31d"
+metafile = true
+
+[[files]]
+file = "resourcepacks/Homestead GUI/assets/detailab/lang/ko_kr.json.pw.toml"
+hash = "3e59e7e133a513d18d6057d903c93ab55e541ed78ccf1b7374c324a193ea3c83"
+metafile = true
+
+[[files]]
+file = "resourcepacks/Homestead GUI/assets/detailab/textures/armor_bar.png.pw.toml"
+hash = "279ed22b25aa55679bc17d51f993a19e43231fa64ece8bbb130a5536c5ed4729"
+metafile = true
+
+[[files]]
+file = "resourcepacks/Homestead GUI/assets/homestead/textures/farm_diagram.png.pw.toml"
+hash = "093cda3affef8b74c216c4c9b372963af40c259d7f7b1023d9df345ce63e1531"
+metafile = true
+
+[[files]]
+file = "resourcepacks/Homestead GUI/assets/minecraft/lang/en_us.json.pw.toml"
+hash = "649b741210fc236b76c447588bd0b22d61418c6953e59b9d5c53a9da7b5e0394"
+metafile = true
+
+[[files]]
+file = "resourcepacks/Homestead GUI/assets/minecraft/sounds/random/click.ogg.pw.toml"
+hash = "2850afe5d8cfdfd82a9ba59565b86f5435fc83ecaaf79871205f48e2f327915c"
+metafile = true
+
+[[files]]
+file = "resourcepacks/Homestead GUI/assets/minecraft/textures/gui/accessibility.png.pw.toml"
+hash = "6236aefea47c76b97172501ec5205041bbd988ba8b6027e9b6a9bc40af6616be"
+metafile = true
+
+[[files]]
+file = "resourcepacks/Homestead GUI/assets/minecraft/textures/gui/advancements/tabs.png.pw.toml"
+hash = "afaeb4d63423142c7adea0b4dbe79927afe975c5bcbc85d246315ef50a43c8df"
+metafile = true
+
+[[files]]
+file = "resourcepacks/Homestead GUI/assets/minecraft/textures/gui/advancements/widgets.png.pw.toml"
+hash = "de51f5e8961902de3da622d04b7f55235a26eae4cc75ef6c68955e676662c17d"
+metafile = true
+
+[[files]]
+file = "resourcepacks/Homestead GUI/assets/minecraft/textures/gui/advancements/window.png.pw.toml"
+hash = "894c5dae065bfb09b425dd5960318be85f22d6ccea881a1d2e43482b885db53f"
+metafile = true
+
+[[files]]
+file = "resourcepacks/Homestead GUI/assets/minecraft/textures/gui/bars.png.pw.toml"
+hash = "11ab9e55e8880aec343e39dad4e27e93307e57ef3c0bcc53325159845a2b8394"
+metafile = true
+
+[[files]]
+file = "resourcepacks/Homestead GUI/assets/minecraft/textures/gui/book.png.pw.toml"
+hash = "1fd5fe90462c34fbce32e92cabad7182b0b202fec142e2f1ed592478035fd380"
+metafile = true
+
+[[files]]
+file = "resourcepacks/Homestead GUI/assets/minecraft/textures/gui/container/anvil.png.pw.toml"
+hash = "aa472bd33ba5eae14880d72b9fde4b06189b81a4ba208bb47826fad934a91589"
+metafile = true
+
+[[files]]
+file = "resourcepacks/Homestead GUI/assets/minecraft/textures/gui/container/beacon.png.pw.toml"
+hash = "b085a26e4869bb9af0167734af6bbcba6d1a277f4df892c6ed61b927b9e53ed7"
+metafile = true
+
+[[files]]
+file = "resourcepacks/Homestead GUI/assets/minecraft/textures/gui/container/blast_furnace.png.pw.toml"
+hash = "8a59253238717f0052c6066abd1363093032b6ba546fa27fb4d59c09a671cca3"
+metafile = true
+
+[[files]]
+file = "resourcepacks/Homestead GUI/assets/minecraft/textures/gui/container/brewing_stand.png.pw.toml"
+hash = "db4fb1b49134e6293ae85c3b113577b8251ba71fa65c1f7294d7eb4c5b7f8f7d"
+metafile = true
+
+[[files]]
+file = "resourcepacks/Homestead GUI/assets/minecraft/textures/gui/container/bundle.png.pw.toml"
+hash = "44b15e269d3d8e27cde3c40117c16672c65d7837cb36fa22baef8676e2b3d9cb"
+metafile = true
+
+[[files]]
+file = "resourcepacks/Homestead GUI/assets/minecraft/textures/gui/container/cartography_table.png.pw.toml"
+hash = "fe0c55db77224a50dc3740e9ec648d6ff8465cc1f87dce9b94510ad991ec71d6"
+metafile = true
+
+[[files]]
+file = "resourcepacks/Homestead GUI/assets/minecraft/textures/gui/container/crafting_table.png.pw.toml"
+hash = "b39a91f0479cb1a705181766397785cabe59942874288dc2c12b748499398085"
+metafile = true
+
+[[files]]
+file = "resourcepacks/Homestead GUI/assets/minecraft/textures/gui/container/creative_inventory/tab_inventory.png.pw.toml"
+hash = "0513dd49609842853e52938a56398c777f622ed8b75e24fb83ff6cebd9041ec1"
+metafile = true
+
+[[files]]
+file = "resourcepacks/Homestead GUI/assets/minecraft/textures/gui/container/creative_inventory/tab_item_search.png.pw.toml"
+hash = "9a23f4caebf407ec3ac9a4d7bae43df0d5b6ee463d6f1cd70ff44d989401676c"
+metafile = true
+
+[[files]]
+file = "resourcepacks/Homestead GUI/assets/minecraft/textures/gui/container/creative_inventory/tab_items.png.pw.toml"
+hash = "50ab8fc3e3e495ac9d8b38445d8aaf03eaea233667b3c572906c0830693ec27e"
+metafile = true
+
+[[files]]
+file = "resourcepacks/Homestead GUI/assets/minecraft/textures/gui/container/creative_inventory/tabs.png.pw.toml"
+hash = "5e0549114a8cd3de8cc79928c145d21320c777e7e2c94a3a05f62d8de52ee0bb"
+metafile = true
+
+[[files]]
+file = "resourcepacks/Homestead GUI/assets/minecraft/textures/gui/container/dispenser.png.pw.toml"
+hash = "f1fa1be1dd128d30be991e67e7293eb753c17aa08e4ec50d52812462e9923a68"
+metafile = true
+
+[[files]]
+file = "resourcepacks/Homestead GUI/assets/minecraft/textures/gui/container/enchanting_table.png.pw.toml"
+hash = "362a9762decbd72536100b8cca241ae47292e5136d702dd8da828fc81aa14dc1"
+metafile = true
+
+[[files]]
+file = "resourcepacks/Homestead GUI/assets/minecraft/textures/gui/container/furnace.png.pw.toml"
+hash = "38d980cf36b898d400792006524f417d8d9825aef821a710eca35a28e7a6b640"
+metafile = true
+
+[[files]]
+file = "resourcepacks/Homestead GUI/assets/minecraft/textures/gui/container/gamemode_switcher.png.pw.toml"
+hash = "61a96a141d0500f2d606c048be87a7bc14525d625aa46d97336cc425e625398e"
+metafile = true
+
+[[files]]
+file = "resourcepacks/Homestead GUI/assets/minecraft/textures/gui/container/generic_54.png.pw.toml"
+hash = "132f4f4c2447b365cb10aae007b0166b8a73a4aee7fe00924a39f896bdbc4a5b"
+metafile = true
+
+[[files]]
+file = "resourcepacks/Homestead GUI/assets/minecraft/textures/gui/container/grindstone.png.pw.toml"
+hash = "a87e92e1fce61ef2baf41da1289ed468784a6fcdc7f74e18458f61721f26de25"
+metafile = true
+
+[[files]]
+file = "resourcepacks/Homestead GUI/assets/minecraft/textures/gui/container/hopper.png.pw.toml"
+hash = "0117d4495e93759485a4c509fa855c40c0ce9f01a9086c95e2fa8d881dcfb210"
+metafile = true
+
+[[files]]
+file = "resourcepacks/Homestead GUI/assets/minecraft/textures/gui/container/horse.png.pw.toml"
+hash = "ae9ee1f982f9e3b430a4f10389b9c3b1b87bd65444bc29688b531d948f114ae6"
+metafile = true
+
+[[files]]
+file = "resourcepacks/Homestead GUI/assets/minecraft/textures/gui/container/inventory.png.pw.toml"
+hash = "5bb334d008718e9f2566da18addb0d6c1bc1cdb9ea62fcb24a2f1653a02faec0"
+metafile = true
+
+[[files]]
+file = "resourcepacks/Homestead GUI/assets/minecraft/textures/gui/container/legacy_smithing.png.pw.toml"
+hash = "eaff7c144f1c6a1367680c412d0fb0380a6e6fda33f76df5d6bd6f35bf26a5b0"
+metafile = true
+
+[[files]]
+file = "resourcepacks/Homestead GUI/assets/minecraft/textures/gui/container/loom.png.pw.toml"
+hash = "df148ed2d92feed7ffaad9e37847977c4145798fe98357cdc9737442f6d8c07d"
+metafile = true
+
+[[files]]
+file = "resourcepacks/Homestead GUI/assets/minecraft/textures/gui/container/shulker_box.png.pw.toml"
+hash = "0a2130e96be04661be307a5005c4f9969769d92a7f5a3e77489e8266e86a32e3"
+metafile = true
+
+[[files]]
+file = "resourcepacks/Homestead GUI/assets/minecraft/textures/gui/container/smithing.png.pw.toml"
+hash = "8a6ff254e08ce1453516a5e4bc98c70f3aaaabb6c93da920bbccd79ab0132ee6"
+metafile = true
+
+[[files]]
+file = "resourcepacks/Homestead GUI/assets/minecraft/textures/gui/container/smoker.png.pw.toml"
+hash = "026e8dfba71dfc97ee3e5924a74695a0d8fa765ddcbb92e9c4d53977e4ed67fc"
+metafile = true
+
+[[files]]
+file = "resourcepacks/Homestead GUI/assets/minecraft/textures/gui/container/stats_icons.png.pw.toml"
+hash = "0618870d44e80df912f635083072d27f9c21fc83fd8fe4ebbca8d90b96ab8b41"
+metafile = true
+
+[[files]]
+file = "resourcepacks/Homestead GUI/assets/minecraft/textures/gui/container/stonecutter.png.pw.toml"
+hash = "1ce16095c256b67d8fa27a68e1ded14f2348415b9903bd66ddbaec218bfcbc61"
+metafile = true
+
+[[files]]
+file = "resourcepacks/Homestead GUI/assets/minecraft/textures/gui/container/villager2.png.pw.toml"
+hash = "12cfd298fd030bc3bf66500f6a15fd0fc2417322532ed7a304c63ed9bf33c9c2"
+metafile = true
+
+[[files]]
+file = "resourcepacks/Homestead GUI/assets/minecraft/textures/gui/icons.png.pw.toml"
+hash = "f3e5f8473403c2c9b7810e7a873ef6b04b34ce784aec83aa60300e5f53bb4a79"
+metafile = true
+
+[[files]]
+file = "resourcepacks/Homestead GUI/assets/minecraft/textures/gui/light_dirt_background.png.pw.toml"
+hash = "6f2f615f77427169240becadb0b346851973d6cbe398f6c60c0432be6e468fa0"
+metafile = true
+
+[[files]]
+file = "resourcepacks/Homestead GUI/assets/minecraft/textures/gui/options_background.png.pw.toml"
+hash = "af074d9f9005d6457a71339aa3a11fe0de44f1b348aa5fb2c79ba3c697cdb44b"
+metafile = true
+
+[[files]]
+file = "resourcepacks/Homestead GUI/assets/minecraft/textures/gui/recipe_book.png.pw.toml"
+hash = "66a5e08dbe5917787532f0af04ed16cd6fef87bd2cfae64cc669e86ae4fdf1f2"
+metafile = true
+
+[[files]]
+file = "resourcepacks/Homestead GUI/assets/minecraft/textures/gui/recipe_button.png.pw.toml"
+hash = "0e0104370d9db0540de6114141de49d506e91e738eb731e68e0b2b4017e6ca6f"
+metafile = true
+
+[[files]]
+file = "resourcepacks/Homestead GUI/assets/minecraft/textures/gui/resource_packs.png.pw.toml"
+hash = "2579b8130f6237d0c17519ba82f3b6882f31eb384934be7c6c49e27313652375"
+metafile = true
+
+[[files]]
+file = "resourcepacks/Homestead GUI/assets/minecraft/textures/gui/server_selection.png.pw.toml"
+hash = "40cfffd1c5c926433f99fbe43860b63139f0037ad482d00b2acf7e3ce31722c7"
+metafile = true
+
+[[files]]
+file = "resourcepacks/Homestead GUI/assets/minecraft/textures/gui/slider.png.pw.toml"
+hash = "2ffc0fbfa19f3462829d31f9e752e372b7b1623e02e61004a506570e17b9ef4c"
+metafile = true
+
+[[files]]
+file = "resourcepacks/Homestead GUI/assets/minecraft/textures/gui/social_interactions.png.pw.toml"
+hash = "5cefdefde4c90f5621388181eae1afaaf97110d783358cde9f9754ae3cd995ff"
+metafile = true
+
+[[files]]
+file = "resourcepacks/Homestead GUI/assets/minecraft/textures/gui/toasts.png.pw.toml"
+hash = "257b2d40f4653668745c428e802e2c370d3f32e2375e467ec37125fd89805ec0"
+metafile = true
+
+[[files]]
+file = "resourcepacks/Homestead GUI/assets/minecraft/textures/gui/widgets.png.pw.toml"
+hash = "522dd976f3f37ba05217fcea337ac96f9e69fae900384beb4ed6226b4ca14d97"
+metafile = true
+
+[[files]]
+file = "resourcepacks/Homestead GUI/assets/minecraft/textures/gui/world_selection.png.pw.toml"
+hash = "60c1ffcb4fdc407f113e8345c7ba112824b3acb57ff00e4b2eed78f76880130d"
+metafile = true
+
+[[files]]
+file = "resourcepacks/Homestead GUI/assets/sophisticatedbackpacks/models/block/backpack.json.pw.toml"
+hash = "94953e90387c52ff30bf03e9b10c54e10bed6ce07c11a91b42241a0b6b60769f"
+metafile = true
+
+[[files]]
+file = "resourcepacks/Homestead GUI/assets/sophisticatedbackpacks/models/block/backpack_base.json.pw.toml"
+hash = "d1953e76bbaacbf5eb9408fbbaaddc156b0353a4dec4c8620d3089b0d61906d9"
+metafile = true
+
+[[files]]
+file = "resourcepacks/Homestead GUI/assets/sophisticatedbackpacks/models/block/backpack_battery.json.pw.toml"
+hash = "6fa605151d2c5ba50c785f4ad7cbefe0b73dc73f4fb4b68cd6bc3013f53c811f"
+metafile = true
+
+[[files]]
+file = "resourcepacks/Homestead GUI/assets/sophisticatedbackpacks/models/block/backpack_front_pouch.json.pw.toml"
+hash = "c279ce4840f4b36d693b309b9eca58174e9be6aa09c2b03f99640ff0d07d943f"
+metafile = true
+
+[[files]]
+file = "resourcepacks/Homestead GUI/assets/sophisticatedbackpacks/models/block/backpack_left_pouch.json.pw.toml"
+hash = "d4d7d09e2bbd32d648a95ee5cfa4176bd88dba6a3afd54049dd28a76741e9c0c"
+metafile = true
+
+[[files]]
+file = "resourcepacks/Homestead GUI/assets/sophisticatedbackpacks/models/block/backpack_left_tank.json.pw.toml"
+hash = "62fda70f14cfbf6a21e9f8c766a54cf090205160614b7c2a2482d5b3498a0403"
+metafile = true
+
+[[files]]
+file = "resourcepacks/Homestead GUI/assets/sophisticatedbackpacks/models/block/backpack_right_pouch.json.pw.toml"
+hash = "4cccec3b1067ba7b3bee0189708b6d400b606fcdb86827af42937b118dc5b9d9"
+metafile = true
+
+[[files]]
+file = "resourcepacks/Homestead GUI/assets/sophisticatedbackpacks/models/block/backpack_right_tank.json.pw.toml"
+hash = "84837bf33ce7ff7c84e4eef4b6cbdf5e77edf7d3eb3d31f07964964f36767556"
+metafile = true
+
+[[files]]
+file = "resourcepacks/Homestead GUI/assets/sophisticatedbackpacks/models/block/copper_backpack.json.pw.toml"
+hash = "ac45836240870e40adfe1499a9e934a54d63b16410a9fa2052b9606f13a9a08d"
+metafile = true
+
+[[files]]
+file = "resourcepacks/Homestead GUI/assets/sophisticatedbackpacks/models/block/diamond_backpack.json.pw.toml"
+hash = "f15fdbf86efe49b14babf4f167222e28fab371b1ac454ed4ecb6fae8dccc0afc"
+metafile = true
+
+[[files]]
+file = "resourcepacks/Homestead GUI/assets/sophisticatedbackpacks/models/block/gold_backpack.json.pw.toml"
+hash = "0e23bc1972ff1c126a2d3021148500e2494695d42ae136ad0df597fcbe651d77"
+metafile = true
+
+[[files]]
+file = "resourcepacks/Homestead GUI/assets/sophisticatedbackpacks/models/block/iron_backpack.json.pw.toml"
+hash = "c8f3dfb4c85290a3281629c250bf1a3f55db2eca5eab5ebcd308adef41a439df"
+metafile = true
+
+[[files]]
+file = "resourcepacks/Homestead GUI/assets/sophisticatedbackpacks/models/block/netherite_backpack.json.pw.toml"
+hash = "d59f8a48ec321e0f65597aaed7bc1b14c3fbc09c988d72dd3b42ff8faafa9f34"
+metafile = true
+
+[[files]]
+file = "resourcepacks/Homestead GUI/assets/sophisticatedbackpacks/textures/block/backpack_border.png.pw.toml"
+hash = "3453277aab648a558013f3a5cad8b48f45e31d19b2f4adcaf65cd9eba13156a8"
+metafile = true
+
+[[files]]
+file = "resourcepacks/Homestead GUI/assets/sophisticatedbackpacks/textures/block/backpack_cloth.png.pw.toml"
+hash = "d5f7a66c7b7dc415d8c8b3b50423fbbe1fba5dfce1a71c3d4ce3c6d5e07f221d"
+metafile = true
+
+[[files]]
+file = "resourcepacks/Homestead GUI/assets/sophisticatedbackpacks/textures/block/backpack_modules.png.pw.toml"
+hash = "8ddba9f8a2d99e842e541e3cd070650d59874355d6a3804312e7a71ff95874b8"
+metafile = true
+
+[[files]]
+file = "resourcepacks/Homestead GUI/assets/sophisticatedbackpacks/textures/block/backpack_modules_glass.png.pw.toml"
+hash = "8706057823ccb6142e53527f89508e6705069d3bc078a56e82a0d791f6ad0b10"
+metafile = true
+
+[[files]]
+file = "resourcepacks/Homestead GUI/assets/sophisticatedbackpacks/textures/block/copper_clips.png.pw.toml"
+hash = "5f8b52a81867458b01d313722c6ae225e2ce36eac6f6111f7eea594a5a56de9b"
+metafile = true
+
+[[files]]
+file = "resourcepacks/Homestead GUI/assets/sophisticatedbackpacks/textures/block/diamond_clips.png.pw.toml"
+hash = "8b88765f774fda60b5890a439f653a9d1c251bcbc731c6fb708c19783e179b64"
+metafile = true
+
+[[files]]
+file = "resourcepacks/Homestead GUI/assets/sophisticatedbackpacks/textures/block/gold_clips.png.pw.toml"
+hash = "536588d699d7b49645c53436f173ce3941bf40068154f41fcdd4a075e9314085"
+metafile = true
+
+[[files]]
+file = "resourcepacks/Homestead GUI/assets/sophisticatedbackpacks/textures/block/iron_clips.png.pw.toml"
+hash = "3391b07a885f7c8ebe5245923e5d1aedf9ae27970c2b0754bebd8ecaedba385e"
+metafile = true
+
+[[files]]
+file = "resourcepacks/Homestead GUI/assets/sophisticatedbackpacks/textures/block/leather_clips.png.pw.toml"
+hash = "76ec110920528a1bcc6114b73d37861ebdb7f26e8cf38d073854c5cdf80265dc"
+metafile = true
+
+[[files]]
+file = "resourcepacks/Homestead GUI/assets/sophisticatedbackpacks/textures/block/netherite_clips.png.pw.toml"
+hash = "c9bbff7c8751704256aab8b3c5df1186e2dadbd0d620cce102e57dbf86d61c8f"
+metafile = true
+
+[[files]]
+file = "resourcepacks/Homestead GUI/assets/sophisticatedbackpacks/textures/block/particle.png.pw.toml"
+hash = "d61bf736a85836f8b0efc8beb2c5a59bb35f7c85582279ff4662bd32e31015bf"
+metafile = true
+
+[[files]]
+file = "resourcepacks/Homestead GUI/assets/sophisticatedbackpacks/textures/entity/backpack.png.pw.toml"
+hash = "880065e1e7d61dc13afc0727ea134ae7155e022b83c5c4fd1a05fd8054e2da15"
+metafile = true
+
+[[files]]
+file = "resourcepacks/Homestead GUI/assets/sophisticatedbackpacks/textures/entity/tank_glass.png.pw.toml"
+hash = "d60e7ead6999c6735230f72f55a76b19ac20c15c30ac1b1159652a36522d849f"
+metafile = true
+
+[[files]]
+file = "resourcepacks/Homestead GUI/assets/sophisticatedbackpacks/textures/item/activator_upgrade.png.pw.toml"
+hash = "5823ad31a3173b8f8bd92d666fa924056ccc9b66aa70554eaf18e1fdb03b8264"
+metafile = true
+
+[[files]]
+file = "resourcepacks/Homestead GUI/assets/sophisticatedbackpacks/textures/item/advanced_compacting_upgrade.png.pw.toml"
+hash = "73b9bcc58bf1c9abe75c2e60885621bdb329743e9819f4c71d8ec521e7ee5d1f"
+metafile = true
+
+[[files]]
+file = "resourcepacks/Homestead GUI/assets/sophisticatedbackpacks/textures/item/advanced_deposit_upgrade.png.pw.toml"
+hash = "bebc050e5f6adfa6b1676e76e21229f9dbceeafa13cc894108ff20253a154a6e"
+metafile = true
+
+[[files]]
+file = "resourcepacks/Homestead GUI/assets/sophisticatedbackpacks/textures/item/advanced_feeding_upgrade.png.pw.toml"
+hash = "4beb29cb99a01029c81898bc7fdd795f814569d87e322b7773340fa2eee6ef35"
+metafile = true
+
+[[files]]
+file = "resourcepacks/Homestead GUI/assets/sophisticatedbackpacks/textures/item/advanced_filter_upgrade.png.pw.toml"
+hash = "786ad320b77a95f5eb8c7908444f3f21e7c7eba159b5e12f3d13733f21ca1810"
+metafile = true
+
+[[files]]
+file = "resourcepacks/Homestead GUI/assets/sophisticatedbackpacks/textures/item/advanced_jukebox_upgrade.png.pw.toml"
+hash = "3896369d198e2a40472ab4d28d5e383aaf7836de7ee8c564a989ea6368d84b20"
+metafile = true
+
+[[files]]
+file = "resourcepacks/Homestead GUI/assets/sophisticatedbackpacks/textures/item/advanced_magnet_upgrade.png.pw.toml"
+hash = "e709726107dc2121bbd1c9ef1bb706659f0ad482004295348c4a30e1bab3ea76"
+metafile = true
+
+[[files]]
+file = "resourcepacks/Homestead GUI/assets/sophisticatedbackpacks/textures/item/advanced_pickup_upgrade.png.pw.toml"
+hash = "654a5a19c9c5e87ea7657061d4fb9739829053eec3a048d4e204692686d63ecc"
+metafile = true
+
+[[files]]
+file = "resourcepacks/Homestead GUI/assets/sophisticatedbackpacks/textures/item/advanced_pump_upgrade.png.pw.toml"
+hash = "7b05158759c476f214cd93b32e8ae4459a3c281756605c0cb4aeb6a898645fb3"
+metafile = true
+
+[[files]]
+file = "resourcepacks/Homestead GUI/assets/sophisticatedbackpacks/textures/item/advanced_refill_upgrade.png.pw.toml"
+hash = "11f32aea7a4c3ca46f460b87f6b4473be527e63cb9338d4c1f4d2bb48dda3f71"
+metafile = true
+
+[[files]]
+file = "resourcepacks/Homestead GUI/assets/sophisticatedbackpacks/textures/item/advanced_restock_upgrade.png.pw.toml"
+hash = "94b7ca0e2d99790a2c66e78f149d6f42e97a72d951fcf8543f8849efab81c955"
+metafile = true
+
+[[files]]
+file = "resourcepacks/Homestead GUI/assets/sophisticatedbackpacks/textures/item/advanced_tool_swapper_upgrade.png.pw.toml"
+hash = "b5037e82bb9a855693de369abe9f4693794d34c2db86f11667debbd5fc0fd62a"
+metafile = true
+
+[[files]]
+file = "resourcepacks/Homestead GUI/assets/sophisticatedbackpacks/textures/item/advanced_upgrade_base.png.pw.toml"
+hash = "685d382a81b7bcfccf1d2c1b3b7ba61e718f2aad61cf044349443c8ba992a026"
+metafile = true
+
+[[files]]
+file = "resourcepacks/Homestead GUI/assets/sophisticatedbackpacks/textures/item/advanced_void_upgrade.png.pw.toml"
+hash = "9cf3b5581c0fcbf2c6d164a5cf714cc747fa8cb9687495208425b2d6765809ee"
+metafile = true
+
+[[files]]
+file = "resourcepacks/Homestead GUI/assets/sophisticatedbackpacks/textures/item/anvil_upgrade.png.pw.toml"
+hash = "f954d06cc664264944e960e14888faa678c3037ca244b1c425288981371dc758"
+metafile = true
+
+[[files]]
+file = "resourcepacks/Homestead GUI/assets/sophisticatedbackpacks/textures/item/auto_blasting_upgrade.png.pw.toml"
+hash = "044b60646049cd38994e02d8135ed5f1a976d22222e0ad02f52993195922778a"
+metafile = true
+
+[[files]]
+file = "resourcepacks/Homestead GUI/assets/sophisticatedbackpacks/textures/item/auto_smelting_upgrade.png.pw.toml"
+hash = "2b5076b6a94e8b6d15311b8387153ace27db5b857230b540bf7bfea308350a8a"
+metafile = true
+
+[[files]]
+file = "resourcepacks/Homestead GUI/assets/sophisticatedbackpacks/textures/item/auto_smoking_upgrade.png.pw.toml"
+hash = "b1c1dd523bb739f02cce414e9f9d0d15059c3fd609613e302d777c7c3dbf2771"
+metafile = true
+
+[[files]]
+file = "resourcepacks/Homestead GUI/assets/sophisticatedbackpacks/textures/item/battery_upgrade.png.pw.toml"
+hash = "a08b9e3e886d70ff3dbf831433529d26d06004b3dbb6968f3b9ab6b597e8c059"
+metafile = true
+
+[[files]]
+file = "resourcepacks/Homestead GUI/assets/sophisticatedbackpacks/textures/item/blasting_upgrade.png.pw.toml"
+hash = "2fab6b6a3c16a214526a47a3cc4b90259d6074bce70b8093d1e8eebb8c8194ac"
+metafile = true
+
+[[files]]
+file = "resourcepacks/Homestead GUI/assets/sophisticatedbackpacks/textures/item/chipped/alchemy_bench_upgrade.png.pw.toml"
+hash = "39501a80e5e939d5f1ca80d90c9286f2d3343eea5b6b9c393144cf61f7313022"
+metafile = true
+
+[[files]]
+file = "resourcepacks/Homestead GUI/assets/sophisticatedbackpacks/textures/item/chipped/botanist_workbench_upgrade.png.pw.toml"
+hash = "11b1401681171dfc28c0f66b6d7369c5119552c3aa40ea68f88ee46bb8334cd2"
+metafile = true
+
+[[files]]
+file = "resourcepacks/Homestead GUI/assets/sophisticatedbackpacks/textures/item/chipped/carpenters_table_upgrade.png.pw.toml"
+hash = "b6e74d57b4ce0e942fbeff24993c1828c5124e77faa469843917cb5953f6d253"
+metafile = true
+
+[[files]]
+file = "resourcepacks/Homestead GUI/assets/sophisticatedbackpacks/textures/item/chipped/glassblower_upgrade.png.pw.toml"
+hash = "f87070390749ad1c1e381b105d5a3fdef861059061d7112588148ba83ad2bec2"
+metafile = true
+
+[[files]]
+file = "resourcepacks/Homestead GUI/assets/sophisticatedbackpacks/textures/item/chipped/loom_table_upgrade.png.pw.toml"
+hash = "789702cec896201e8eed7017560c99c7fc5b9ea30918d65993167f9168e13bff"
+metafile = true
+
+[[files]]
+file = "resourcepacks/Homestead GUI/assets/sophisticatedbackpacks/textures/item/chipped/mason_table_upgrade.png.pw.toml"
+hash = "d509ea8ad2f975e0573e90a89f52f1bb94fd51373ef40fd607111d6c836d4d69"
+metafile = true
+
+[[files]]
+file = "resourcepacks/Homestead GUI/assets/sophisticatedbackpacks/textures/item/chipped/tinkering_table_upgrade.png.pw.toml"
+hash = "ee12db8a57d6d9e212d5be2b65afec49844e27fad517fd2310531f317cfadd67"
+metafile = true
+
+[[files]]
+file = "resourcepacks/Homestead GUI/assets/sophisticatedbackpacks/textures/item/compacting_upgrade.png.pw.toml"
+hash = "6ea4ffcaebb002a3d90f0215727ba3cb624a97fee4297480e4de7a071f87a726"
+metafile = true
+
+[[files]]
+file = "resourcepacks/Homestead GUI/assets/sophisticatedbackpacks/textures/item/crafting_upgrade.png.pw.toml"
+hash = "cb782c5196b5ecf26bda48381817634bf4f0a32af40eacdfd29cb75937d5d9fa"
+metafile = true
+
+[[files]]
+file = "resourcepacks/Homestead GUI/assets/sophisticatedbackpacks/textures/item/deposit_upgrade.png.pw.toml"
+hash = "1108da55545b2bd2c310bd4652ea4f851093c603a7ad0670b6dda8e0585ad6a7"
+metafile = true
+
+[[files]]
+file = "resourcepacks/Homestead GUI/assets/sophisticatedbackpacks/textures/item/diffuser_upgrade.png.pw.toml"
+hash = "975bf8db285fc717de6aac9e5ea27412306228e5c0fc73c3451dbfda1eaca69e"
+metafile = true
+
+[[files]]
+file = "resourcepacks/Homestead GUI/assets/sophisticatedbackpacks/textures/item/diffuser_upgrade_advanced.png.pw.toml"
+hash = "2b15a7ae2cd0f85679592fdff12b80a508526453f0aa49fcaa664fd78047911f"
+metafile = true
+
+[[files]]
+file = "resourcepacks/Homestead GUI/assets/sophisticatedbackpacks/textures/item/drop_upgrade.png.pw.toml"
+hash = "bdfc8f2232dd599682cf588d847e8df1b35b420e0d9b4dd0a801378c232bb0cd"
+metafile = true
+
+[[files]]
+file = "resourcepacks/Homestead GUI/assets/sophisticatedbackpacks/textures/item/drop_upgrade_advanced.png.pw.toml"
+hash = "bac2adb624320a41d0a3374d015e254d9301167364852aec0c320ec5c524d09b"
+metafile = true
+
+[[files]]
+file = "resourcepacks/Homestead GUI/assets/sophisticatedbackpacks/textures/item/empty_hammer_slot.png.pw.toml"
+hash = "6a7f5fc149371c5ba1571919c218a720411b695c6edf97066da60ff007c3d27d"
+metafile = true
+
+[[files]]
+file = "resourcepacks/Homestead GUI/assets/sophisticatedbackpacks/textures/item/everlasting_upgrade.png.pw.toml"
+hash = "d64d43ead17b9c7417f10745cd05fc96428c271267a528bd4d351bf681126158"
+metafile = true
+
+[[files]]
+file = "resourcepacks/Homestead GUI/assets/sophisticatedbackpacks/textures/item/feeding_upgrade.png.pw.toml"
+hash = "a72d502347d86e68a6904fc65ea244301c272a384b3c2e6143ba0bde713d26ec"
+metafile = true
+
+[[files]]
+file = "resourcepacks/Homestead GUI/assets/sophisticatedbackpacks/textures/item/filter_upgrade.png.pw.toml"
+hash = "05d3464b6e9cbcb991329567b76e460bf08254912092f724deb924502be88877"
+metafile = true
+
+[[files]]
+file = "resourcepacks/Homestead GUI/assets/sophisticatedbackpacks/textures/item/identification_upgrade.png.pw.toml"
+hash = "5c4d06d8d6b1c092a4b74fd1758519eb50525708b93ce3be3f9037fdc3563efd"
+metafile = true
+
+[[files]]
+file = "resourcepacks/Homestead GUI/assets/sophisticatedbackpacks/textures/item/identification_upgrade_advanced.png.pw.toml"
+hash = "66d329d52307eb311511928417d648ad15d25059ea3265f4cbf32b57e0fb9b25"
+metafile = true
+
+[[files]]
+file = "resourcepacks/Homestead GUI/assets/sophisticatedbackpacks/textures/item/inception_upgrade.png.pw.toml"
+hash = "52303da21884f283406923a6707299f1ecbf8207fb8cc07c7b34831c2a3fc132"
+metafile = true
+
+[[files]]
+file = "resourcepacks/Homestead GUI/assets/sophisticatedbackpacks/textures/item/infinity_upgrade.png.pw.toml"
+hash = "9afe33fcf249b89f1c998b1085871137bd2f12146647ccdde9c5635968235f69"
+metafile = true
+
+[[files]]
+file = "resourcepacks/Homestead GUI/assets/sophisticatedbackpacks/textures/item/jukebox_upgrade.png.pw.toml"
+hash = "759cbbcbe360384ce4ba471a31ba5b89eb9ce1ce1e11417d32059c371abb4a33"
+metafile = true
+
+[[files]]
+file = "resourcepacks/Homestead GUI/assets/sophisticatedbackpacks/textures/item/magnet_upgrade.png.pw.toml"
+hash = "05c109e1ba788dbb36e43f2d8ac3328e3b22fc9d51ecd965ada0262f6bec0494"
+metafile = true
+
+[[files]]
+file = "resourcepacks/Homestead GUI/assets/sophisticatedbackpacks/textures/item/pickup_upgrade.png.pw.toml"
+hash = "9fe962f53e415e470b2eeab9020668c46cd1711e0962f09fa53a761908e26464"
+metafile = true
+
+[[files]]
+file = "resourcepacks/Homestead GUI/assets/sophisticatedbackpacks/textures/item/pump_upgrade.png.pw.toml"
+hash = "7abc9b3d7c212756276c01877e18792e21a48796b28f54720b89bc83ff6ad418"
+metafile = true
+
+[[files]]
+file = "resourcepacks/Homestead GUI/assets/sophisticatedbackpacks/textures/item/recycler_upgrade.png.pw.toml"
+hash = "7d8c0b7f14b66c8157ebec26a25f41691ddc49de68cdf8bfd2b7d395ea729743"
+metafile = true
+
+[[files]]
+file = "resourcepacks/Homestead GUI/assets/sophisticatedbackpacks/textures/item/recycler_upgrade_advanced.png.pw.toml"
+hash = "92d2d5c4e1210533b40ba92151960d6c58d517bf2dcf46d18f549bb89eb961c3"
+metafile = true
+
+[[files]]
+file = "resourcepacks/Homestead GUI/assets/sophisticatedbackpacks/textures/item/refill_upgrade.png.pw.toml"
+hash = "002e2602e9dd7572849ef485ed65b25e8c044288c1c87bd78fc2c4add0f252ef"
+metafile = true
+
+[[files]]
+file = "resourcepacks/Homestead GUI/assets/sophisticatedbackpacks/textures/item/restock_upgrade.png.pw.toml"
+hash = "ff924f24632c3b94e948b97d1cac31f0aaf490243f5c2609138fe4dd3ff7ee44"
+metafile = true
+
+[[files]]
+file = "resourcepacks/Homestead GUI/assets/sophisticatedbackpacks/textures/item/smelting_upgrade.png.pw.toml"
+hash = "dd2efda618d4d87aa68d830415f6647a481a1c502725133ae1499bff099fc8a0"
+metafile = true
+
+[[files]]
+file = "resourcepacks/Homestead GUI/assets/sophisticatedbackpacks/textures/item/smithing_upgrade.png.pw.toml"
+hash = "5442e39754e7fce6d2489675a2b3abd75516c6bad68eaede2dd5d5148ccfed06"
+metafile = true
+
+[[files]]
+file = "resourcepacks/Homestead GUI/assets/sophisticatedbackpacks/textures/item/smoking_upgrade.png.pw.toml"
+hash = "57881a1599f386ca8bb65f5e98fe8a4463b5cf442932267220eecb1660147507"
+metafile = true
+
+[[files]]
+file = "resourcepacks/Homestead GUI/assets/sophisticatedbackpacks/textures/item/stack_downgrade_tier_1.png.pw.toml"
+hash = "7b61913154cc58629bc774008cfcc229f0612608448ad2b8abf1f540a3ed0ded"
+metafile = true
+
+[[files]]
+file = "resourcepacks/Homestead GUI/assets/sophisticatedbackpacks/textures/item/stack_downgrade_tier_2.png.pw.toml"
+hash = "a987bb5c4a23ba4ebc9fc2f0febab78b6e7f36defdc8484825b7bddf46edca53"
+metafile = true
+
+[[files]]
+file = "resourcepacks/Homestead GUI/assets/sophisticatedbackpacks/textures/item/stack_downgrade_tier_3.png.pw.toml"
+hash = "1105fb663110a3b5b9c920a2e4f94dd780c9981c683d629dc9f25edd30238fde"
+metafile = true
+
+[[files]]
+file = "resourcepacks/Homestead GUI/assets/sophisticatedbackpacks/textures/item/stack_upgrade_omega_tier.png.pw.toml"
+hash = "b300dce5b601a3262d21f905330dfc5d73c350e0ccae4475be0a7df97d4470f2"
+metafile = true
+
+[[files]]
+file = "resourcepacks/Homestead GUI/assets/sophisticatedbackpacks/textures/item/stack_upgrade_starter_tier.png.pw.toml"
+hash = "1dd3b1186f24f6bbe862357774a5cbb16df21c9140a11f4995f256ae7e3de95f"
+metafile = true
+
+[[files]]
+file = "resourcepacks/Homestead GUI/assets/sophisticatedbackpacks/textures/item/stack_upgrade_tier_1.png.pw.toml"
+hash = "063dff63eb05519f225ff581a549c6d396680f57fb41e8821266021f4f6a736a"
+metafile = true
+
+[[files]]
+file = "resourcepacks/Homestead GUI/assets/sophisticatedbackpacks/textures/item/stack_upgrade_tier_2.png.pw.toml"
+hash = "f5300e49e4cbf10f7389eeb7b1dbd132d1891a372002ffbb1eca20e1fa55b78e"
+metafile = true
+
+[[files]]
+file = "resourcepacks/Homestead GUI/assets/sophisticatedbackpacks/textures/item/stack_upgrade_tier_3.png.pw.toml"
+hash = "672647d0affe4a491bdd8804a4e244b5fb6fe62d7907c06faddc737c851acfa0"
+metafile = true
+
+[[files]]
+file = "resourcepacks/Homestead GUI/assets/sophisticatedbackpacks/textures/item/stack_upgrade_tier_4.png.pw.toml"
+hash = "267c1cbb67e566b94b7276823c9708e92beb9d5bebbf4dd173dd8ca63efc27c8"
+metafile = true
+
+[[files]]
+file = "resourcepacks/Homestead GUI/assets/sophisticatedbackpacks/textures/item/stonecutter_upgrade.png.pw.toml"
+hash = "fcf33dd929e6c32a6c826e59a4e88d8e61b8c93ffb376062a369326406507680"
+metafile = true
+
+[[files]]
+file = "resourcepacks/Homestead GUI/assets/sophisticatedbackpacks/textures/item/survival_infinity_upgrade.png.pw.toml"
+hash = "7c66f81cfe2c116a9fda8f713d4d35ca9360e460d6ef9f764603517cc1586b51"
+metafile = true
+
+[[files]]
+file = "resourcepacks/Homestead GUI/assets/sophisticatedbackpacks/textures/item/tank_upgrade.png.pw.toml"
+hash = "bade9848a804d7e1634696fc9790f10c7ff810036d1d22ff244de3b333cdeb10"
+metafile = true
+
+[[files]]
+file = "resourcepacks/Homestead GUI/assets/sophisticatedbackpacks/textures/item/tool_swapper_upgrade.png.pw.toml"
+hash = "4a3c58c1bdae22a965febb6d253e4dbeb93620a8abfc1d3632d3dab9b729c76f"
+metafile = true
+
+[[files]]
+file = "resourcepacks/Homestead GUI/assets/sophisticatedbackpacks/textures/item/upgrade_base.png.pw.toml"
+hash = "b9c51fba72f8dc2aa04ae2a3405f0bd46f3ee16735f24baead690a1087f70dee"
+metafile = true
+
+[[files]]
+file = "resourcepacks/Homestead GUI/assets/sophisticatedbackpacks/textures/item/void_upgrade.png.pw.toml"
+hash = "e114265499f4af3b54697ca95a7e13a25fb7ac27b0b5d11e9c24a907258ad92b"
+metafile = true
+
+[[files]]
+file = "resourcepacks/Homestead GUI/assets/sophisticatedbackpacks/textures/item/xp_pump_upgrade.png.pw.toml"
+hash = "305d90e128cffaac030420d8f167068e95a80abbfc0a5831928596c692911a60"
+metafile = true
+
+[[files]]
+file = "resourcepacks/Homestead GUI/assets/sophisticatedcore/textures/gui/gui_controls.png.pw.toml"
+hash = "0c215fa60858ef16fdeb9824edd02413b3a3782256b8641b118644335c0a8f4a"
+metafile = true
+
+[[files]]
+file = "resourcepacks/Homestead GUI/assets/sophisticatedcore/textures/gui/icons.png.pw.toml"
+hash = "fc6aaf235e1b44c0e8c6f1489fcad7841cad6f5f6294f864e1e36d1ff7120011"
+metafile = true
+
+[[files]]
+file = "resourcepacks/Homestead GUI/assets/sophisticatedcore/textures/gui/slots_background.png.pw.toml"
+hash = "83497879516dfef7c1f59faa8d0a12c105e48a54574787e4def89a5147860a8c"
+metafile = true
+
+[[files]]
+file = "resourcepacks/Homestead GUI/assets/sophisticatedcore/textures/gui/storage_background_12.png.pw.toml"
+hash = "20b91f5eac8292d8762ec3c17d6e92d64021320e527069ad8237e67efc472b15"
+metafile = true
+
+[[files]]
+file = "resourcepacks/Homestead GUI/assets/sophisticatedcore/textures/gui/storage_background_12_wider.png.pw.toml"
+hash = "5b2a2baef3df66f611f530e195c5c848a9858b8a6e9b405c9e5a131a5ac8d102"
+metafile = true
+
+[[files]]
+file = "resourcepacks/Homestead GUI/assets/sophisticatedcore/textures/gui/storage_background_9.png.pw.toml"
+hash = "27be23eb7cdb3cdd56b961c98f9c1d9e008840135b97e139882ca6e231855e6d"
+metafile = true
+
+[[files]]
+file = "resourcepacks/Homestead GUI/assets/sophisticatedcore/textures/gui/storage_background_9_wider.png.pw.toml"
+hash = "bc8a649a30d893aa23b5649941a614aabfb33a98fd7f4371e9ef08039c21f26c"
+metafile = true
+
+[[files]]
+file = "resourcepacks/Homestead GUI/assets/supplementaries/textures/gui/slots/key.png.pw.toml"
+hash = "6bbdbb7031d9221fdf730a546fcb318d4ac6dbf2f074962985ca41bfcaf77ab6"
+metafile = true
+
+[[files]]
+file = "resourcepacks/Homestead GUI/assets/supplementaries/textures/gui/slots/quiver.png.pw.toml"
+hash = "779653f839c5d022e87f4693349c0cce380b614a52ef9566a86d3cfa5f37b3a1"
+metafile = true
+
+[[files]]
+file = "resourcepacks/Homestead GUI/assets/toms_storage/textures/gui/crafting_terminal.png.pw.toml"
+hash = "911ff1b5c50b601da0bbec1e62bde5039ef3c8923bfb554ce5fcd69bfc6e79d7"
+metafile = true
+
+[[files]]
+file = "resourcepacks/Homestead GUI/assets/toms_storage/textures/gui/filter_buttons.png.pw.toml"
+hash = "795d5784d13ccc61d828f34100360a1cd519c02143145071fc3ab85b26b796f9"
+metafile = true
+
+[[files]]
+file = "resourcepacks/Homestead GUI/assets/toms_storage/textures/gui/inventory_link.png.pw.toml"
+hash = "29db57fd1da97a98713c751cb5f74b24289f287f0ad7cabf506d64614478344c"
+metafile = true
+
+[[files]]
+file = "resourcepacks/Homestead GUI/assets/toms_storage/textures/gui/level_emitter.png.pw.toml"
+hash = "4163796b01f6888ee1a8c178c2328d4a2e32ef43c3f9b8ef4e9d1a4ccf354a92"
+metafile = true
+
+[[files]]
+file = "resourcepacks/Homestead GUI/assets/toms_storage/textures/gui/storage_terminal.png.pw.toml"
+hash = "717ef820c3af150ec29132cb84081de24fa7e2410a0e44f9eae134f01a0bb33b"
+metafile = true
+
+[[files]]
+file = "resourcepacks/Homestead GUI/assets/toms_storage/textures/gui/tag_filter.png.pw.toml"
+hash = "bd20cdca2105d6f67e0d3aade4b0c1b94e1074c76869ba1e733aebc11154ace8"
+metafile = true
+
+[[files]]
+file = "resourcepacks/Homestead GUI/assets/trashslot/textures/gui/slot.png.pw.toml"
+hash = "075a4f04b6fe66ac017f3a6b343b35b654698365af11eecb6aac93d0be7ef32f"
+metafile = true
+
+[[files]]
+file = "resourcepacks/Homestead GUI/assets/trashslot/textures/item/trashcan.png.pw.toml"
+hash = "d825c5ff4de43d60aa65b416bbddd29054fe1bd08c224864e3a703574a99f222"
+metafile = true
+
+[[files]]
+file = "resourcepacks/Homestead GUI/assets/trinketlantern/textures/gui/legs/lantern_slot.png.pw.toml"
+hash = "59b8cfa94373aaee8256185d9143a0ba4d3f8c2692a623c7ded06bb33cda54eb"
+metafile = true
+
+[[files]]
+file = "resourcepacks/Homestead GUI/assets/trinkets/textures/gui/blank_back.png.pw.toml"
+hash = "7a430801f892abbfeb873a8f66ac3ea544d59e5b8404a72560eaab727f532d69"
+metafile = true
+
+[[files]]
+file = "resourcepacks/Homestead GUI/assets/trinkets/textures/gui/more_slots.png.pw.toml"
+hash = "300b8325c9af9238a93ed9b26ae7c4f1c0dce0782d2c607ad37a8cb0f796a337"
+metafile = true
+
+[[files]]
+file = "resourcepacks/Homestead GUI/assets/trinkets/textures/gui/slots/aglet.png.pw.toml"
+hash = "8cd2e2886524620d72eea858f2d8752b3ca57c2740eaa0d3bafe2cd65fd4006a"
+metafile = true
+
+[[files]]
+file = "resourcepacks/Homestead GUI/assets/trinkets/textures/gui/slots/back.png.pw.toml"
+hash = "8035cf89b5b8e26c98000d5818d5e12c108027bf166e7d7d48ab271a5737cd9f"
+metafile = true
+
+[[files]]
+file = "resourcepacks/Homestead GUI/assets/trinkets/textures/gui/slots/belt.png.pw.toml"
+hash = "3a454dee36c63cc17ce6cb4e9ad12e09d8d36cb2ad3d6a735dc2c8042c073cff"
+metafile = true
+
+[[files]]
+file = "resourcepacks/Homestead GUI/assets/trinkets/textures/gui/slots/cape.png.pw.toml"
+hash = "7b7dc1fe2543bd5fb521ee974e720ecb0a79208c7e10cfe6a54147aae8ddc290"
+metafile = true
+
+[[files]]
+file = "resourcepacks/Homestead GUI/assets/trinkets/textures/gui/slots/charm.png.pw.toml"
+hash = "26dc7d35fb017aeaa936d80e5c9228c29eb50e02313a196082a6d22335501768"
+metafile = true
+
+[[files]]
+file = "resourcepacks/Homestead GUI/assets/trinkets/textures/gui/slots/face.png.pw.toml"
+hash = "79b52fc27c877849e00e320d96cad4dbc8b5dd95d1b25c156413634f6dac3482"
+metafile = true
+
+[[files]]
+file = "resourcepacks/Homestead GUI/assets/trinkets/textures/gui/slots/glove.png.pw.toml"
+hash = "8cebc928b2e08638b2bc3780eb2e05b42acd072cdf3820e5127bd8429aaea78c"
+metafile = true
+
+[[files]]
+file = "resourcepacks/Homestead GUI/assets/trinkets/textures/gui/slots/glove_mirrored.png.pw.toml"
+hash = "1779f54a08f5fe18c5764e17a9e46e8692646a2778a49fbf52ab44349e81a14b"
+metafile = true
+
+[[files]]
+file = "resourcepacks/Homestead GUI/assets/trinkets/textures/gui/slots/hat.png.pw.toml"
+hash = "66e0bb2882694ece57e96b2cc655f837abd8d45999d08b6f46d1b303b06e6116"
+metafile = true
+
+[[files]]
+file = "resourcepacks/Homestead GUI/assets/trinkets/textures/gui/slots/necklace.png.pw.toml"
+hash = "1ba450f72c94b78b2d043ff81418012611ea4c3aa3a465d9449cf2a13e56d8c4"
+metafile = true
+
+[[files]]
+file = "resourcepacks/Homestead GUI/assets/trinkets/textures/gui/slots/ring.png.pw.toml"
+hash = "ebdcf4c306f09feddaae7ad1dd0a6815e274293381c2e28def4e291b769c0abe"
+metafile = true
+
+[[files]]
+file = "resourcepacks/Homestead GUI/assets/trinkets/textures/gui/slots/shoes.png.pw.toml"
+hash = "9b41e373fdbc493768b0faa1be485b5b7e0ec3c7602c2ec6878a79d981a242a5"
+metafile = true
+
+[[files]]
+file = "resourcepacks/Homestead GUI/pack.mcmeta.pw.toml"
+hash = "d51c2aa51a4ccd351bcba3a65f2824744aec1bc6d07d6fad78c6eb6d22207bc9"
+metafile = true
+
+[[files]]
+file = "resourcepacks/Homestead GUI/pack.png.pw.toml"
+hash = "7199b4e31e574491e247e21f060cddebb72296e79904be6ea331c650433dcf9f"
+metafile = true
+
+[[files]]
 file = "resourcepacks/HomesteadGUI.zip.pw.toml"
-hash = "56f16d450d86498da0d6df8dc738b6877df61ec836271561b0b5001aa64464f6"
+hash = "9925706f286fd423db535ace5d6263ae4cdd3e27407a63377decf8cc232fda74"
+metafile = true
+
+[[files]]
+file = "resourcepacks/Nobushleaves.zip.pw.toml"
+hash = "b261510f8e582e2d0f3b2c8c08e9c7218bdad639d751e58afa0056da92010789"
+metafile = true
+
+[[files]]
+file = "resourcepacks/Stay_True_1.20.zip.pw.toml"
+hash = "baca319f9f795818663f02f90a2d6b832b2020f4d57d32df9dc76e2a954db957"
 metafile = true
 
 [[files]]
 file = "scripts/mods/AlcoCraft+/keg_test.zs.pw.toml"
-hash = "1ab3c69d4f8f766ffdf397e551170bacca362e38a608a93892b54d90fe15f7bd"
+hash = "767a1241fffc6383769de58dfe1ad9c0b3fdda779707af75acb8688e4bf1c6a0"
 metafile = true
 
 [[files]]
 file = "scripts/mods/Compat/appletrinketfix.zs.pw.toml"
-hash = "a1721af4c4f0bd01f2e8ba3264036d069d74dd46deaf010fef951db7e3efd2d0"
+hash = "702262112d6cd98b09ae6baeec8ff5a3737f8acb3d617115426b00796bc1d0db"
 metafile = true
 
 [[files]]
-file = "scripts/mods/Compat/bater_wucket.zs.toml"
-hash = "6e098102e2fc1c359e24cd56257752d6d11877711564efd6136a301aaba8dadc"
+file = "scripts/mods/Compat/bater_wucket.zs.pw.toml"
+hash = "5d60e56ca1f153be94f1a767811bbc1a06583b21dfca6728f19cfec846516768"
+metafile = true
 
 [[files]]
-file = "scripts/mods/Compat/butterfly_wings.zs.toml"
-hash = "5c43ee5a20c0e7076849c53fdf83ffac79bbd8b64205a82a64c3028b7c15991f"
+file = "scripts/mods/Compat/butterfly_wings.zs.pw.toml"
+hash = "33f32416b0b38011f5143bdaf4703d2cb1c47716e7c72dc6f8e01d4778a74274"
+metafile = true
 
 [[files]]
 file = "scripts/mods/Compat/explorers_compass.zs.pw.toml"
-hash = "e123f7550443fc34556b7827e66af576b473e25c651c52804df7126da3dfd642"
+hash = "f701324f6863c5eef00ba8334220c3ce91aa4affcde746919e0e3ba91641e8a6"
 metafile = true
 
 [[files]]
 file = "scripts/mods/Compat/farmland_fix.zs.pw.toml"
-hash = "cdb8fc84d33b13bb97dd7938b658aef217c8aae0b3d2889ba1ba83b97a3fa4eb"
+hash = "4d8211dc2c3f09ba0af7bc5f4387ecbe4a6abbf0e6ae7c1e8fa5bc6062fb21fa"
 metafile = true
 
 [[files]]
 file = "scripts/mods/Compat/flour.zs.pw.toml"
-hash = "674e37cd20bcd7ab38696872ab03d61b45e530f41eb059c3ddeff6fbd52590bc"
+hash = "ccf02d21a92c6576c958e3566c734ea701c838a7aaf335ee01e6ffd6db6de7ed"
 metafile = true
 
 [[files]]
 file = "scripts/mods/Compat/hammer_changes.zs.pw.toml"
-hash = "1a351e21522b4a86003f2c84d5593a675e8ef70f6efc87e5c293a998c7b14bad"
+hash = "703ada86c1891509855d25a4a5bb59c7369235c444c86e18d2093638870e409c"
 metafile = true
 
 [[files]]
 file = "scripts/mods/Compat/loot_table_fixes.zs.pw.toml"
-hash = "726c674ff7b0e685dd991f124a4d7f8636eb7f85a65cfdc1bd7052d457733aae"
+hash = "438d7b394c7aff2fadddd4d97b8beac44c121c1faa65da220ad88400a1ae998b"
 metafile = true
 
 [[files]]
 file = "scripts/mods/Compat/mod_compat.zs.pw.toml"
-hash = "4a3dc54d67d238a315b9a851ea78bdd555dac01dbd8c8e1b35c1b48f39dc43ab"
+hash = "ce5772a0b547f8e6877b64fe0cf0148b121af6c388c4a4caf11a73696721c8d8"
 metafile = true
 
 [[files]]
 file = "scripts/mods/Compat/obsidian_tool_tagging.zs.pw.toml"
-hash = "55f6aad4b80a7af44b0b3c1d9f3e31c9731d17b8c080aacdf36ee227524e2bea"
+hash = "0fb6c9ecc2813dd811257be95bd51c4736b9044d04cf14006ebbd1b9c827056c"
 metafile = true
 
 [[files]]
 file = "scripts/mods/Compat/questbook_recipefix.zs.pw.toml"
-hash = "7267565c48755dbc69354a75a123599378ca1e263753a5aadc9b7c5d7dd11bda"
+hash = "890086575c21caa592ef788d5c6f6c08c649107d01031a0b5107aed46d6de9ad"
 metafile = true
 
 [[files]]
 file = "scripts/mods/Compat/remove_prismarite_cluster_trim.zs.pw.toml"
-hash = "1aaf01ee6fc640eb375ed35062cb5e017b8d5563c7da02da7bfe500e8208aa02"
+hash = "dc31cb2760b93f3063f64336f756a7a8d8548c5a0fff52966af006fbb268d8d2"
 metafile = true
 
 [[files]]
 file = "scripts/mods/Compat/rope_arrow.zs.pw.toml"
-hash = "e74bdb6c9da4c293a55e7b87fc097af1992cf06a4299ef5db7318674d6c78320"
+hash = "e6467dbe0fb9281f079e69a2a04ee33c55daa8ca004387bfa9f13894ba598a1b"
 metafile = true
 
 [[files]]
 file = "scripts/mods/Compat/stack_upgrade_balance.zs.pw.toml"
-hash = "2677dc853e27b6c8a25861e418ce19f2398d4f69b86cea62ab62ff20a63e4db8"
+hash = "582cfe5e920055a2f6b672cca8f7948468e4c3f3c184cda9fa3c0f676c736560"
 metafile = true
 
 [[files]]
 file = "scripts/mods/Compat/stone.zs.pw.toml"
-hash = "cc41f446eb566677679a4d4a06b01290bf4cc1a769cfc0e236184657c091b0f8"
+hash = "391b1bdb78cb1d5e059549987cd5aa126d69a53e3f614724dd052332c6f452b7"
 metafile = true
 
 [[files]]
 file = "scripts/mods/Compat/via_romana.zs.pw.toml"
-hash = "2148b64d4b4aec96b7163348efba004cbb0802c79c68325340e4a5a44dedf632"
+hash = "61dd1068b9ebf216a1764e12653a72e3c4f625f7d7d03d3ef47d4da6b783f332"
+metafile = true
+
+[[files]]
+file = "scripts/mods/Create/coin_smelting.zs.pw.toml"
+hash = "7306da68941b4a65ede61075463e2837ec0bf9ca7632b0345ac1b52c513f73c7"
+metafile = true
+
+[[files]]
+file = "scripts/mods/Create/create_milk.zs.pw.toml"
+hash = "3e743fef1e5663dcf542434392355a1d1f054b1ed0f6a70a7178e465ea4f56d4"
+metafile = true
+
+[[files]]
+file = "scripts/mods/Create/ore_processing/main_processing.zs.pw.toml"
+hash = "a470631d23af33c6f0c6963c7114ad1ecf2bef5c4b3482659b3758890d42023a"
+metafile = true
+
+[[files]]
+file = "scripts/mods/Create/ore_processing/silver_additions.zs.pw.toml"
+hash = "1b95f2029eaf5ff19b1b6c3300c3683af57873de3aa969a707dd1e8f7f59a12f"
+metafile = true
+
+[[files]]
+file = "scripts/mods/Create/peaceful_blaze_burner.zs.pw.toml"
+hash = "8ce6bb438840092627158e37ba7ff412b3c9d056f353db70c392fc2cb343e6d7"
+metafile = true
+
+[[files]]
+file = "scripts/mods/Create/renewables/renewables_compacting.zs.pw.toml"
+hash = "920eaee31f96cc3e4def86e3a901546568c70b45b4a75ce1c8e79c789566bfef"
+metafile = true
+
+[[files]]
+file = "scripts/mods/Create/renewables/renewables_crushing.zs.pw.toml"
+hash = "8295ef9c73768b086d04aea66c29cd93e7cfc011652c78682379e6150284d19b"
+metafile = true
+
+[[files]]
+file = "scripts/mods/Create/renewables/renewables_deploying.zs.pw.toml"
+hash = "ccc5f33fe0da7d0bdc9166d893f3d8c6b4fc661cb18d7836e76d88901105077b"
+metafile = true
+
+[[files]]
+file = "scripts/mods/Create/renewables/renewables_haunting.zs.pw.toml"
+hash = "8d49218fac77659e36b9a93fae124ed8ce26cb9ae2577b81475122d050b7f473"
+metafile = true
+
+[[files]]
+file = "scripts/mods/Create/renewables/renewables_mixing.zs.pw.toml"
+hash = "7406313c5c65d4c34c8d8c6e491d8d5382aab824ac8d65a68bb4feaaa9954b9e"
+metafile = true
+
+[[files]]
+file = "scripts/mods/Create/renewables/renewables_pressing.zs.pw.toml"
+hash = "a76791a423fff26b257dd5277b1dc38283b586c0944acc44b426ed8e5b1144e8"
+metafile = true
+
+[[files]]
+file = "scripts/mods/Create/renewables/renewables_splashing.zs.pw.toml"
+hash = "b419af37e99c5d97eac036b4b1e5fbcc1087748102f5bc084d01617c6175185d"
+metafile = true
+
+[[files]]
+file = "scripts/mods/Create/renewables/sandpaper_polishing.zs.pw.toml"
+hash = "26b2f1a6e2289d43afbf2d86d4fd6b5134afc50c1888d66d9fe106b3571149f9"
+metafile = true
+
+[[files]]
+file = "scripts/mods/Create/vault.zs.pw.toml"
+hash = "0c50482057235306f5a29aff92cf10ffe27c4203146841c489422232ffc1803a"
+metafile = true
+
+[[files]]
+file = "scripts/mods/Custom/amd_drivers.zs.pw.toml"
+hash = "5841ffb146b297bb67f64d8c81e4cc51554dc8b932ace4b9795a075841aeddc5"
+metafile = true
+
+[[files]]
+file = "scripts/mods/Custom/custom_smithing.zs.pw.toml"
+hash = "01517072284ca519afba9a8eda2ae688edca56d029bce37a30309f332da19456"
+metafile = true
+
+[[files]]
+file = "scripts/mods/Custom/elytra.zs.pw.toml"
+hash = "750f02a4abce3c3862572bfb8b92e1012dd6a3d8675b9006723ef2370dd2692f"
+metafile = true
+
+[[files]]
+file = "scripts/mods/Custom/logo.zs.pw.toml"
+hash = "05a9cf30bd070c480d256551349b7a90c22886f6e4221ae10a4ab9d03e1e546f"
+metafile = true
+
+[[files]]
+file = "scripts/mods/Custom/lyn.zs.pw.toml"
+hash = "0f89b36e19b932f659c8f045fac5e555d097e08c05c85e3068a2426b926994b7"
+metafile = true
+
+[[files]]
+file = "scripts/mods/Custom/mama.zs.pw.toml"
+hash = "ee056292112cb5e52ea189ff682c92c525d90bdf4dfa4fd70dc2abd84f2f22b6"
+metafile = true
+
+[[files]]
+file = "scripts/mods/Custom/nametag.zs.pw.toml"
+hash = "e6f9eeddaabc65d759254c268a9079b6696e6a9d0531177510fefcea9b4a35ec"
+metafile = true
+
+[[files]]
+file = "scripts/mods/Custom/nvidia_graphics_card.zs.pw.toml"
+hash = "ef5498c3d21817a5437c4a51df98235596db6fe6c2378fa7768c28fa7770b1e9"
+metafile = true
+
+[[files]]
+file = "scripts/mods/Custom/plushies.zs.pw.toml"
+hash = "c12c11ad2db5f63a4da7c60a5ad8a35fbe01194dbac7efd1383f493945c1700d"
+metafile = true
+
+[[files]]
+file = "scripts/mods/Custom/ram.zs.pw.toml"
+hash = "ab14eb8fe1ab9159e2609ececf6dcdc31c5309c696b60a850b083361cdcab605"
+metafile = true
+
+[[files]]
+file = "scripts/mods/Custom/saddle.zs.pw.toml"
+hash = "9b77176bea03bb5931e72d80d6d862202762692d029212e1cc3691769a64cfbb"
+metafile = true
+
+[[files]]
+file = "scripts/mods/Custom/shiitake_mushroom_soup.zs.pw.toml"
+hash = "b1383ef8bac4ae887944beb83b91356d9c383e72363b06265dd79fb17d47a066"
+metafile = true
+
+[[files]]
+file = "scripts/mods/Custom/template.zs.pw.toml"
+hash = "33622f03900acba84c83fb556c09308051f9184e1cc558633fc967246aad349b"
+metafile = true
+
+[[files]]
+file = "scripts/mods/Custom/toadstool.zs.pw.toml"
+hash = "28ac25757c7af9c667af9ea0d21c5d980dad8301e2fbbdabea755ca9161c5fa9"
+metafile = true
+
+[[files]]
+file = "scripts/mods/Custom/tuff.zs.pw.toml"
+hash = "128b3dad4bb6830c0a6d6259c1c0fda4a9f01a28f6c26d5b562fbe1d5480b25f"
+metafile = true
+
+[[files]]
+file = "scripts/mods/Mythic Upgrades/armor_attribute_buff.zs.pw.toml"
+hash = "c448ac053742594d4380194873deb3fe234a8a5703e177c37b402cafefea3c90"
+metafile = true
+
+[[files]]
+file = "scripts/mods/Mythic Upgrades/armor_crafting.zs.pw.toml"
+hash = "ed34186352776ed3fd259b9b5caf2ec15983a2cf19399080e3f1ddab7bc7fa90"
+metafile = true
+
+[[files]]
+file = "scripts/mods/Mythic Upgrades/mythic-upgrades-changelog.txt.pw.toml"
+hash = "6c477aea32f8420a07ae725775ca5f90e556ff1f9261e86ee5070f03906a955d"
+metafile = true
+
+[[files]]
+file = "scripts/mods/Spelunkery/ironpickonastick.zs.pw.toml"
+hash = "0570580a859006d85f37b78e1484f8a77090b8fbc55afa2247af919a680dfd0e"
+metafile = true
+
+[[files]]
+file = "scripts/mods/[Let's Do] Brewery/hops_based_beers.zs.pw.toml"
+hash = "dc0653bb242e696d84ddef201cc69ff0328648093ffcb0ef273b5aa54a45a9ac"
 metafile = true
 
 [[files]]
