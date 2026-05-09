@@ -1,0 +1,11 @@
+name = "Eldritch_End-FABRIC-MC1.20.1-0.3.4.jar"
+filename = "Eldritch_End-FABRIC-MC1.20.1-0.3.4.jar"
+side = "both"
+
+[download]
+url = "https://r2.otternoon.com/mods/Eldritch_End-FABRIC-MC1.20.1-0.3.4.jar"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "ec2431606d5589da907c87b34eadcbbf5d37c0f4bf278f004cf2ab225064c75d"
