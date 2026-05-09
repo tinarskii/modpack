@@ -3,11 +3,11 @@ filename = "trashcans-1.0.18-fabric-mc1.20.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/4QrnfueM/versions/CrDLvf7Q/trashcans-1.0.18-fabric-mc1.20.jar"
-hash-format = "sha512"
-hash = "3e5c14f314b4a3836215133734704aeffc21f332a6e865da6a8facabe4f2bd825a66e8f3f451444e748d97df3431df6a771af3c102643f947bd1ed7caee96ddb"
+hash-format = "sha1"
+hash = "c7ec772ce74ae5a2c32569f1434e8f672c02ee02"
+mode = "metadata:curseforge"
 
 [update]
-[update.modrinth]
-mod-id = "4QrnfueM"
-version = "CrDLvf7Q"
+[update.curseforge]
+file-id = 4606911
+project-id = 394535

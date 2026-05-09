@@ -3,11 +3,11 @@ filename = "connectiblechains-2.5.5+1.20.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/ykSfIgTw/versions/5D6dwqJc/connectiblechains-2.5.5%2B1.20.1.jar"
-hash-format = "sha512"
-hash = "6c7c238e998c257ec35c6de6d38fd240c2894fedf2fad848e53782d404c8e4f47e8e02a2ef742d424a375d08176d14d5869a44d8fe239bfb53817df3f1433fda"
+hash-format = "sha1"
+hash = "bc5e33285075ede92ddef379aff28d2ab4b69d38"
+mode = "metadata:curseforge"
 
 [update]
-[update.modrinth]
-mod-id = "ykSfIgTw"
-version = "5D6dwqJc"
+[update.curseforge]
+file-id = 7148381
+project-id = 415681

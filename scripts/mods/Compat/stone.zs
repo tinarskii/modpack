@@ -1,0 +1,13 @@
+<tag:items:minecraft:stone_tool_materials>.add(<item:biomeswevegone:rocky_stone>);
+<tag:items:c:stone>.add(<item:biomeswevegone:rocky_stone>);
+<tag:items:c:stone>.add(<item:biomeswevegone:mossy_stone>);
+<tag:items:c:stone>.add(<item:meadow:cobbled_limestone>);
+<tag:items:c:stone>.add(<item:meadow:limestone>);
+<tag:items:c:stone>.add(<item:minecraft:cobblestone>);
+<tag:items:c:stone>.add(<item:meadow:mossy_cobbled_limestone>);
+<tag:items:c:stones>.add(<item:biomeswevegone:rocky_stone>);
+<tag:items:c:stones>.add(<item:biomeswevegone:mossy_stone>);
+<tag:items:c:stones>.add(<item:meadow:cobbled_limestone>);
+<tag:items:c:stones>.add(<item:meadow:limestone>);
+<tag:items:c:stones>.add(<item:minecraft:cobblestone>);
+<tag:items:c:stones>.add(<item:meadow:mossy_cobbled_limestone>);

@@ -1,0 +1,1 @@
+craftingTable.addShapeless("tuff", <item:minecraft:tuff>, [<item:minecraft:gravel>, <item:minecraft:flint>, <tag:items:minecraft:stone_crafting_materials>]);

@@ -1,0 +1,32 @@
+{
+  "showTitleScreenCredits": true,
+  "peacefulHunger": true,
+  "enableMasonTrades": true,
+  "maxStackSizeOverride": 64,
+  "tranquilLanternRadiusPercent": 0,
+  "tranquilLanternBump": true,
+  "tranquilLanternBurn": false,
+  "goldenTranquilLanternRadiusPercent": 0,
+  "goldenTranquilLanternBump": true,
+  "goldenTranquilLanternBurn": false,
+  "diamondTranquilLanternRadiusPercent": 0,
+  "diamondTranquilLanternBump": true,
+  "diamondTranquilLanternBurn": false,
+  "netheriteTranquilLanternRadiusPercent": 0,
+  "netheriteTranquilLanternBump": true,
+  "netheriteTranquilLanternBurn": false,
+  "extraKilnRecipes": [
+    "minecraft:cobblestone -\u003e minecraft:stone",
+    "minecraft:sand -\u003e minecraft:glass"
+  ],
+  "kilnConfigDefaultXp": 0.1,
+  "kilnConfigDefaultTime": 100,
+  "enableRightClickRecolor": true,
+  "recolorWool": true,
+  "recolorBeds": true,
+  "recolorBanners": true,
+  "fernlingBonemealRadius": 3,
+  "fernlingBonemealCooldownMin": 600,
+  "fernlingBonemealCooldownMax": 2400,
+  "fernlingBonemealChance": 0.15
+}

@@ -1,13 +1,13 @@
-name = "Fairy Lights"
+name = "Fairy Lights (Fabric)"
 filename = "fairylights-1.1.4_fabric.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/OuLVx5LM/versions/rqIr8OKr/fairylights-1.1.4_fabric.jar"
-hash-format = "sha512"
-hash = "99e94add218c7f6ea0bb824701fce44c4e88b7e3a12d92715c2169a3a29451d3fcfd96d93ac02f50897238a9cd2588381532085262f436eec3088b4b1abcb1f6"
+hash-format = "sha1"
+hash = "6de36088818fa945b027450a83edbe593381e715"
+mode = "metadata:curseforge"
 
 [update]
-[update.modrinth]
-mod-id = "OuLVx5LM"
-version = "rqIr8OKr"
+[update.curseforge]
+file-id = 7909505
+project-id = 1510773

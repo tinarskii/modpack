@@ -1,13 +1,13 @@
 name = "Colorwheel Patcher"
-filename = "colorwheel_patcher-fabric-1.0.4+mc1.20.1.jar"
-side = "client"
+filename = "colorwheel_patcher-fabric-1.0.5+mc1.20.1.jar"
+side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/KPsw5jDu/versions/DVaZpyHc/colorwheel_patcher-fabric-1.0.4%2Bmc1.20.1.jar"
-hash-format = "sha512"
-hash = "3c155408363708a2d70df30e9890a627d1133755c9995a2b5603429958ba4e6c0e50fcc1c9f13ac925a05f5fd621440f7f923c08615efc749c346d5009258e69"
+hash-format = "sha1"
+hash = "7476a6e3670e3490a43e343c3be77752e86337c5"
+mode = "metadata:curseforge"
 
 [update]
-[update.modrinth]
-mod-id = "KPsw5jDu"
-version = "DVaZpyHc"
+[update.curseforge]
+file-id = 7924939
+project-id = 1285475

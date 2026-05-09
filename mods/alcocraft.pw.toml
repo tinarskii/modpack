@@ -3,11 +3,11 @@ filename = "alcocraftplus-1.20-2.1.0-fabric.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/6t2MdNbo/versions/YGV8m7DU/alcocraftplus-1.20-2.1.0-fabric.jar"
-hash-format = "sha512"
-hash = "0ecb43645957d6f4e6f4dcf60555a76e892970f953fb5aac1c72fb62c972a4ee1dc95ee0ccb27baf82521e1b57abaa94b6569ede784777ac4d76f430ba6e95cf"
+hash-format = "sha1"
+hash = "dbae891f3ce2100ecad4bfda5c32dee1981ebef9"
+mode = "metadata:curseforge"
 
 [update]
-[update.modrinth]
-mod-id = "6t2MdNbo"
-version = "YGV8m7DU"
+[update.curseforge]
+file-id = 7007608
+project-id = 847059

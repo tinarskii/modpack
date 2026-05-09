@@ -3,11 +3,11 @@ filename = "DiagonalWalls-v8.0.4-1.20.1-Fabric.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/FQgc8dib/versions/uAsQHTvk/DiagonalWalls-v8.0.4-1.20.1-Fabric.jar"
-hash-format = "sha512"
-hash = "5b5c03ceebcbe5fbf60792a1c7e1c41818f0a0e87100838a6103e815047b118ce8b66b8ea3fc051ca1ba3ab0254b5662dfabe3a7b514602d06ef4aaedafdce89"
+hash-format = "sha1"
+hash = "0a11cf205f81c5b0b56bd99f32187549ecf0711b"
+mode = "metadata:curseforge"
 
 [update]
-[update.modrinth]
-mod-id = "FQgc8dib"
-version = "uAsQHTvk"
+[update.curseforge]
+file-id = 5918172
+project-id = 969422

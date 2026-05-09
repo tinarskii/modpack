@@ -3,11 +3,11 @@ filename = "pandalib-fabric-mc1.20-0.5.2-SNAPSHOT.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/mEEGbEIu/versions/pdcdnDQm/pandalib-fabric-mc1.20-0.5.2-SNAPSHOT.jar"
-hash-format = "sha512"
-hash = "8ec6d24fbd5d816f913cfe00271b2d7c277f66e0ea6b48fb92092ba4cfc0745f85bb72b25f6366772049f65c1e9455f581dfd163619c869d84d111c6a472f5b1"
+hash-format = "sha1"
+hash = "323b4d9f2e76f5dfe12c46ac4e60cfedf3e8c130"
+mode = "metadata:curseforge"
 
 [update]
-[update.modrinth]
-mod-id = "mEEGbEIu"
-version = "pdcdnDQm"
+[update.curseforge]
+file-id = 6245107
+project-id = 975460

@@ -1,0 +1,46 @@
+﻿Mythic Upgrades Changelog
+This document summarizes changes from the "Mythic Upgrades" script files you provide.
+May 15, 2025 - armor_attribute_buff.zs
+This script configures and enhances various armor sets from the mythicupgrades mod using CraftTweaker.
+Key Changes:
+1. Tagging:
+   * All mythicupgrades armor pieces (Topaz, Ruby, Peridot, Jade, Aquamarine, Sapphire, Ametrine helmets, chestplates, leggings, and boots) are systematically tagged.
+   * Tags include:
+      * Common type-specific tags (e.g., c:helmets, bookshelf:helmets).
+      * General armor tags (e.g., bookshelf:armor, c:armors).
+      * advancednetherite compatibility tags for pacification effects against Phantoms, Endermen, and Piglins.
+2. Attribute Modifications & Durability:
+   * Each armor piece receives global attribute modifiers for generic.armor and generic.armor_toughness.
+   * Maximum durability (maxDamage) is set relative to advancednetherite:netherite_diamond_ equivalents.
+Specific Set Bonuses:
+   * Topaz Armor Set:
+      * Helmet: +6 Armor, +4 Armor Toughness, 3x Durability.
+      * Chestplate: +10 Armor, +4 Armor Toughness, 3x Durability.
+      * Leggings: +8 Armor, +4 Armor Toughness, 3x Durability.
+      * Boots: +6 Armor, +4 Armor Toughness, 3x Durability.
+   * Ruby, Peridot, Jade, Aquamarine, Sapphire, and Ametrine Armor Sets (all share the following stats the same as Diamond Netherite):
+      * Helmet: +5 Armor, +4 Armor Toughness, 2x Durability.
+      * Chestplate: +9 Armor, +4 Armor Toughness, 2x Durability.
+      * Leggings: +7 Armor, +4 Armor Toughness, 2x Durability.
+      * Boots: +5 Armor, +4 Armor Toughness, 2x Durability.
+The UUIDs used for attribute modifiers are consistent for each armor slot across different gem types (except for the unique stats of Topaz).
+May 15, 2025 - armor_crafting.zs
+This script modifies the smithing recipes for all armor pieces from the mythicupgrades mod using CraftTweaker.
+Key Changes:
+1. Recipe Removals:
+   * All existing smithing recipes for the following mythicupgrades armor pieces are removed:
+      * Topaz (Helmet, Chestplate, Leggings, Boots)
+      * Ruby (Helmet, Chestplate, Leggings, Boots)
+      * Peridot (Helmet, Chestplate, Leggings, Boots)
+      * Jade (Helmet, Chestplate, Leggings, Boots)
+      * Aquamarine (Helmet, Chestplate, Leggings, Boots)
+      * Sapphire (Helmet, Chestplate, Leggings, Boots)
+      * Ametrine (Helmet, Chestplate, Leggings, Boots)
+2. New Smithing Recipes Added (minecraft:smithing_transform):
+   * New recipes are added to craft each of the mythicupgrades armor pieces.
+   * General Recipe Structure for each armor piece (e.g., Topaz Helmet):
+      * Base: advancednetherite:netherite_diamond_helmet (or corresponding chestplate, leggings, boots)
+      * Addition: mythicupgrades:topaz_ingot (or corresponding gem ingot: Ruby, Peridot, Jade, Aquamarine, Sapphire, Ametrine)
+      * Template: mythicupgrades:topaz_upgrade_smithing_template (or corresponding gem upgrade smithing template)
+      * Result: mythicupgrades:topaz_helmet (or corresponding gem armor piece)
+   * This structure is applied consistently for all helmets, chestplates, leggings, and boots across all seven gem types (Topaz, Ruby, Peridot, Jade, Aquamarine, Sapphire, Ametrine).

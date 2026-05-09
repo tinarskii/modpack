@@ -1,0 +1,1 @@
+craftingTable.addShapeless("nvidia_graphics_card", <item:kubejs:nvidia_graphics_card>, [<item:kubejs:ram>, <item:minecraft:iron_ingot>, <item:minecraft:redstone>]);

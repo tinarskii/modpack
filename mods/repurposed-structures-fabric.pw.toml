@@ -1,13 +1,13 @@
-name = "Repurposed Structures - Fabric"
+name = "Repurposed Structures (Fabric)"
 filename = "repurposed_structures-7.1.23+1.20.1-fabric.jar"
-side = "server"
+side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/muf0XoRe/versions/eshDdTJx/repurposed_structures-7.1.23%2B1.20.1-fabric.jar"
-hash-format = "sha512"
-hash = "b31facd02bd38f58d33c19085c9da72aab55d2f634550b657a89012a18f0405a4617ad70b10ca70350d84a139f69d0fa664cd90f90f720dae57164d1c207e864"
+hash-format = "sha1"
+hash = "ec403d71eac956fb1bd36bb71ca6f6d961b950fe"
+mode = "metadata:curseforge"
 
 [update]
-[update.modrinth]
-mod-id = "muf0XoRe"
-version = "eshDdTJx"
+[update.curseforge]
+file-id = 7971673
+project-id = 391366

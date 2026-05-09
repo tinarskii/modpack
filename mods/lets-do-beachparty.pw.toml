@@ -3,11 +3,11 @@ filename = "letsdo-beachparty-fabric-2.0.3.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/GyKzAh3l/versions/lTdx0SHO/letsdo-beachparty-fabric-2.0.3.jar"
-hash-format = "sha512"
-hash = "d5f2231bac4df2354e5ef13e82a12f61f3ba9f7f856f1faf0c97d2c6491c6ec90949a3f81f34e7c25264d147f4aede94411e70525a49e6eeaef9a673a8881cd6"
+hash-format = "sha1"
+hash = "45f42624b7b9fec1065111f4f55a155aa21b0bfe"
+mode = "metadata:curseforge"
 
 [update]
-[update.modrinth]
-mod-id = "GyKzAh3l"
-version = "lTdx0SHO"
+[update.curseforge]
+file-id = 6849933
+project-id = 858691

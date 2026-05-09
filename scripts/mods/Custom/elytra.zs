@@ -1,0 +1,24 @@
+//Adding tags to Elytras
+<tag:items:elytraslot:elytra>.add(<item:clutter:white_butterfly_elytra>);
+<tag:items:elytraslot:elytra>.add(<item:clutter:light_gray_butterfly_elytra>);
+<tag:items:elytraslot:elytra>.add(<item:clutter:gray_butterfly_elytra>);
+<tag:items:elytraslot:elytra>.add(<item:clutter:black_butterfly_elytra>);
+<tag:items:elytraslot:elytra>.add(<item:clutter:brown_butterfly_elytra>);
+<tag:items:elytraslot:elytra>.add(<item:clutter:red_butterfly_elytra>);
+<tag:items:elytraslot:elytra>.add(<item:clutter:orange_butterfly_elytra>);
+<tag:items:elytraslot:elytra>.add(<item:clutter:yellow_butterfly_elytra>);
+<tag:items:elytraslot:elytra>.add(<item:clutter:lime_butterfly_elytra>);
+<tag:items:elytraslot:elytra>.add(<item:clutter:green_butterfly_elytra>);
+<tag:items:elytraslot:elytra>.add(<item:clutter:cyan_butterfly_elytra>);
+<tag:items:elytraslot:elytra>.add(<item:clutter:light_blue_butterfly_elytra>);
+<tag:items:elytraslot:elytra>.add(<item:clutter:blue_butterfly_elytra>);
+<tag:items:elytraslot:elytra>.add(<item:clutter:purple_butterfly_elytra>);
+<tag:items:elytraslot:elytra>.add(<item:clutter:magenta_butterfly_elytra>);
+<tag:items:elytraslot:elytra>.add(<item:clutter:pink_butterfly_elytra>);
+<tag:items:elytraslot:elytra>.add(<item:clutter:crimson_butterfly_elytra>);
+<tag:items:elytraslot:elytra>.add(<item:clutter:warped_butterfly_elytra>);
+<tag:items:elytraslot:elytra>.add(<item:clutter:soul_butterfly_elytra>);
+<tag:items:elytraslot:elytra>.add(<item:clutter:emerald_gemstone_elytra>);
+<tag:items:elytraslot:elytra>.add(<item:clutter:diamond_gemstone_elytra>);
+<tag:items:elytraslot:elytra>.add(<item:clutter:amethyst_gemstone_elytra>);
+<tag:items:elytraslot:elytra>.add(<item:clutter:quartz_gemstone_elytra>);

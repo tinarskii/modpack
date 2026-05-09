@@ -3,11 +3,11 @@ filename = "clutter-1.20-0.6.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/KZAmykow/versions/cfTqvICk/clutter-1.20-0.6.2.jar"
-hash-format = "sha512"
-hash = "21f9569dbde5d7f440a57f4f0131088f202f728c8c10aedd4202f3172e823bef3f6a07e42d907c7e616f8140449d570dbc51f77aa559a27d2202fb07448b848c"
+hash-format = "sha1"
+hash = "246f0f195629186b0441b5da7b0aa30a236ab5ae"
+mode = "metadata:curseforge"
 
 [update]
-[update.modrinth]
-mod-id = "KZAmykow"
-version = "cfTqvICk"
+[update.curseforge]
+file-id = 7361352
+project-id = 826060

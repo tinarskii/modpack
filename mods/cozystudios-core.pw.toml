@@ -1,0 +1,13 @@
+name = "CozyStudios Core"
+filename = "cozystudioscore-1.4-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2646b151d13583a713295164e7bfdabec3886aab"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8044355
+project-id = 1371145

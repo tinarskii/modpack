@@ -3,11 +3,11 @@ filename = "Pehkui-3.8.2+1.14.4-1.20.6.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/t5W7Jfwy/versions/smQAtVRG/Pehkui-3.8.2%2B1.14.4-1.20.6.jar"
-hash-format = "sha512"
-hash = "edd3d0691dfac4d6fb0025bd3b93f246f3717d5138c354fd1380886150bcdfac06f7aec203e93946d8007bc5e39c536972959761ad32f819a52d8a3680951523"
+hash-format = "sha1"
+hash = "036e7ad3fcf4ba209637939b1010b83b3cafdcb4"
+mode = "metadata:curseforge"
 
 [update]
-[update.modrinth]
-mod-id = "t5W7Jfwy"
-version = "smQAtVRG"
+[update.curseforge]
+file-id = 5393114
+project-id = 319596
