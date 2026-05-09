@@ -3,7 +3,7 @@ filename = "obsidian_template.js"
 side = "both"
 
 [download]
-url = "https://r2.otternoon.com/public/kubejs/startup_scripts/obsidian_template.js"
+url = "https://r2.otternoon.com/kubejs/startup_scripts/obsidian_template.js"
 
 # A number of tools can generate the hash for you, including 7-zip and sha256sum
 # packwiz supports a number of hashes, including sha256, sha512, sha1 and md5

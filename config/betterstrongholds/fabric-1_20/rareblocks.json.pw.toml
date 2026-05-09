@@ -3,7 +3,7 @@ filename = "rareblocks.json"
 side = "both"
 
 [download]
-url = "https://r2.otternoon.com/public/config/betterstrongholds/fabric-1_20/rareblocks.json"
+url = "https://r2.otternoon.com/config/betterstrongholds/fabric-1_20/rareblocks.json"
 
 # A number of tools can generate the hash for you, including 7-zip and sha256sum
 # packwiz supports a number of hashes, including sha256, sha512, sha1 and md5

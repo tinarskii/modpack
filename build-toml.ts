@@ -42,7 +42,7 @@ filename = "${file.split("/").slice(-1)[0]}"
 side = "both"
 
 [download]
-url = "https://r2.otternoon.com/public/${urlEncodedRelPath}"
+url = "https://r2.otternoon.com/${urlEncodedRelPath}"
 
 # A number of tools can generate the hash for you, including 7-zip and sha256sum
 # packwiz supports a number of hashes, including sha256, sha512, sha1 and md5

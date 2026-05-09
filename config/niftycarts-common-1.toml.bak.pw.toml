@@ -3,7 +3,7 @@ filename = "niftycarts-common-1.toml.bak"
 side = "both"
 
 [download]
-url = "https://r2.otternoon.com/public/config/niftycarts-common-1.toml.bak"
+url = "https://r2.otternoon.com/config/niftycarts-common-1.toml.bak"
 
 # A number of tools can generate the hash for you, including 7-zip and sha256sum
 # packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
