@@ -4147,7 +4147,7 @@ metafile = true
 
 [[files]]
 file = "mods/celestial-config.pw.toml"
-hash = "23e57cc073cc3d25be99b4b562c9877fe663f1785569582d1e7ef549203c9ffa"
+hash = "44208f764dd88941529597fb52bb13b91f433acf76d803c11b921cdff6c8d68b"
 metafile = true
 
 [[files]]
@@ -4327,7 +4327,7 @@ metafile = true
 
 [[files]]
 file = "mods/creativecore.pw.toml"
-hash = "fa8c6ade0f2969e5a5e8ce5c240c070df59b5d6c63e2ce5d15cb635e1966a101"
+hash = "22ea62bf986d0de86f7acf09cd7226026e95ad8c1126ac124ca96126927802a3"
 metafile = true
 
 [[files]]

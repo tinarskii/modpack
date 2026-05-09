@@ -1,13 +1,13 @@
 name = "Sun and Moon Celestial Configuration"
-filename = "Celestial Configuration-fabric-1.21-1.1.1.jar"
+filename = "Celestial Configuration-fabric-1.20.1-1.1.1.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/C5tEOKu9/versions/7o5qjbHr/Celestial%20Configuration-fabric-1.21-1.1.1.jar"
+url = "https://cdn.modrinth.com/data/C5tEOKu9/versions/wCZadXy8/Celestial%20Configuration-fabric-1.20.1-1.1.1.jar"
 hash-format = "sha512"
-hash = "cc4b7ec3eb1b75af95f83f244e92d82cce8c1dae94e181a35fb1e3fd2b7d45a7ac71f9a0f15030c71f0aaeb0b72da549b799f3434e0b5c536a9d3448fd154763"
+hash = "c61c49f86141a08d4aeee3102bfcb72ca5dba37de3ae0968917435256e8574b9aad55a70bbf83e536f93d822807dc2ffc529e2bb1b97b8101a62aca29acc8664"
 
 [update]
 [update.modrinth]
 mod-id = "C5tEOKu9"
-version = "7o5qjbHr"
+version = "wCZadXy8"
