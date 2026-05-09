@@ -1,0 +1,1 @@
+craftingTable.addShapeless("ram", <item:kubejs:ram>, [<item:minecraft:redstone>, <item:minecraft:gold_ingot>, <item:minecraft:iron_ingot>, <item:clutter:silver_ingot>]);

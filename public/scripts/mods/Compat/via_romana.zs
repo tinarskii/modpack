@@ -1,0 +1,13 @@
+<tag:blocks:via_romana:path_block>.add(<block:biomeswevegone:sandy_dirt_path>);
+<tag:blocks:via_romana:path_block>.add(<block:biomeswevegone:lush_dirt_path>);
+<tag:blocks:via_romana:path_block>.add(<block:mcwpaths:podzol_path_block>);
+<tag:blocks:via_romana:path_block>.add(<block:mcwpaths:dirt_path_block>);
+<tag:blocks:via_romana:path_block>.add(<block:mcwpaths:gravel_path_block>);
+<tag:blocks:via_romana:path_block>.add(<block:mcwpaths:sand_path_block>);
+<tag:blocks:via_romana:path_block>.add(<block:mcwpaths:red_sand_path_block>);
+<tag:blocks:via_romana:path_block>.add(<block:regions_unexplored:peat_dirt_path>);
+<tag:blocks:via_romana:path_block>.add(<block:regions_unexplored:silt_dirt_path>);
+<tag:blocks:via_romana:path_block>.add(<block:vinery:coarse_dirt_slab>);
+<tag:blocks:via_romana:path_block>.add(<block:vinery:dirt_slab>);
+<tag:blocks:via_romana:path_block>.add(<block:vinery:grass_slab>);
+<tag:blocks:via_romana:path_block>.add(<block:vinery:dirt_path_slab>);

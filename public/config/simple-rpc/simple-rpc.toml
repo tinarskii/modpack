@@ -1,0 +1,319 @@
+#General Config Section. See https://srpc.fdd-docs.com/introduction/
+[general]
+	#The Application ID of the Discord App to use
+	applicationID = "1491086429038837760"
+	#Enable/Disable the mod
+	enabled = true
+	#Enable/Disable debugging mode. WARNING: MAY CAUSE LOG SPAM!
+	debugging = false
+	#Display the Icon and Pack Name in place of LargeImage from compatible launchers. DOES NOT WORK WITH CUSTOM APPS! ONLY THE DEFAULT ONE!
+	launcherIntegration = false
+	#Allow using local image files, as RPC icons
+	rpcImageServer = false
+	#The URL of the RPC image server that will be used for local images. Restart required when changed
+	rpcImageServerUrl = ""
+	#Internal Version Number. NO TOUCHY!
+	version = 26
+
+#The Game Loading event
+[init]
+	#Enable/Disable the Game Loading Event
+	enabled = true
+
+	[[init.presence]]
+		type = "PLAYING"
+		description = "Homestead is loading..."
+		state = "Homestead Starting..."
+		largeImageKey = ["homestead_logo"]
+		largeImageText = "Playing the Homestead Modpack on {{game.version}}"
+		smallImageKey = ["homestead_logo"]
+		smallImageText = "{{game.mods}} mods installed"
+		streamingActivityUrl = "https://twitch.tv/twitch"
+
+		[[init.presence.buttons]]
+			label = "Download on Modrinth"
+			url = "https://modrinth.com/modpack/homestead"
+
+		[[init.presence.buttons]]
+			label = "Download on CurseForge"
+			url = "https://www.curseforge.com/minecraft/modpacks/homestead-cozy"
+
+#The Main Menu event
+[main_menu]
+	#Enable/Disable the Main Menu Event
+	enabled = true
+
+	[[main_menu.presence]]
+		type = "PLAYING"
+		description = "{{player.name}} is currently lazy"
+		state = "Chilling in the menu"
+		largeImageKey = ["homestead_logo"]
+		largeImageText = "Playing the Homestead Modpack on {{game.version}}"
+		smallImageKey = ["{{images.player}}"]
+		smallImageText = "{{player.name}}"
+		streamingActivityUrl = "https://twitch.tv/twitch"
+
+		[[main_menu.presence.buttons]]
+			label = "Download on Modrinth"
+			url = "https://modrinth.com/modpack/homestead"
+
+		[[main_menu.presence.buttons]]
+			label = "Download on CurseForge"
+			url = "https://www.curseforge.com/minecraft/modpacks/homestead-cozy"
+
+#The Server List event
+[server_list]
+	#Enable/Disable the Server List Event
+	enabled = true
+
+	[[server_list.presence]]
+		type = "PLAYING"
+		description = "{{player.name}} is looking for a server"
+		state = "Searching for friends"
+		largeImageKey = ["homestead_logo"]
+		largeImageText = "Playing the Homestead Modpack on {{game.version}}"
+		smallImageKey = ["{{images.player}}"]
+		smallImageText = "{{player.name}}"
+		streamingActivityUrl = "https://twitch.tv/twitch"
+
+		[[server_list.presence.buttons]]
+			label = "Download on Modrinth"
+			url = "https://modrinth.com/modpack/homestead"
+
+		[[server_list.presence.buttons]]
+			label = "Download on CurseForge"
+			url = "https://www.curseforge.com/minecraft/modpacks/homestead-cozy"
+
+#The Realms Screen event
+[realms_list]
+	#Enable/Disable the Realms Screen Event
+	enabled = true
+
+	[[realms_list.presence]]
+		type = "PLAYING"
+		description = "{{player.name}} is looking for a Realm"
+		state = "Browsing Realms"
+		largeImageKey = ["homestead_logo"]
+		largeImageText = "Playing the Homestead Modpack on {{game.version}}"
+		smallImageKey = ["{{images.player}}"]
+		smallImageText = "{{player.name}}"
+		streamingActivityUrl = "https://twitch.tv/twitch"
+
+		[[realms_list.presence.buttons]]
+			label = "Download on Modrinth"
+			url = "https://modrinth.com/modpack/homestead"
+
+		[[realms_list.presence.buttons]]
+			label = "Download on CurseForge"
+			url = "https://www.curseforge.com/minecraft/modpacks/homestead-cozy"
+
+#The Join Game Event
+[join_game]
+	#Enable/Disable the Join Game Event
+	enabled = true
+
+	[[join_game.presence]]
+		type = "PLAYING"
+		description = "{{player.name}} is joining a game"
+		state = "Joining Game"
+		largeImageKey = ["homestead_logo"]
+		largeImageText = "Playing the Homestead Modpack on {{game.version}}"
+		smallImageKey = ["{{images.player}}"]
+		smallImageText = "{{player.name}}"
+		streamingActivityUrl = "https://twitch.tv/twitch"
+
+		[[join_game.presence.buttons]]
+			label = "Download on Modrinth"
+			url = "https://modrinth.com/modpack/homestead"
+
+		[[join_game.presence.buttons]]
+			label = "Download on CurseForge"
+			url = "https://www.curseforge.com/minecraft/modpacks/homestead-cozy"
+
+#The Single Player Event
+[single_player]
+	#Enable/Disable the Single Player Event
+	enabled = true
+
+	[[single_player.presence]]
+		type = "PLAYING"
+		description = "Tending to {{world.name}}"
+		state = "A quiet day in the homestead"
+		largeImageKey = ["homestead_logo"]
+		largeImageText = "Playing the Homestead Modpack on {{game.version}}"
+		smallImageKey = ["{{images.player}}"]
+		smallImageText = "{{player.name}}"
+		streamingActivityUrl = "https://twitch.tv/twitch"
+
+		[[single_player.presence.buttons]]
+			label = "Download on Modrinth"
+			url = "https://modrinth.com/modpack/homestead"
+
+		[[single_player.presence.buttons]]
+			label = "Download on CurseForge"
+			url = "https://www.curseforge.com/minecraft/modpacks/homestead-cozy"
+
+#The Multi Player Event
+[multi_player]
+	#Enable/Disable the Multi Player Event
+	enabled = true
+
+	[[multi_player.presence]]
+		type = "PLAYING"
+		description = "Playing on {{server.name}} with {{server.players.count}} players"
+		state = "Playing on {{server.name}}!"
+		largeImageKey = ["homestead_logo"]
+		largeImageText = "Playing the Homestead Modpack on {{game.version}}"
+		smallImageKey = ["{{images.player}}"]
+		smallImageText = "{{player.name}}"
+		streamingActivityUrl = "https://twitch.tv/twitch"
+
+		[[multi_player.presence.buttons]]
+			label = "Download on Modrinth"
+			url = "https://modrinth.com/modpack/homestead"
+
+		[[multi_player.presence.buttons]]
+			label = "Download on CurseForge"
+			url = "https://www.curseforge.com/minecraft/modpacks/homestead-cozy"
+
+#The Realms Game Event
+[realms]
+	#Enable/Disable the Realms Game Event
+	enabled = true
+
+	[[realms.presence]]
+		type = "PLAYING"
+		description = "Playing on {{realm.name}}"
+		state = "Playing on a Realm"
+		largeImageKey = ["homestead_logo"]
+		largeImageText = "Playing the Homestead Modpack on {{game.version}}"
+		smallImageKey = ["{{images.player}}"]
+		smallImageText = "{{player.name}}"
+		streamingActivityUrl = "https://twitch.tv/twitch"
+
+		[[realms.presence.buttons]]
+			label = "Download on Modrinth"
+			url = "https://modrinth.com/modpack/homestead"
+
+		[[realms.presence.buttons]]
+			label = "Download on CurseForge"
+			url = "https://www.curseforge.com/minecraft/modpacks/homestead-cozy"
+
+#The Paused Event
+[paused]
+	#Enable/Disable the Pause Event
+	enabled = true
+
+	[[paused.presence]]
+		type = "PLAYING"
+		description = "Taking a little break"
+		state = "Game Paused"
+		largeImageKey = ["homestead_logo"]
+		largeImageText = "Playing the Homestead Modpack on {{game.version}}"
+		smallImageKey = ["{{images.player}}"]
+		smallImageText = "{{player.name}}"
+		streamingActivityUrl = "https://twitch.tv/twitch"
+
+		[[paused.presence.buttons]]
+			label = "Download on Modrinth"
+			url = "https://modrinth.com/modpack/homestead"
+
+		[[paused.presence.buttons]]
+			label = "Download on CurseForge"
+			url = "https://www.curseforge.com/minecraft/modpacks/homestead-cozy"
+
+#Fallback event for disabled events
+[generic]
+
+	[[generic.presence]]
+		type = "PLAYING"
+		description = "Playing Homestead"
+		state = ""
+		largeImageKey = ["homestead_logo"]
+		largeImageText = "Playing the Homestead Modpack on {{game.version}}"
+		smallImageKey = ["homestead_logo"]
+		smallImageText = "{{game.mods}} mods installed"
+		streamingActivityUrl = "https://twitch.tv/twitch"
+
+		[[generic.presence.buttons]]
+			label = "Download on Modrinth"
+			url = "https://modrinth.com/modpack/homestead"
+
+		[[generic.presence.buttons]]
+			label = "Download on CurseForge"
+			url = "https://www.curseforge.com/minecraft/modpacks/homestead-cozy"
+
+#Custom Config Variables that you can use
+[custom]
+	#Must these variables be parsed along with other variables
+	enabled = true
+	#Your custom variables to add
+	variables = []
+
+#Dimension Information Overrides
+[dimension_overrides]
+	#Allows you to override the displayed values for dimensions
+	enabled = true
+
+	[[dimension_overrides.dimensions]]
+		name = "overworld"
+
+		[[dimension_overrides.dimensions.presence]]
+			type = "PLAYING"
+			description = "{{player.name}} is in The Overworld"
+			state = ""
+			largeImageKey = ["homestead_logo"]
+			largeImageText = "In the Overworld"
+			smallImageKey = ["homestead_logo"]
+			smallImageText = "{{game.mods}} mods installed"
+			streamingActivityUrl = "https://twitch.tv/twitch"
+
+			[[dimension_overrides.dimensions.presence.buttons]]
+				label = "Download on Modrinth"
+				url = "https://modrinth.com/modpack/homestead"
+
+			[[dimension_overrides.dimensions.presence.buttons]]
+				label = "Download on CurseForge"
+				url = "https://www.curseforge.com/minecraft/modpacks/homestead-cozy"
+
+	[[dimension_overrides.dimensions]]
+		name = "the_nether"
+
+		[[dimension_overrides.dimensions.presence]]
+			type = "PLAYING"
+			description = "{{player.name}} is in The Nether"
+			state = ""
+			largeImageKey = ["homestead_logo"]
+			largeImageText = "In the Nether"
+			smallImageKey = ["homestead_logo"]
+			smallImageText = "{{game.mods}} mods installed"
+			streamingActivityUrl = "https://twitch.tv/twitch"
+
+			[[dimension_overrides.dimensions.presence.buttons]]
+				label = "Download on Modrinth"
+				url = "https://modrinth.com/modpack/homestead"
+
+			[[dimension_overrides.dimensions.presence.buttons]]
+				label = "Download on CurseForge"
+				url = "https://www.curseforge.com/minecraft/modpacks/homestead-cozy"
+
+	[[dimension_overrides.dimensions]]
+		name = "the_end"
+
+		[[dimension_overrides.dimensions.presence]]
+			type = "PLAYING"
+			description = "{{player.name}} is in The End"
+			state = ""
+			largeImageKey = ["homestead_logo"]
+			largeImageText = "In the End"
+			smallImageKey = ["homestead_logo"]
+			smallImageText = "{{game.mods}} mods installed"
+			streamingActivityUrl = "https://twitch.tv/twitch"
+
+			[[dimension_overrides.dimensions.presence.buttons]]
+				label = "Download on Modrinth"
+				url = "https://modrinth.com/modpack/homestead"
+
+			[[dimension_overrides.dimensions.presence.buttons]]
+				label = "Download on CurseForge"
+				url = "https://www.curseforge.com/minecraft/modpacks/homestead-cozy"

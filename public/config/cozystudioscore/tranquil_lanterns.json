@@ -1,0 +1,14 @@
+{
+  "tranquilLanternRadiusPercent": 0,
+  "tranquilLanternBump": true,
+  "tranquilLanternBurn": false,
+  "goldenTranquilLanternRadiusPercent": 0,
+  "goldenTranquilLanternBump": true,
+  "goldenTranquilLanternBurn": false,
+  "diamondTranquilLanternRadiusPercent": 0,
+  "diamondTranquilLanternBump": true,
+  "diamondTranquilLanternBurn": false,
+  "netheriteTranquilLanternRadiusPercent": 0,
+  "netheriteTranquilLanternBump": true,
+  "netheriteTranquilLanternBurn": false
+}

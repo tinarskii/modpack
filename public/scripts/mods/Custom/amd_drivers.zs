@@ -1,0 +1,1 @@
+craftingTable.addShapeless("amd_drivers", <item:kubejs:amd_drivers>, [<item:minecraft:redstone>, <item:minecraft:iron_ingot>, <item:clutter:silver_ingot>]);
