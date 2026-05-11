@@ -1,0 +1,11 @@
+name = "ambientsounds-client.json"
+filename = "ambientsounds-client.json"
+side = "both"
+
+[download]
+url = "https://r2.otternoon.com/config/ambientsounds-client.json"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "ed1b398794e7b112f1a0c79531ebc9cd56457638c88af0794ebef277b1a45504"

@@ -1,0 +1,11 @@
+name = "bookmarks.ini"
+filename = "bookmarks.ini"
+side = "both"
+
+[download]
+url = "https://r2.otternoon.com/config/jei/world/server/Minecraft_Server_79fb68c3/bookmarks.ini"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "4f1cb547865519eb7b2abcfed35ae074725fc4229270ce18153411cec08b2dcc"

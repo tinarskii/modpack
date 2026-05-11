@@ -1,0 +1,11 @@
+name = "squishy_quest_bg.png"
+filename = "squishy_quest_bg.png"
+side = "both"
+
+[download]
+url = "https://r2.otternoon.com/config/openloader/resources/ftbquests/assets/ftbquests/textures/homestead/squishy_quest_bg.png"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "3eaa496bfb12bb5a141100c3dc99f4a49c11d441185550f834d7920c3a9504ab"

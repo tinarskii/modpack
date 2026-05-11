@@ -1,0 +1,11 @@
+name = "sophisticatedstorage-client.toml"
+filename = "sophisticatedstorage-client.toml"
+side = "both"
+
+[download]
+url = "https://r2.otternoon.com/config/sophisticatedstorage-client.toml"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "94f2a696e21aaaa2d78bf37da45cf887aaa25878d45c023e491633ec863ff9b9"

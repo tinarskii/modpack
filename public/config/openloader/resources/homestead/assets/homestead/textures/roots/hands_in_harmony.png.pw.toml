@@ -1,0 +1,11 @@
+name = "hands_in_harmony.png"
+filename = "hands_in_harmony.png"
+side = "both"
+
+[download]
+url = "https://r2.otternoon.com/config/openloader/resources/homestead/assets/homestead/textures/roots/hands_in_harmony.png"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "07b6b009dabd008e0594e9e5af30958b1df7ced3698965d99f9dd54721c25d3c"

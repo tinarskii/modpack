@@ -1,0 +1,11 @@
+name = "survival_infinity_upgrade.png"
+filename = "survival_infinity_upgrade.png"
+side = "both"
+
+[download]
+url = "https://r2.otternoon.com/resourcepacks/Homestead%20GUI/assets/sophisticatedbackpacks/textures/item/survival_infinity_upgrade.png"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "62324c903ce66055dcd189887d227aa2046cf1fba8da0243cd88a1f6343ef28f"

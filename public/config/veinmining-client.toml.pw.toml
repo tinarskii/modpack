@@ -1,0 +1,11 @@
+name = "veinmining-client.toml"
+filename = "veinmining-client.toml"
+side = "both"
+
+[download]
+url = "https://r2.otternoon.com/config/veinmining-client.toml"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "6fedc782177b208adbe6f7004ab89721b2c1f3c97f9eddf8f93671d22e09bb48"

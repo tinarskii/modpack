@@ -1,0 +1,11 @@
+name = "toms_storage.json"
+filename = "toms_storage.json"
+side = "both"
+
+[download]
+url = "https://r2.otternoon.com/config/toms_storage.json"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "9d8618b1e931bb01dcd78cd3058428eef19e97483c67aaf25d49dfb96b9f634c"

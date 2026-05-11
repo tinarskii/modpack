@@ -1,0 +1,11 @@
+name = "recycler_upgrade.png"
+filename = "recycler_upgrade.png"
+side = "both"
+
+[download]
+url = "https://r2.otternoon.com/resourcepacks/Homestead%20GUI/assets/sophisticatedbackpacks/textures/item/recycler_upgrade.png"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "9564df4c389d4f50686622c52b0734044b42247038ad9dbd280e9e5f6828b177"

@@ -1,0 +1,11 @@
+name = "README.txt"
+filename = "README.txt"
+side = "both"
+
+[download]
+url = "https://r2.otternoon.com/config/betterstrongholds/README.txt"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "70aadca974d0adfe90f98930e23c15076b3d2e625c88e8c2aa6721d91a8c035f"

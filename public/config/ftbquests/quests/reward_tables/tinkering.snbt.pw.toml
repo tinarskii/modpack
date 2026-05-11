@@ -1,0 +1,11 @@
+name = "tinkering.snbt"
+filename = "tinkering.snbt"
+side = "both"
+
+[download]
+url = "https://r2.otternoon.com/config/ftbquests/quests/reward_tables/tinkering.snbt"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "3e82075d38a8169076680f3bb9830d78f6b765c9a8a13ac9d6d76edf3afc0b94"

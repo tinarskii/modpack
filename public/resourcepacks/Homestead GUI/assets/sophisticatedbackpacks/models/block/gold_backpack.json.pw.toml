@@ -1,0 +1,11 @@
+name = "gold_backpack.json"
+filename = "gold_backpack.json"
+side = "both"
+
+[download]
+url = "https://r2.otternoon.com/resourcepacks/Homestead%20GUI/assets/sophisticatedbackpacks/models/block/gold_backpack.json"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "bf099100f27c4fa798136ebe346781a8c3b374497528ecedf8cc7211f1b7144f"

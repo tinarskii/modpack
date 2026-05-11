@@ -1,0 +1,11 @@
+name = "search.toml"
+filename = "search.toml"
+side = "both"
+
+[download]
+url = "https://r2.otternoon.com/config/fzzy_config/search.toml"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "103317c4c1c5ae1421946c921428cbfbd9b2a17ee37115d9778d0b22e3b64e19"

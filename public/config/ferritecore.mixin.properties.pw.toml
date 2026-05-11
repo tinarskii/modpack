@@ -1,0 +1,11 @@
+name = "ferritecore.mixin.properties"
+filename = "ferritecore.mixin.properties"
+side = "both"
+
+[download]
+url = "https://r2.otternoon.com/config/ferritecore.mixin.properties"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "3cc3011619f098fda6ad213a7c4d1468802ff827591a5917c2b7bf3150bfb2ea"

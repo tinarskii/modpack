@@ -1,0 +1,11 @@
+name = "fastquit.toml"
+filename = "fastquit.toml"
+side = "both"
+
+[download]
+url = "https://r2.otternoon.com/config/fastquit.toml"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "5326cda972e0c3a84b628b2604596a123cd09bd153776d0ce36f3fb3ea2088e8"

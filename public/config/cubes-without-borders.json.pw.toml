@@ -1,0 +1,11 @@
+name = "cubes-without-borders.json"
+filename = "cubes-without-borders.json"
+side = "both"
+
+[download]
+url = "https://r2.otternoon.com/config/cubes-without-borders.json"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "f248bc2019d956312c0c18037b84e764947dd200c00a96f45a807624d233010d"

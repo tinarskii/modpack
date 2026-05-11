@@ -1,0 +1,11 @@
+name = "niftycarts-common-1.toml.bak"
+filename = "niftycarts-common-1.toml.bak"
+side = "both"
+
+[download]
+url = "https://r2.otternoon.com/config/niftycarts-common-1.toml.bak"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "428f0d1f8adb719e083ead2f4c849b18da9703c47df9c9bfcccbe40d3725a60c"

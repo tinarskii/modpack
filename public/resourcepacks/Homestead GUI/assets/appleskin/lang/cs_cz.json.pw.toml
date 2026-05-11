@@ -1,0 +1,11 @@
+name = "cs_cz.json"
+filename = "cs_cz.json"
+side = "both"
+
+[download]
+url = "https://r2.otternoon.com/resourcepacks/Homestead%20GUI/assets/appleskin/lang/cs_cz.json"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "040877b6120b4b8664b3de984f9efa142137bfbaa8058fc825d417cb901c07a3"

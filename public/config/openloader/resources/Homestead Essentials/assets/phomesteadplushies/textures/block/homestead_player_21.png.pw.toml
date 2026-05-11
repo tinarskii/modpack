@@ -1,0 +1,11 @@
+name = "homestead_player_21.png"
+filename = "homestead_player_21.png"
+side = "both"
+
+[download]
+url = "https://r2.otternoon.com/config/openloader/resources/Homestead%20Essentials/assets/phomesteadplushies/textures/block/homestead_player_21.png"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "85f2ee336ac28f6d06159f755759862c23e6bd63e6f9c6e61f56fb1da1436605"

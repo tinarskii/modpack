@@ -1,0 +1,11 @@
+name = "modmenu.json"
+filename = "modmenu.json"
+side = "both"
+
+[download]
+url = "https://r2.otternoon.com/config/modmenu.json"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "16f1f655c45a61361e634dd62e3a10f750d5b4c351a589492fcd609cfc54c300"

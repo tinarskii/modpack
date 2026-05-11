@@ -1,0 +1,11 @@
+name = "options.txt"
+filename = "options.txt"
+side = "both"
+
+[download]
+url = "https://r2.otternoon.com/config/defaultoptions/options.txt"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "dfc5b524e068a211f8a4a17e2de908241403ee2d13bfce84979e18fb30859f03"

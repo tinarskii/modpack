@@ -1,0 +1,11 @@
+name = "logs.snbt"
+filename = "logs.snbt"
+side = "both"
+
+[download]
+url = "https://r2.otternoon.com/config/ftbquests/quests/reward_tables/logs.snbt"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "1d5d20dfc8fde19ee089961b33a8ef978649704c577e4a7f286cbdf7b33adaaa"

@@ -1,0 +1,11 @@
+name = "stack_downgrade_tier_3.png"
+filename = "stack_downgrade_tier_3.png"
+side = "both"
+
+[download]
+url = "https://r2.otternoon.com/resourcepacks/Homestead%20GUI/assets/sophisticatedbackpacks/textures/item/stack_downgrade_tier_3.png"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "e14bc9b0bda48d22aa942dad3f9d29986a6bb0366a7bd7bbe8d031cc21ead3e3"

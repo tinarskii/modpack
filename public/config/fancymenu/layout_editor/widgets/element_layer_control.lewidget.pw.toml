@@ -1,0 +1,11 @@
+name = "element_layer_control.lewidget"
+filename = "element_layer_control.lewidget"
+side = "both"
+
+[download]
+url = "https://r2.otternoon.com/config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "051d700ea7ff1bd626063d60f9a9cd65a0af1fed5903706d1e70fce20bcb2495"

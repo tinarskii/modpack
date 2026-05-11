@@ -1,0 +1,11 @@
+name = "smithing_upgrade.png"
+filename = "smithing_upgrade.png"
+side = "both"
+
+[download]
+url = "https://r2.otternoon.com/resourcepacks/Homestead%20GUI/assets/sophisticatedbackpacks/textures/item/smithing_upgrade.png"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "08b853c8f2f48b89add3c7aeeb4e7b300fdc445e1731d830de9b24bca73c4113"

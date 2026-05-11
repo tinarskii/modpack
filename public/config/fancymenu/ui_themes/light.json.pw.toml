@@ -1,0 +1,11 @@
+name = "light.json"
+filename = "light.json"
+side = "both"
+
+[download]
+url = "https://r2.otternoon.com/config/fancymenu/ui_themes/light.json"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "3fcfc5f9957fbb86aea846c9ad49a24f47ca709c523c4018b584668e38b72f41"

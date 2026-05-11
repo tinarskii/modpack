@@ -1,0 +1,11 @@
+name = "villagersplus-3.0-config.json5"
+filename = "villagersplus-3.0-config.json5"
+side = "both"
+
+[download]
+url = "https://r2.otternoon.com/config/villagersplus/villagersplus-3.0-config.json5"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "44eb6162195f36eda9d609eec5298f2bdbf25292ce00221a8d736af3f1930877"

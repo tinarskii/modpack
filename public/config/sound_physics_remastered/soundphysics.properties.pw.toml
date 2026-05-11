@@ -1,0 +1,11 @@
+name = "soundphysics.properties"
+filename = "soundphysics.properties"
+side = "both"
+
+[download]
+url = "https://r2.otternoon.com/config/sound_physics_remastered/soundphysics.properties"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "9573c64dd047712ef1c7ec7f8e2a2b442906f7272eb0c0c73986fc876a3e6235"

@@ -1,0 +1,8 @@
+{
+  "kilnConfigDefaultXp": 0.1,
+  "kilnConfigDefaultTime": 100,
+  "extraKilnRecipes": [
+    "minecraft:cobblestone -\u003e minecraft:stone",
+    "minecraft:sand -\u003e minecraft:glass"
+  ]
+}

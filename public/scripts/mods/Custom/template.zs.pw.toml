@@ -1,0 +1,11 @@
+name = "template.zs"
+filename = "template.zs"
+side = "both"
+
+[download]
+url = "https://r2.otternoon.com/scripts/mods/Custom/template.zs"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "ddaf2957cfd74fd42a2ced4d860c5135b110c4ea3257af389c7d04da3869b71f"

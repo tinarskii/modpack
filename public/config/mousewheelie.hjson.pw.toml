@@ -1,0 +1,11 @@
+name = "mousewheelie.hjson"
+filename = "mousewheelie.hjson"
+side = "both"
+
+[download]
+url = "https://r2.otternoon.com/config/mousewheelie.hjson"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "0669bd0936b4a5969373ff5ad0903484bd27fcfc6c3f898ec40152596e326a39"

@@ -1,0 +1,11 @@
+name = "xal.json"
+filename = "xal.json"
+side = "both"
+
+[download]
+url = "https://r2.otternoon.com/config/eldritch_end/items/xal.json"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "5deae5ded95864b17a9b39059865c5f3bdc470f67efe742643de1fa1eaa0542b"

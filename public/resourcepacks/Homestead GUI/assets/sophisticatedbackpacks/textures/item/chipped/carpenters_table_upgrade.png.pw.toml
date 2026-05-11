@@ -1,0 +1,11 @@
+name = "carpenters_table_upgrade.png"
+filename = "carpenters_table_upgrade.png"
+side = "both"
+
+[download]
+url = "https://r2.otternoon.com/resourcepacks/Homestead%20GUI/assets/sophisticatedbackpacks/textures/item/chipped/carpenters_table_upgrade.png"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "9638dd4e1c6d4ef2f81b5e81ca7a1677802df638a1627c049db4bd7bdf7dee74"

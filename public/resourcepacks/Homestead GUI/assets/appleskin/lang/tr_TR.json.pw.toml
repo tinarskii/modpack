@@ -1,0 +1,11 @@
+name = "tr_TR.json"
+filename = "tr_TR.json"
+side = "both"
+
+[download]
+url = "https://r2.otternoon.com/resourcepacks/Homestead%20GUI/assets/appleskin/lang/tr_TR.json"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "03c0590881884a5460fc01037b26ae8cc0d12f4871aff4bdb7413f79fd8539e6"

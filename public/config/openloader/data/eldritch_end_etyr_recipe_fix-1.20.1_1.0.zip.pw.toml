@@ -1,0 +1,11 @@
+name = "eldritch_end_etyr_recipe_fix-1.20.1_1.0.zip"
+filename = "eldritch_end_etyr_recipe_fix-1.20.1_1.0.zip"
+side = "both"
+
+[download]
+url = "https://r2.otternoon.com/config/openloader/data/eldritch_end_etyr_recipe_fix-1.20.1_1.0.zip"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "07548af8661c3a4615ed1bbd9b305f1459f5f2de76e05f5b8c7f242e14c8c3a4"

@@ -1,0 +1,11 @@
+name = "Icon_Xaero's_1.2_HF.zip"
+filename = "Icon_Xaero's_1.2_HF.zip"
+side = "both"
+
+[download]
+url = "https://r2.otternoon.com/config/openloader/resources/Icon_Xaero's_1.2_HF.zip"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "b5dab9f9e06dda3c4ba7453c8235a9e8d6474a4321119b515f635ab7162800f0"

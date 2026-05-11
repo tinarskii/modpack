@@ -1,0 +1,11 @@
+name = "title_screen_nothing.txt"
+filename = "title_screen_nothing.txt"
+side = "both"
+
+[download]
+url = "https://r2.otternoon.com/config/fancymenu/customization/title_screen_nothing.txt"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "b2619432a2018c85087c1a65d0e4472b202ac984d8cd340cc770b717bc6374aa"

@@ -1,0 +1,13 @@
+name = "Macaw's Stairs"
+filename = "mcw-mcwstairs-1.0.2-mc1.20.1fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "bb8f80be286431e45f9db38eb161a36ce3b1d6a7"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7317444
+project-id = 1119394

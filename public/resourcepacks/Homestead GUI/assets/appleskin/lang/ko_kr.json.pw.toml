@@ -1,0 +1,11 @@
+name = "ko_kr.json"
+filename = "ko_kr.json"
+side = "both"
+
+[download]
+url = "https://r2.otternoon.com/resourcepacks/Homestead%20GUI/assets/appleskin/lang/ko_kr.json"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "fa1ca929f961fcabcc97fd44825866f3f5afd1d34231315e9fdae490c7ef48b0"

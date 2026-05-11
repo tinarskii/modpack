@@ -1,0 +1,11 @@
+name = "simple-rpc.toml"
+filename = "simple-rpc.toml"
+side = "both"
+
+[download]
+url = "https://r2.otternoon.com/config/simple-rpc/simple-rpc.toml"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "5cacc4c04cfb0c0f9286e8ac860fe615995f4c18fcfd294f48ba9c8bbb30feb8"

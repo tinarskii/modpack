@@ -1,0 +1,11 @@
+name = "zh_cn.json"
+filename = "zh_cn.json"
+side = "both"
+
+[download]
+url = "https://r2.otternoon.com/resourcepacks/Homestead%20GUI/assets/appleskin/lang/zh_cn.json"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "6dff01f116a7557685dbbf5c21dd10843569d6ad794532b7640d1b76600d8dcf"

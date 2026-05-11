@@ -1,0 +1,11 @@
+name = "modelfix-client.json"
+filename = "modelfix-client.json"
+side = "both"
+
+[download]
+url = "https://r2.otternoon.com/config/modelfix-client.json"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "b55936928438ab49ebc8086579cd2218faf14d777fd15ec6eee895dbcadb667d"

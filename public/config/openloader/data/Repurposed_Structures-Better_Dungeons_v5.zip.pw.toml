@@ -1,0 +1,11 @@
+name = "Repurposed_Structures-Better_Dungeons_v5.zip"
+filename = "Repurposed_Structures-Better_Dungeons_v5.zip"
+side = "both"
+
+[download]
+url = "https://r2.otternoon.com/config/openloader/data/Repurposed_Structures-Better_Dungeons_v5.zip"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "a6d7837bf6ddacfa7521f44dd1ee14bdbb7c0b6152857e175791fc7fa537d915"

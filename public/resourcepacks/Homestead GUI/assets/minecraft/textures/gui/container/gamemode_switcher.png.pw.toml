@@ -1,0 +1,11 @@
+name = "gamemode_switcher.png"
+filename = "gamemode_switcher.png"
+side = "both"
+
+[download]
+url = "https://r2.otternoon.com/resourcepacks/Homestead%20GUI/assets/minecraft/textures/gui/container/gamemode_switcher.png"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "1846a504e3305f1d7fb6d171c252b06329d168436c6737d3d1fa13a061ce8097"

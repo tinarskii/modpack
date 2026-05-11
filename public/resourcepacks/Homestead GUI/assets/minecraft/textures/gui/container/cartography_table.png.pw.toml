@@ -1,0 +1,11 @@
+name = "cartography_table.png"
+filename = "cartography_table.png"
+side = "both"
+
+[download]
+url = "https://r2.otternoon.com/resourcepacks/Homestead%20GUI/assets/minecraft/textures/gui/container/cartography_table.png"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "7efdcc3e711a4fb335082209b92b51405237af5f734f443e6834a2e403a6f57d"

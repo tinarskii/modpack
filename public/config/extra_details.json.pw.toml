@@ -1,0 +1,11 @@
+name = "extra_details.json"
+filename = "extra_details.json"
+side = "both"
+
+[download]
+url = "https://r2.otternoon.com/config/extra_details.json"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "06998d4fb8683101249f5481958e10cb6f26f05fdd3fff8f3c3d1badd8a77db0"

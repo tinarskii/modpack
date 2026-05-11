@@ -1,0 +1,11 @@
+name = "chapter_groups.snbt"
+filename = "chapter_groups.snbt"
+side = "both"
+
+[download]
+url = "https://r2.otternoon.com/config/ftbquests/quests/chapter_groups.snbt"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "739539b4146abfddb28d18027abc040e62af3634552c3c8092d021545f0c08fe"

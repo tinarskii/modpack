@@ -1,0 +1,11 @@
+name = "timber_and_time.snbt"
+filename = "timber_and_time.snbt"
+side = "both"
+
+[download]
+url = "https://r2.otternoon.com/config/ftbquests/quests/chapters/timber_and_time.snbt"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "95d7929f9718fc6049599afa7077de611bb83ded3e18d9459e4b29ef287b219d"

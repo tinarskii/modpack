@@ -1,0 +1,11 @@
+name = "custom_smithing.zs"
+filename = "custom_smithing.zs"
+side = "both"
+
+[download]
+url = "https://r2.otternoon.com/scripts/mods/Custom/custom_smithing.zs"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "3f0451155298dcf07df8fcfcf2acc9e90e623e0fa023456d7fbf9c5e1614aa82"

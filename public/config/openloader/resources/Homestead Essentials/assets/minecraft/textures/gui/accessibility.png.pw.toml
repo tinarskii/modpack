@@ -1,0 +1,11 @@
+name = "accessibility.png"
+filename = "accessibility.png"
+side = "both"
+
+[download]
+url = "https://r2.otternoon.com/config/openloader/resources/Homestead%20Essentials/assets/minecraft/textures/gui/accessibility.png"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "e6e2341763066846d664921ec15f3e8250b4b37221dbf5f9e4d0771e97d71ffe"

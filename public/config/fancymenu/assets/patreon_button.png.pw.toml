@@ -1,0 +1,11 @@
+name = "patreon_button.png"
+filename = "patreon_button.png"
+side = "both"
+
+[download]
+url = "https://r2.otternoon.com/config/fancymenu/assets/patreon_button.png"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "663e13434b16009e13caccef74352ba6cb7405fba74f4502aa7ba9c5ac0ea6a6"

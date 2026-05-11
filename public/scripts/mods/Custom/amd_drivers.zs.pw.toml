@@ -1,0 +1,11 @@
+name = "amd_drivers.zs"
+filename = "amd_drivers.zs"
+side = "both"
+
+[download]
+url = "https://r2.otternoon.com/scripts/mods/Custom/amd_drivers.zs"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "6ae6c8819795add827feb2e88b73157348cfa194fc4c739eb9f9065393a0e42a"

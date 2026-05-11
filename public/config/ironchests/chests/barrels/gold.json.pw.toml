@@ -1,0 +1,11 @@
+name = "gold.json"
+filename = "gold.json"
+side = "both"
+
+[download]
+url = "https://r2.otternoon.com/config/ironchests/chests/barrels/gold.json"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "b7fffdb3473e942727d28da3ed6ae8daae8e1f6836badc3a62791eb6d8a789c1"

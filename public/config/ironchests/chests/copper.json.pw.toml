@@ -1,0 +1,11 @@
+name = "copper.json"
+filename = "copper.json"
+side = "both"
+
+[download]
+url = "https://r2.otternoon.com/config/ironchests/chests/copper.json"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "149139cdbd771af3b1ac43f4ed113d161c61252eb017bb6a2b4e84217d2eae4f"

@@ -1,0 +1,11 @@
+name = "obsidian.json"
+filename = "obsidian.json"
+side = "both"
+
+[download]
+url = "https://r2.otternoon.com/config/ironchests/upgrade_types/obsidian.json"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "57e5308e115e1338a3603ea153a591ac917e5802625407a94284576d73774f11"

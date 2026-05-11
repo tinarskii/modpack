@@ -1,0 +1,11 @@
+name = "infinity_upgrade.png"
+filename = "infinity_upgrade.png"
+side = "both"
+
+[download]
+url = "https://r2.otternoon.com/resourcepacks/Homestead%20GUI/assets/sophisticatedbackpacks/textures/item/infinity_upgrade.png"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "aeb8c1ccab27abeb097d28ccf78b93a9859857d33869504390f7ad8405b20a3a"

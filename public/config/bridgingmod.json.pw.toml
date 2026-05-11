@@ -1,0 +1,11 @@
+name = "bridgingmod.json"
+filename = "bridgingmod.json"
+side = "both"
+
+[download]
+url = "https://r2.otternoon.com/config/bridgingmod.json"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "ed49bca4e5ca31967cd7c9a64cd9a377cfbfe16a53538add5c48df87a18be84a"

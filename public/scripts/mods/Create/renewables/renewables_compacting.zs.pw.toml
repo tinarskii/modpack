@@ -1,0 +1,11 @@
+name = "renewables_compacting.zs"
+filename = "renewables_compacting.zs"
+side = "both"
+
+[download]
+url = "https://r2.otternoon.com/scripts/mods/Create/renewables/renewables_compacting.zs"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "d761a12d0b1bd0e0c04120a75152482e238146115ea278d1e0e60fedb1057695"

@@ -1,0 +1,11 @@
+name = "tool_swapper_upgrade.png"
+filename = "tool_swapper_upgrade.png"
+side = "both"
+
+[download]
+url = "https://r2.otternoon.com/resourcepacks/Homestead%20GUI/assets/sophisticatedbackpacks/textures/item/tool_swapper_upgrade.png"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "e997edb8069e52b5e92b2c62c12aaea7b0c277368ab638c81e014b6018429e82"

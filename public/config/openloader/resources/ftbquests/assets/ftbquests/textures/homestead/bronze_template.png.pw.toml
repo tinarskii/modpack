@@ -1,0 +1,11 @@
+name = "bronze_template.png"
+filename = "bronze_template.png"
+side = "both"
+
+[download]
+url = "https://r2.otternoon.com/config/openloader/resources/ftbquests/assets/ftbquests/textures/homestead/bronze_template.png"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "34a7fc8e3248231b58b667c792aa771a31898c7bf0d7b7cbc2f6f1ee3d1cd5f8"

@@ -1,0 +1,11 @@
+name = "netherite_backpack.json"
+filename = "netherite_backpack.json"
+side = "both"
+
+[download]
+url = "https://r2.otternoon.com/resourcepacks/Homestead%20GUI/assets/sophisticatedbackpacks/models/block/netherite_backpack.json"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "f614f714cfee0714bea36669e68d496cb76a76ff241782411bdea3010064cd6c"

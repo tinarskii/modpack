@@ -1,0 +1,11 @@
+name = "brass_casing.png"
+filename = "brass_casing.png"
+side = "both"
+
+[download]
+url = "https://r2.otternoon.com/config/openloader/resources/Homestead%20Essentials/assets/create/textures/block/brass_casing.png"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "2a3f5f9b2228f93a6e0be28e8426c0ad8955880c778e86a7af6ec218a8c3f56d"

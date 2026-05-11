@@ -1,0 +1,11 @@
+name = "furnace_fix.js"
+filename = "furnace_fix.js"
+side = "both"
+
+[download]
+url = "https://r2.otternoon.com/kubejs/server_scripts/furnace_fix.js"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "88fd2ed247e6d8dc32834335e198b261baf0fcd6d0ed0aac159fee80ab75e0de"

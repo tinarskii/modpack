@@ -1,0 +1,11 @@
+name = "black.png"
+filename = "black.png"
+side = "both"
+
+[download]
+url = "https://r2.otternoon.com/config/openloader/resources/Homestead%20Essentials/assets/minecraft/textures/entity/bed/black.png"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "6b3abd2f577270ec0d565356da739cd37d6d3dbe363517720d1b5f059531e7b9"

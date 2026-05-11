@@ -1,0 +1,11 @@
+name = "perfectplushie-trader.toml"
+filename = "perfectplushie-trader.toml"
+side = "both"
+
+[download]
+url = "https://r2.otternoon.com/config/perfectplushie-trader.toml"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "f698aeaa2340650a6f6022a698de4fbc4f9b7d4f838aff096c87fbda329b2433"

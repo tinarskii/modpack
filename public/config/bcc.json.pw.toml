@@ -1,0 +1,11 @@
+name = "bcc.json"
+filename = "bcc.json"
+side = "both"
+
+[download]
+url = "https://r2.otternoon.com/config/bcc.json"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "c818fc6cb931b1e2fd15811e2aa68e42bbcb6d6d9f581d9a57e7f8caddd74dd4"

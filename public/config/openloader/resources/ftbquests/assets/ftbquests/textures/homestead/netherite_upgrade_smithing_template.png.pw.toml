@@ -1,0 +1,11 @@
+name = "netherite_upgrade_smithing_template.png"
+filename = "netherite_upgrade_smithing_template.png"
+side = "both"
+
+[download]
+url = "https://r2.otternoon.com/config/openloader/resources/ftbquests/assets/ftbquests/textures/homestead/netherite_upgrade_smithing_template.png"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "d558a2cb127cc72e804a329c5081a4fdad0c6c98b04c7f2abe3d00b344832762"

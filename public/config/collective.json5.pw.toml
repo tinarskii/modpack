@@ -1,0 +1,11 @@
+name = "collective.json5"
+filename = "collective.json5"
+side = "both"
+
+[download]
+url = "https://r2.otternoon.com/config/collective.json5"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "b6243b955bf123f86c947510d9f8f3a4b5f7b8fe3775d834f458d60a3223847f"

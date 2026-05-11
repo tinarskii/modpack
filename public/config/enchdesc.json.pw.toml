@@ -1,0 +1,11 @@
+name = "enchdesc.json"
+filename = "enchdesc.json"
+side = "both"
+
+[download]
+url = "https://r2.otternoon.com/config/enchdesc.json"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "69e1df6089b71c3c2fe2c7cf6760937094fd22434111f527229a9fcea3f90bc5"

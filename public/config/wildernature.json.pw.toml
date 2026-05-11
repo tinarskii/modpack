@@ -1,0 +1,11 @@
+name = "wildernature.json"
+filename = "wildernature.json"
+side = "both"
+
+[download]
+url = "https://r2.otternoon.com/config/wildernature.json"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "ebef10b2bbbc025766fb34b1cd31c46f3fbc3d35454144aa8e2a3dca3f33a01b"

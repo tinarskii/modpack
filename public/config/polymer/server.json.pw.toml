@@ -1,0 +1,11 @@
+name = "server.json"
+filename = "server.json"
+side = "both"
+
+[download]
+url = "https://r2.otternoon.com/config/polymer/server.json"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "7c9836cd8ee74f2a3e91a5d9fe2ab95716bfb6713fbde3f60ee5248c84fc3c26"

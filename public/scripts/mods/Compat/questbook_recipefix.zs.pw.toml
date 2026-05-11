@@ -1,0 +1,11 @@
+name = "questbook_recipefix.zs"
+filename = "questbook_recipefix.zs"
+side = "both"
+
+[download]
+url = "https://r2.otternoon.com/scripts/mods/Compat/questbook_recipefix.zs"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "d33142f0889bf1f7d108b6a144564753c1661bbfceced6cd2636a475534f0ebd"

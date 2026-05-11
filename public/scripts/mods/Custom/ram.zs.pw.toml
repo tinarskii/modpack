@@ -1,0 +1,11 @@
+name = "ram.zs"
+filename = "ram.zs"
+side = "both"
+
+[download]
+url = "https://r2.otternoon.com/scripts/mods/Custom/ram.zs"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "b069eb573fba6e0cf703b2452041e41c6d37a9fa0d5e59ef07fe97c034318616"

@@ -1,0 +1,11 @@
+name = "jei-mod-id-format.ini"
+filename = "jei-mod-id-format.ini"
+side = "both"
+
+[download]
+url = "https://r2.otternoon.com/config/jei/jei-mod-id-format.ini"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "e599aee5e27e630bdd45cb7c85ab22c19d7206b89554e217f49908da64e26512"

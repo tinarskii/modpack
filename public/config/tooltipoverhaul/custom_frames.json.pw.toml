@@ -1,0 +1,11 @@
+name = "custom_frames.json"
+filename = "custom_frames.json"
+side = "both"
+
+[download]
+url = "https://r2.otternoon.com/config/tooltipoverhaul/custom_frames.json"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "5fe285a83924db98f45f7daabbf77e1df8ad177f3fa0893d76525c6a685a7c87"

@@ -1,0 +1,11 @@
+name = "cogwheel.png"
+filename = "cogwheel.png"
+side = "both"
+
+[download]
+url = "https://r2.otternoon.com/config/openloader/resources/Homestead%20Essentials/assets/create/textures/block/cogwheel.png"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "254f9f888df14ad599e7028baecd1296eccb5c35311e753e9129e74abde2f665"

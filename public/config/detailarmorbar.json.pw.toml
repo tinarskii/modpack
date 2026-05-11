@@ -1,0 +1,11 @@
+name = "detailarmorbar.json"
+filename = "detailarmorbar.json"
+side = "both"
+
+[download]
+url = "https://r2.otternoon.com/config/detailarmorbar.json"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "f438b26bc5e19856bc35f07ceae93a76ddbf4d9312941f8be817f53192b88560"

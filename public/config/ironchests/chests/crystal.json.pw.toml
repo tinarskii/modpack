@@ -1,0 +1,11 @@
+name = "crystal.json"
+filename = "crystal.json"
+side = "both"
+
+[download]
+url = "https://r2.otternoon.com/config/ironchests/chests/crystal.json"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "df490cfc1e5c24d59fda15521fe038019261e01cecd1c083d5259e062cfb7bff"

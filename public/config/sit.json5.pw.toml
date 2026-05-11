@@ -1,0 +1,11 @@
+name = "sit.json5"
+filename = "sit.json5"
+side = "both"
+
+[download]
+url = "https://r2.otternoon.com/config/sit.json5"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "bc71786c59bcca2b8ec900a16f8288232f257f546b7f8734bc17f79d9320b6e4"

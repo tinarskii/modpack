@@ -1,0 +1,11 @@
+name = "tank_glass.png"
+filename = "tank_glass.png"
+side = "both"
+
+[download]
+url = "https://r2.otternoon.com/resourcepacks/Homestead%20GUI/assets/sophisticatedbackpacks/textures/entity/tank_glass.png"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "97e313a6af47c43c3f634a7d51ba5052050d739c1dc1ace45c96b08966706f1b"

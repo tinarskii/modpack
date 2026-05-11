@@ -1,0 +1,11 @@
+name = "the_whispers_of_the_wilds.png"
+filename = "the_whispers_of_the_wilds.png"
+side = "both"
+
+[download]
+url = "https://r2.otternoon.com/config/openloader/resources/ftbquests/assets/ftbquests/textures/homestead/the_whispers_of_the_wilds.png"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "09d086f42ff443ed452c8e880e2a6938f76e4a8837b19821a5f13a5e6ee3106b"

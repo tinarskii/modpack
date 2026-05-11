@@ -1,0 +1,11 @@
+name = "ponder-client.toml"
+filename = "ponder-client.toml"
+side = "both"
+
+[download]
+url = "https://r2.otternoon.com/config/ponder-client.toml"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "b6df709c4c25fc7b0278b795f84b53b07ecd82e241072cba5ce22c82a4efe88c"

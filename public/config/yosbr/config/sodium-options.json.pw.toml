@@ -1,0 +1,11 @@
+name = "sodium-options.json"
+filename = "sodium-options.json"
+side = "both"
+
+[download]
+url = "https://r2.otternoon.com/config/yosbr/config/sodium-options.json"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "37aaf52aa7545527c7ade71ac77ad2fcf6019995bf58b6ea1fe0f52949919d18"

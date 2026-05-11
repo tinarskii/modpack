@@ -1,0 +1,11 @@
+name = "hasturian_wastes.json"
+filename = "hasturian_wastes.json"
+side = "both"
+
+[download]
+url = "https://r2.otternoon.com/config/eldritch_end/biomes/hasturian_wastes.json"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "ec91aae0a2dfa35ab09f78f2e0a15105eebd59e9b9e2f534f2596be04ac00ad8"

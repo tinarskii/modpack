@@ -1,0 +1,11 @@
+name = "vanillabackport-client.toml"
+filename = "vanillabackport-client.toml"
+side = "both"
+
+[download]
+url = "https://r2.otternoon.com/config/vanillabackport-client.toml"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "0f4ca212678d0cd2be75c60f00ea9c6237e82e0b3ffb01d9da4a958f431e3d78"

@@ -1,0 +1,11 @@
+name = "copperagebackport.json"
+filename = "copperagebackport.json"
+side = "both"
+
+[download]
+url = "https://r2.otternoon.com/config/copperagebackport.json"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "410faae183c6b92b8b2abb0b61928b35705f01fea5c1c2ba395a2458e11f8325"

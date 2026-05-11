@@ -1,0 +1,11 @@
+name = "kofi_button.png"
+filename = "kofi_button.png"
+side = "both"
+
+[download]
+url = "https://r2.otternoon.com/config/fancymenu/assets/kofi_button.png"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "375605c1af78ae6db292b76c02f63c761c96260c8c56b4bcc6acf12cae6b86ce"

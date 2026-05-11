@@ -1,0 +1,11 @@
+name = "ember_quest_bg.png"
+filename = "ember_quest_bg.png"
+side = "both"
+
+[download]
+url = "https://r2.otternoon.com/config/openloader/resources/ftbquests/assets/ftbquests/textures/homestead/ember_quest_bg.png"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "1b47aa0def866534338a1e6b0b4b1b7c2f543a3795cb86a10595476a3bab2cfb"

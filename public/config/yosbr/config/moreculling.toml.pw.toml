@@ -1,0 +1,11 @@
+name = "moreculling.toml"
+filename = "moreculling.toml"
+side = "both"
+
+[download]
+url = "https://r2.otternoon.com/config/yosbr/config/moreculling.toml"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "b2ff60a305956fb2a381c6c61d960d2b220d83d9c7737e2ac4ab34a1f604af56"

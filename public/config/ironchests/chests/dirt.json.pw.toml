@@ -1,0 +1,11 @@
+name = "dirt.json"
+filename = "dirt.json"
+side = "both"
+
+[download]
+url = "https://r2.otternoon.com/config/ironchests/chests/dirt.json"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "022f7e089ea5d1a584599f97039da53891f69355ec30f7b8f67580132cb92b49"

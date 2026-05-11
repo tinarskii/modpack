@@ -1,0 +1,11 @@
+name = "stone.snbt"
+filename = "stone.snbt"
+side = "both"
+
+[download]
+url = "https://r2.otternoon.com/config/ftbquests/quests/reward_tables/stone.snbt"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "4040267176216342642cd34b5aff2ef567d922c04442790e3aded6d375168f6a"

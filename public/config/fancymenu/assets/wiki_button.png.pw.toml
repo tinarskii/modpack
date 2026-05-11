@@ -1,0 +1,11 @@
+name = "wiki_button.png"
+filename = "wiki_button.png"
+side = "both"
+
+[download]
+url = "https://r2.otternoon.com/config/fancymenu/assets/wiki_button.png"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "3ee953c3daa0e49fe06f026341ff96741ce2ad7038810f1bc61a0c1573e845a8"

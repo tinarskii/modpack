@@ -1,0 +1,11 @@
+name = "enchanting_table.png"
+filename = "enchanting_table.png"
+side = "both"
+
+[download]
+url = "https://r2.otternoon.com/resourcepacks/Homestead%20GUI/assets/minecraft/textures/gui/container/enchanting_table.png"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "b5f7211d77cce5970d326ad34fde098f2f0b4e67c2232425b3f4da9ef16344ec"

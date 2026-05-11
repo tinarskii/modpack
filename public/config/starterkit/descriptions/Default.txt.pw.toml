@@ -1,0 +1,11 @@
+name = "Default.txt"
+filename = "Default.txt"
+side = "both"
+
+[download]
+url = "https://r2.otternoon.com/config/starterkit/descriptions/Default.txt"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "19df01c903be0cc0216fbca05181ff06c2aff09f2ef213e78ea93f82d2cb1324"

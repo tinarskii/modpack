@@ -1,0 +1,11 @@
+name = "crafting_terminal.png"
+filename = "crafting_terminal.png"
+side = "both"
+
+[download]
+url = "https://r2.otternoon.com/resourcepacks/Homestead%20GUI/assets/toms_storage/textures/gui/crafting_terminal.png"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "c7bfc707ec7e455e614d4b50be43185ddb86ac87cf271e78da01764bbbfc8337"

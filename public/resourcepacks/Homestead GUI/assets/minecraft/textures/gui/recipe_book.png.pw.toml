@@ -1,0 +1,11 @@
+name = "recipe_book.png"
+filename = "recipe_book.png"
+side = "both"
+
+[download]
+url = "https://r2.otternoon.com/resourcepacks/Homestead%20GUI/assets/minecraft/textures/gui/recipe_book.png"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "85f92601df88137317ef755bed8dd60e76febb33b9b7cb166b0692f033bdbed6"

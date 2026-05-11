@@ -1,0 +1,11 @@
+name = "armor_bar.png"
+filename = "armor_bar.png"
+side = "both"
+
+[download]
+url = "https://r2.otternoon.com/resourcepacks/Homestead%20GUI/assets/detailab/textures/armor_bar.png"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "0443035ed3ebd4032b380eba39984a54376393f616ffb58a193ac6b1d2f91b72"

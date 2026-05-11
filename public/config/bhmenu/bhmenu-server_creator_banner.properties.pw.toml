@@ -1,0 +1,11 @@
+name = "bhmenu-server_creator_banner.properties"
+filename = "bhmenu-server_creator_banner.properties"
+side = "both"
+
+[download]
+url = "https://r2.otternoon.com/config/bhmenu/bhmenu-server_creator_banner.properties"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "abe68ce13200ba553d9d8d3b802d8715c9558f2a5a5f59f117711c4c9e8dc9df"

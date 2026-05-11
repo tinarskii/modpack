@@ -1,0 +1,11 @@
+name = "lyn.zs"
+filename = "lyn.zs"
+side = "both"
+
+[download]
+url = "https://r2.otternoon.com/scripts/mods/Custom/lyn.zs"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "83850d3adae4b5d7fc81646da85da4b3b90b6a76ae07c41728ce66663e0cdf7c"

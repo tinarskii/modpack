@@ -1,0 +1,11 @@
+name = "belt.png"
+filename = "belt.png"
+side = "both"
+
+[download]
+url = "https://r2.otternoon.com/resourcepacks/Homestead%20GUI/assets/trinkets/textures/gui/slots/belt.png"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "e3b8109f5abf127a1b3d30dbfb18573f2f7db2da5cc063dd6e635d056c76bad2"

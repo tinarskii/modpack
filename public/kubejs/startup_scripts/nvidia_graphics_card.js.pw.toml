@@ -1,0 +1,11 @@
+name = "nvidia_graphics_card.js"
+filename = "nvidia_graphics_card.js"
+side = "both"
+
+[download]
+url = "https://r2.otternoon.com/kubejs/startup_scripts/nvidia_graphics_card.js"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "efa59ecd7f797d6e5bc12e04c42a76850ae0906a38d51c08cbc806cfda4faee2"

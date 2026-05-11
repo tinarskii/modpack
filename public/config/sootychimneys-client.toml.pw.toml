@@ -1,0 +1,11 @@
+name = "sootychimneys-client.toml"
+filename = "sootychimneys-client.toml"
+side = "both"
+
+[download]
+url = "https://r2.otternoon.com/config/sootychimneys-client.toml"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "a59191cb60cdc9bf715f30e1d1ca21cc845c5930c89aae96a5f0873d01d87157"

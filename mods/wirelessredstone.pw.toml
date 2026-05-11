@@ -3,11 +3,11 @@ filename = "wirelessredstone-fabric-1.20.1-1.1.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/2mBYHHZ5/versions/8CnCm83K/wirelessredstone-fabric-1.20.1-1.1.2.jar"
-hash-format = "sha512"
-hash = "e763caf08380bb92e09c624cf5a2e29bc1004811c8d63b1e96b93b9e643a35b5ce350d313506c9361f7c1524eea3c64f80dabfa6d7ee44d557cdef8b1d703d10"
+hash-format = "sha1"
+hash = "0c36ec4e450b32448a5408a95c109ba3e823e71f"
+mode = "metadata:curseforge"
 
 [update]
-[update.modrinth]
-mod-id = "2mBYHHZ5"
-version = "8CnCm83K"
+[update.curseforge]
+file-id = 5175782
+project-id = 409660

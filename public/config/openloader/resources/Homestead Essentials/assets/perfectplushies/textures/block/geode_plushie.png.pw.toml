@@ -1,0 +1,11 @@
+name = "geode_plushie.png"
+filename = "geode_plushie.png"
+side = "both"
+
+[download]
+url = "https://r2.otternoon.com/config/openloader/resources/Homestead%20Essentials/assets/perfectplushies/textures/block/geode_plushie.png"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "e9a31c09310c3c9c22821ecffff7b8ab39d4e7e538e72d47e98e8b208c460270"

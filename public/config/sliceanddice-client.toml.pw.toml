@@ -1,0 +1,11 @@
+name = "sliceanddice-client.toml"
+filename = "sliceanddice-client.toml"
+side = "both"
+
+[download]
+url = "https://r2.otternoon.com/config/sliceanddice-client.toml"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "765cd3bbbdd6ac865481befc841cf5a494412927d91857eb7561b213aad424d2"

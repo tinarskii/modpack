@@ -1,0 +1,11 @@
+name = "daytime.png"
+filename = "daytime.png"
+side = "both"
+
+[download]
+url = "https://r2.otternoon.com/config/fancymenu/assets/daytime.png"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "2136b5b831de135511379f9ee93d3c89485ddcc7e8c7d617907ed19718a97ae7"

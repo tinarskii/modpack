@@ -1,0 +1,11 @@
+name = "wind_left.gif"
+filename = "wind_left.gif"
+side = "both"
+
+[download]
+url = "https://r2.otternoon.com/config/openloader/resources/ftbquests/assets/ftbquests/textures/homestead/wind_left.gif"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "593828d3835d7fd86c222c1baefa58124abc67c4d35f847a3ef75fa09dbc3f12"

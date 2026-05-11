@@ -1,0 +1,11 @@
+name = "brewing_stand.png"
+filename = "brewing_stand.png"
+side = "both"
+
+[download]
+url = "https://r2.otternoon.com/resourcepacks/Homestead%20GUI/assets/minecraft/textures/gui/container/brewing_stand.png"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "3a7c6b00cdc7abf9f6e1722595694f4014b4947437cda75897de6d1bb7a46086"

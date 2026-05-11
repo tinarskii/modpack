@@ -1,0 +1,11 @@
+name = "emojiful.json"
+filename = "emojiful.json"
+side = "both"
+
+[download]
+url = "https://r2.otternoon.com/config/emojiful.json"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "7eaad91440b8bec1158393c8c859edc737c3ec68fca19f6c2cc872fbd0c3a2fd"

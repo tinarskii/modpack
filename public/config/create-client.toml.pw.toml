@@ -1,0 +1,11 @@
+name = "create-client.toml"
+filename = "create-client.toml"
+side = "both"
+
+[download]
+url = "https://r2.otternoon.com/config/create-client.toml"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "1533f94dc17895aac5b347e7ce096823b208a91de76f32b03289bc7bbfd42309"

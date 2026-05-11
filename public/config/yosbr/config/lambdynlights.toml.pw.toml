@@ -1,0 +1,11 @@
+name = "lambdynlights.toml"
+filename = "lambdynlights.toml"
+side = "both"
+
+[download]
+url = "https://r2.otternoon.com/config/yosbr/config/lambdynlights.toml"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "326ec0c840e65aedf5c6048ea6016d551be38cf23f692949e105a4a388ad8be7"

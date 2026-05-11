@@ -1,0 +1,11 @@
+name = "Lumberjack.txt"
+filename = "Lumberjack.txt"
+side = "both"
+
+[download]
+url = "https://r2.otternoon.com/config/starterkit/descriptions/Lumberjack.txt"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "5091e1a2d5a2927fe1d8f6a6a233ace60f2407be05384f3140b839e9ad3a041a"

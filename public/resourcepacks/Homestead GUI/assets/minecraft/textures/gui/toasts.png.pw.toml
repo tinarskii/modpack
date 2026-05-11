@@ -1,0 +1,11 @@
+name = "toasts.png"
+filename = "toasts.png"
+side = "both"
+
+[download]
+url = "https://r2.otternoon.com/resourcepacks/Homestead%20GUI/assets/minecraft/textures/gui/toasts.png"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "21ec1e5ceef56954fd360bf9b925973fc291f097597e1351db7989a6f15a213e"

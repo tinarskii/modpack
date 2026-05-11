@@ -1,0 +1,11 @@
+name = "common.properties"
+filename = "common.properties"
+side = "both"
+
+[download]
+url = "https://r2.otternoon.com/kubejs/config/common.properties"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "a2d93fd4fe37ace988afd9fb21cf95fdbcc138424060f262fb29654744866baf"

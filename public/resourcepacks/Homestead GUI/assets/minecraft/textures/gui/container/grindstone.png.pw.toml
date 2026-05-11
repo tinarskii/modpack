@@ -1,0 +1,11 @@
+name = "grindstone.png"
+filename = "grindstone.png"
+side = "both"
+
+[download]
+url = "https://r2.otternoon.com/resourcepacks/Homestead%20GUI/assets/minecraft/textures/gui/container/grindstone.png"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "17145ac7ba8afcda135134fdbfa47a73437cc81a9522c693404c4156a6e0fbc6"

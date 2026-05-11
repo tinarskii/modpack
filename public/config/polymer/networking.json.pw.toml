@@ -1,0 +1,11 @@
+name = "networking.json"
+filename = "networking.json"
+side = "both"
+
+[download]
+url = "https://r2.otternoon.com/config/polymer/networking.json"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "2057a3b3b89214439199107df8a7fde5b76994d606af8f17c5872f8627f01bce"

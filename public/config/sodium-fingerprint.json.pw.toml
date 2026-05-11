@@ -1,0 +1,11 @@
+name = "sodium-fingerprint.json"
+filename = "sodium-fingerprint.json"
+side = "both"
+
+[download]
+url = "https://r2.otternoon.com/config/sodium-fingerprint.json"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "af560285549e419f1a292c06e49fd2643297bfa0ac16d5bc16f269015fd6ecac"

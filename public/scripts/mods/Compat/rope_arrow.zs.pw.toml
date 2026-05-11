@@ -1,0 +1,11 @@
+name = "rope_arrow.zs"
+filename = "rope_arrow.zs"
+side = "both"
+
+[download]
+url = "https://r2.otternoon.com/scripts/mods/Compat/rope_arrow.zs"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "e63133333e23874f9fd85414d4300fa0d6be55424aa67f87e95086728f5c52e4"

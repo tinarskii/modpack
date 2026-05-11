@@ -1,0 +1,11 @@
+name = "cursor_on.png"
+filename = "cursor_on.png"
+side = "both"
+
+[download]
+url = "https://r2.otternoon.com/config/fancymenu/assets/cursor_on.png"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "0b3ab12ef3bfd6afcffb8f0641d4762c535516aa808862c25487a56a91317827"

@@ -1,0 +1,11 @@
+name = "netherite.json"
+filename = "netherite.json"
+side = "both"
+
+[download]
+url = "https://r2.otternoon.com/config/ironchests/chests/netherite.json"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "8af4ff52a38624cc10403bdc5e4f769c1f2c9e0776131964d7f35d279412d2a6"

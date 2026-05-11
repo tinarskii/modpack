@@ -1,0 +1,11 @@
+name = "usernamecache.json"
+filename = "usernamecache.json"
+side = "both"
+
+[download]
+url = "https://r2.otternoon.com/config/jade/usernamecache.json"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "bc4aad109790e3a7380387b4243073eea95cb68ff4b3cd8221bcfd78c4ad546a"

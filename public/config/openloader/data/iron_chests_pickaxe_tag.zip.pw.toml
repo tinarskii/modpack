@@ -1,0 +1,11 @@
+name = "iron_chests_pickaxe_tag.zip"
+filename = "iron_chests_pickaxe_tag.zip"
+side = "both"
+
+[download]
+url = "https://r2.otternoon.com/config/openloader/data/iron_chests_pickaxe_tag.zip"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "371fed8e9fa2915c2a36ab0136434c24aa76daef81a9cf7d47e4779ed655187a"

@@ -1,0 +1,11 @@
+name = "book_brown.png"
+filename = "book_brown.png"
+side = "both"
+
+[download]
+url = "https://r2.otternoon.com/config/openloader/resources/patchouli/assets/patchouli/textures/item/book_brown.png"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "3e163c65c9cc3e095b8d223681616ee1c6b20777741939b7a38eab7fdcb4c8f3"

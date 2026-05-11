@@ -1,0 +1,6 @@
+{
+  "fernlingBonemealCooldownMin": 600,
+  "fernlingBonemealCooldownMax": 2400,
+  "fernlingBonemealChance": 0.15,
+  "fernlingBonemealRadius": 3
+}

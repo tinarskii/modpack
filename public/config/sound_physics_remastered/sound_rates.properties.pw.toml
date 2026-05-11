@@ -1,0 +1,11 @@
+name = "sound_rates.properties"
+filename = "sound_rates.properties"
+side = "both"
+
+[download]
+url = "https://r2.otternoon.com/config/sound_physics_remastered/sound_rates.properties"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "5bbf995dfc19632e93567a83c7209639bb5d8dde3aaf7fc7430fb051825c200a"

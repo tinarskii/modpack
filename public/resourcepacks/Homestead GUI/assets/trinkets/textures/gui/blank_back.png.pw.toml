@@ -1,0 +1,11 @@
+name = "blank_back.png"
+filename = "blank_back.png"
+side = "both"
+
+[download]
+url = "https://r2.otternoon.com/resourcepacks/Homestead%20GUI/assets/trinkets/textures/gui/blank_back.png"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "8cddacc07db9af68c9cec64705784567e1cbbb83c3df5c44d4987e1df06068c8"

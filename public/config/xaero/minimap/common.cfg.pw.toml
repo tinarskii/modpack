@@ -1,0 +1,11 @@
+name = "common.cfg"
+filename = "common.cfg"
+side = "both"
+
+[download]
+url = "https://r2.otternoon.com/config/xaero/minimap/common.cfg"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "2b49df024c03a369c62a303c72755e7fedeb4f4653ff53a12fd37bd83ccd4ed0"

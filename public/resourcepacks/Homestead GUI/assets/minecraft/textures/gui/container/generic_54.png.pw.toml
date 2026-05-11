@@ -1,0 +1,11 @@
+name = "generic_54.png"
+filename = "generic_54.png"
+side = "both"
+
+[download]
+url = "https://r2.otternoon.com/resourcepacks/Homestead%20GUI/assets/minecraft/textures/gui/container/generic_54.png"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "3e8e5f54d84c9479e149f8eeec9b65a9dec8f089494877579438cae749d3ff49"

@@ -1,0 +1,11 @@
+name = "Nobushleaves.zip"
+filename = "Nobushleaves.zip"
+side = "both"
+
+[download]
+url = "https://r2.otternoon.com/resourcepacks/Nobushleaves.zip"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "a957b0ff9f5e679574a0c88a26a35f2dc3d20a2f524378f85c5159d18e7b7d8f"

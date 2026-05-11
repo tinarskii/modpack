@@ -1,0 +1,11 @@
+name = "betterdungeons-fabric-1_20.toml"
+filename = "betterdungeons-fabric-1_20.toml"
+side = "both"
+
+[download]
+url = "https://r2.otternoon.com/config/betterdungeons-fabric-1_20.toml"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "c0809814af173f138d83495d36aabcccda93ba2f2a49ec5b7e1c87a201efee77"

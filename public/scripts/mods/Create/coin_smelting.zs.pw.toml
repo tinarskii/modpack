@@ -1,0 +1,11 @@
+name = "coin_smelting.zs"
+filename = "coin_smelting.zs"
+side = "both"
+
+[download]
+url = "https://r2.otternoon.com/scripts/mods/Create/coin_smelting.zs"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "b73aafe6994a417e9b8502eedaa40ccc4e7a796b23e0d64b863df13e7d62df87"

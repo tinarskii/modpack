@@ -1,0 +1,11 @@
+name = "herbal_hexes.png"
+filename = "herbal_hexes.png"
+side = "both"
+
+[download]
+url = "https://r2.otternoon.com/config/openloader/resources/ftbquests/assets/ftbquests/textures/homestead/herbal_hexes.png"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "1f3365b96c5f391c836cf3210ab79a7b9bfecabe30cf5abe90aeb8b7a76937ea"

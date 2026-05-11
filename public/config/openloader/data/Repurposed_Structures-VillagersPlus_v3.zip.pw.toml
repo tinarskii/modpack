@@ -1,0 +1,11 @@
+name = "Repurposed_Structures-VillagersPlus_v3.zip"
+filename = "Repurposed_Structures-VillagersPlus_v3.zip"
+side = "both"
+
+[download]
+url = "https://r2.otternoon.com/config/openloader/data/Repurposed_Structures-VillagersPlus_v3.zip"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "592e56cf4c9f4bba6f7c7585003c9b223d73737e9ab3c7d8c5a0273a8a489b8d"

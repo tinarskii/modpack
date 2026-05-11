@@ -1,0 +1,11 @@
+name = "wooden_silo_recipe.png"
+filename = "wooden_silo_recipe.png"
+side = "both"
+
+[download]
+url = "https://r2.otternoon.com/config/openloader/resources/ftbquests/assets/ftbquests/textures/homestead/wooden_silo_recipe.png"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "8239fe7ecf218944c64238e19c0d8c77d3e44ca6070e1b17bce1e3ccdcdad77f"

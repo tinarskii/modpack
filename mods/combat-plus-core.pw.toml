@@ -1,0 +1,13 @@
+name = "Combat+ Core"
+filename = "combatplus-core-1.1.0+1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3e7aced9428c3122c2e8f8ad5442dcf2a678a359"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5725485
+project-id = 973671

@@ -1,0 +1,11 @@
+name = "default.cfg"
+filename = "default.cfg"
+side = "both"
+
+[download]
+url = "https://r2.otternoon.com/config/xaero/world-map/profiles/default.cfg"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "7b24c882801bcc7f0a8aedc625d419f661fa490fa0e9d5ebe39599a1ce2dcbd5"

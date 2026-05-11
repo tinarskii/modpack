@@ -1,0 +1,11 @@
+name = "universalbonemeal-server.toml"
+filename = "universalbonemeal-server.toml"
+side = "both"
+
+[download]
+url = "https://r2.otternoon.com/config/universalbonemeal-server.toml"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "5d4b2b87d60a3cad01f7d3ab0f075f7947342df729e75c73f2e91e6fbadd8d35"

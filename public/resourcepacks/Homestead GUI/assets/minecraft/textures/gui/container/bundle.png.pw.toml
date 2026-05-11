@@ -1,0 +1,11 @@
+name = "bundle.png"
+filename = "bundle.png"
+side = "both"
+
+[download]
+url = "https://r2.otternoon.com/resourcepacks/Homestead%20GUI/assets/minecraft/textures/gui/container/bundle.png"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "3abfdef3b3ab9c1600078a788b75481153900fb6252ded4ba9285729960fe9cd"

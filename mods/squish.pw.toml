@@ -3,11 +3,11 @@ filename = "squish-0.3-1.20.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/3z1Z8gDY/versions/HhjNVt6a/squish-0.3-1.20.1.jar"
-hash-format = "sha512"
-hash = "bbc51138b6db1a1dec1b2e532e36c1590d42be529d46278f473da696cfca812cceca7fa39fe16579d29ebe650446d629d4c2697d4ef0b78ce3afabb7acc20b89"
+hash-format = "sha1"
+hash = "00c51c14ee1823f276e8f5bbe21bac9500e98e2d"
+mode = "metadata:curseforge"
 
 [update]
-[update.modrinth]
-mod-id = "3z1Z8gDY"
-version = "HhjNVt6a"
+[update.curseforge]
+file-id = 7370997
+project-id = 1383770

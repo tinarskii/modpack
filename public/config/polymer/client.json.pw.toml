@@ -1,0 +1,11 @@
+name = "client.json"
+filename = "client.json"
+side = "both"
+
+[download]
+url = "https://r2.otternoon.com/config/polymer/client.json"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "3825827c0ee37a298343a1975e66daeb0291d541124526d254bb4a544824daa2"

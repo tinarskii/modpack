@@ -1,0 +1,11 @@
+name = "empty_hammer_slot.png"
+filename = "empty_hammer_slot.png"
+side = "both"
+
+[download]
+url = "https://r2.otternoon.com/resourcepacks/Homestead%20GUI/assets/sophisticatedbackpacks/textures/item/empty_hammer_slot.png"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "7de6563adbdc48fac6541438644c14adaa14a2b4236aa453f00648a5789008d5"

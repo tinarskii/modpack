@@ -1,0 +1,11 @@
+name = "dummmmmmy-common.json"
+filename = "dummmmmmy-common.json"
+side = "both"
+
+[download]
+url = "https://r2.otternoon.com/config/dummmmmmy-common.json"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "f6cdf21b7c91e296b15e8b7c755181bad68f9549764936131691411e4b51b13f"

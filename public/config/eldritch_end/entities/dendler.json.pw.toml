@@ -1,0 +1,11 @@
+name = "dendler.json"
+filename = "dendler.json"
+side = "both"
+
+[download]
+url = "https://r2.otternoon.com/config/eldritch_end/entities/dendler.json"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "bf4afb846701594f6498b32ade50d7e655bbafe28a9a2410619f3f40c16bdf04"

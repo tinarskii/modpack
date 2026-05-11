@@ -1,0 +1,11 @@
+name = "charm.png"
+filename = "charm.png"
+side = "both"
+
+[download]
+url = "https://r2.otternoon.com/resourcepacks/Homestead%20GUI/assets/trinkets/textures/gui/slots/charm.png"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "bca736d6cd957519f499b3db168e267d43c8007c062a0c115984fba02e6a397e"

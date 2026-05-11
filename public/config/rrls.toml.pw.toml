@@ -1,0 +1,11 @@
+name = "rrls.toml"
+filename = "rrls.toml"
+side = "both"
+
+[download]
+url = "https://r2.otternoon.com/config/rrls.toml"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "9b0a7f60429c0026ea544b18201e6953338a95013aa3dd3bdcbda339f6b42cf6"

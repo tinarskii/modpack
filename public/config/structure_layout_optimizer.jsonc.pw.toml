@@ -1,0 +1,11 @@
+name = "structure_layout_optimizer.jsonc"
+filename = "structure_layout_optimizer.jsonc"
+side = "both"
+
+[download]
+url = "https://r2.otternoon.com/config/structure_layout_optimizer.jsonc"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "c1150586b8ab28b23913ed762c3907952a00835f5f2e5dc3dd493efe64c67f77"

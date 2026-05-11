@@ -1,0 +1,11 @@
+name = "custom_gui_screens.txt"
+filename = "custom_gui_screens.txt"
+side = "both"
+
+[download]
+url = "https://r2.otternoon.com/config/fancymenu/custom_gui_screens.txt"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "267ff62f2ad3483edeb0fa09cc9d83aea718bfbd61b639ff72f26b0451c3e7ab"

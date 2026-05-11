@@ -1,0 +1,11 @@
+name = "empty_armor_slot_helmet.png"
+filename = "empty_armor_slot_helmet.png"
+side = "both"
+
+[download]
+url = "https://r2.otternoon.com/config/openloader/resources/Homestead%20Essentials/assets/minecraft/textures/item/empty_armor_slot_helmet.png"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "caba89344d3313ffdaffc176610fda6c074ba377fdf4c41f364887f416607d2e"

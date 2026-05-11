@@ -1,0 +1,11 @@
+name = "showmeyourskin-server.json"
+filename = "showmeyourskin-server.json"
+side = "both"
+
+[download]
+url = "https://r2.otternoon.com/config/showmeyourskin-server.json"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "483f1a0209c8509c1505b15bed44108ee57e8b233152dafa1be0311c686d941a"

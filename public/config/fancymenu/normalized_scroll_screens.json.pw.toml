@@ -1,0 +1,11 @@
+name = "normalized_scroll_screens.json"
+filename = "normalized_scroll_screens.json"
+side = "both"
+
+[download]
+url = "https://r2.otternoon.com/config/fancymenu/normalized_scroll_screens.json"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "9bdd808b0e3e8a7fa3f0f3b543da5905e53cf20b5bceff2a8eac542d5fec56e1"

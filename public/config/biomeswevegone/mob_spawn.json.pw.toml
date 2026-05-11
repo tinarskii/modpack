@@ -1,0 +1,11 @@
+name = "mob_spawn.json"
+filename = "mob_spawn.json"
+side = "both"
+
+[download]
+url = "https://r2.otternoon.com/config/biomeswevegone/mob_spawn.json"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "b84dc298e495d19eb4b4c19482fac644aee55414b7e6e4bb1ea238de989e7970"

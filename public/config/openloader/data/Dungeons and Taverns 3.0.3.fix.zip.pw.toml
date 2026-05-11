@@ -1,0 +1,11 @@
+name = "Dungeons and Taverns 3.0.3.fix.zip"
+filename = "Dungeons and Taverns 3.0.3.fix.zip"
+side = "both"
+
+[download]
+url = "https://r2.otternoon.com/config/openloader/data/Dungeons%20and%20Taverns%203.0.3.fix.zip"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "3f21f341e56f98c01f144c981ea209a1cef06521de3a2e7e1b9706754949527e"

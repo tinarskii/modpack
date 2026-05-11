@@ -1,13 +1,13 @@
 name = "MCPitanLib"
-filename = "mcpitanlib-3.5.2-1.20.1-fabric.jar"
+filename = "mcpitanlib-3.6.8-1.20.1-fabric.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/uNRoUnGT/versions/mfxHu4iA/mcpitanlib-3.5.2-1.20.1-fabric.jar"
-hash-format = "sha512"
-hash = "0f1691692028ce4bc83e39bc772482da04dd6040a8843f11fc3e66c9223181eb7304b1f49a0f1a9a9dae70100692f6563e60c9c491377609f479b0189107b9b4"
+hash-format = "sha1"
+hash = "98e02afb4d8c160474354cd3a28efd453d4c0cd7"
+mode = "metadata:curseforge"
 
 [update]
-[update.modrinth]
-mod-id = "uNRoUnGT"
-version = "mfxHu4iA"
+[update.curseforge]
+file-id = 8030639
+project-id = 682213

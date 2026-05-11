@@ -1,0 +1,11 @@
+name = "inventory.png"
+filename = "inventory.png"
+side = "both"
+
+[download]
+url = "https://r2.otternoon.com/resourcepacks/Homestead%20GUI/assets/minecraft/textures/gui/container/inventory.png"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "fb2ef8c9347d03de13545dbf662267d2624db343d4fd4fec694e2db92b2bb2ef"

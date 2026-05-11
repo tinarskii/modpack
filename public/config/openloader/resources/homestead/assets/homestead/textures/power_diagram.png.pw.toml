@@ -1,0 +1,11 @@
+name = "power_diagram.png"
+filename = "power_diagram.png"
+side = "both"
+
+[download]
+url = "https://r2.otternoon.com/config/openloader/resources/homestead/assets/homestead/textures/power_diagram.png"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "e4329a0dcdf39f62b4e2dee265c1ac4da8fcf9c39255103f7e87e69a8fe9487c"

@@ -1,0 +1,11 @@
+name = "amd_drivers.js"
+filename = "amd_drivers.js"
+side = "both"
+
+[download]
+url = "https://r2.otternoon.com/kubejs/startup_scripts/amd_drivers.js"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "1421c6ca0cf25a4e14b2edc4259e291670d13c804cc52c58eb061b4147a5eaf9"

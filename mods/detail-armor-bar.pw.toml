@@ -1,13 +1,13 @@
-name = "Detail Armor Bar"
+name = "Detail Armor Bar [Fabric]"
 filename = "DetailArmorBar-2.6.3+1.20.1-fabric.jar"
-side = "client"
+side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/hAt6ty93/versions/bFQ1ISy6/DetailArmorBar-2.6.3%2B1.20.1-fabric.jar"
-hash-format = "sha512"
-hash = "b0816df8b8052cafb31a48ad277965b55f1304659f4e4433fbf69958f20a56af0843fc672d70f4a9202021212667f8e43bcbacdb2b6619fcb78cc761182696f5"
+hash-format = "sha1"
+hash = "4ebf5767f28d700583e8ee0e91eab118657101d2"
+mode = "metadata:curseforge"
 
 [update]
-[update.modrinth]
-mod-id = "hAt6ty93"
-version = "bFQ1ISy6"
+[update.curseforge]
+file-id = 4584467
+project-id = 506898

@@ -1,0 +1,11 @@
+name = "client.properties"
+filename = "client.properties"
+side = "both"
+
+[download]
+url = "https://r2.otternoon.com/kubejs/config/client.properties"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "10c796dad0e37f594a5a8faf64f93a4c78f838f84632d248bbeff982b980f3c9"

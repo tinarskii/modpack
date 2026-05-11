@@ -1,0 +1,11 @@
+name = "liquid_courage.snbt"
+filename = "liquid_courage.snbt"
+side = "both"
+
+[download]
+url = "https://r2.otternoon.com/config/ftbquests/quests/chapters/liquid_courage.snbt"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "13c84ea5371d1f197f829822d13b450e434ec799bc15f7d53471285fafa4da68"

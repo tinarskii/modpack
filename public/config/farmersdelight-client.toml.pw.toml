@@ -1,0 +1,11 @@
+name = "farmersdelight-client.toml"
+filename = "farmersdelight-client.toml"
+side = "both"
+
+[download]
+url = "https://r2.otternoon.com/config/farmersdelight-client.toml"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "b15e935386c6b1c8a9ec606bcb516df64f07a439e54254b916d8db31fb7ced77"

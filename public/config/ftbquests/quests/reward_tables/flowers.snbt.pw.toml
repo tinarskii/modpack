@@ -1,0 +1,11 @@
+name = "flowers.snbt"
+filename = "flowers.snbt"
+side = "both"
+
+[download]
+url = "https://r2.otternoon.com/config/ftbquests/quests/reward_tables/flowers.snbt"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "b3361b3ce6c2e98ea2262c11ab4b624e79659eba3690ee988b4ee84c67860865"

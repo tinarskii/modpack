@@ -1,0 +1,11 @@
+name = "smoker.png"
+filename = "smoker.png"
+side = "both"
+
+[download]
+url = "https://r2.otternoon.com/resourcepacks/Homestead%20GUI/assets/minecraft/textures/gui/container/smoker.png"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "593b3d3ab23fe0d80fe14ddeec86ca66adc7f5cb771b18c24ad90a06bd4a4446"

@@ -1,0 +1,11 @@
+name = "corruption.json5"
+filename = "corruption.json5"
+side = "both"
+
+[download]
+url = "https://r2.otternoon.com/config/eldritch_end/mechanics/corruption.json5"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "ed26886b29d89a9358654728cb83a6727ff9678f63927bc0935f06b5ec61ab3f"

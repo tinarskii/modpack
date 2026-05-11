@@ -1,0 +1,11 @@
+name = "vault.zs"
+filename = "vault.zs"
+side = "both"
+
+[download]
+url = "https://r2.otternoon.com/scripts/mods/Create/vault.zs"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "abf8e699bd585e9f79ac8546f5c6b2a9833af5d4f22a0f2b6a83c26e6a696b5b"

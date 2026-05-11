@@ -1,0 +1,11 @@
+name = "homestead_full_export.png"
+filename = "homestead_full_export.png"
+side = "both"
+
+[download]
+url = "https://r2.otternoon.com/config/openloader/resources/ftbquests/assets/ftbquests/textures/homestead/homestead_full_export.png"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "be438239117e27a99112f7a2c85085d9e392c648800525b99af3e5fc4ed425c6"

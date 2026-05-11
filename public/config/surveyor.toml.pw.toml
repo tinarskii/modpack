@@ -1,0 +1,11 @@
+name = "surveyor.toml"
+filename = "surveyor.toml"
+side = "both"
+
+[download]
+url = "https://r2.otternoon.com/config/surveyor.toml"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "e3e97ee4650175b5fc5d4f8c064173b5cc35dd5f4ef15962dbc360cc702cec5f"

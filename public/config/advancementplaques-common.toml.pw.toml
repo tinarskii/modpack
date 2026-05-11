@@ -1,0 +1,11 @@
+name = "advancementplaques-common.toml"
+filename = "advancementplaques-common.toml"
+side = "both"
+
+[download]
+url = "https://r2.otternoon.com/config/advancementplaques-common.toml"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "fd8b3cc688adde0ef4523196157af46ecf43fb26c3140fcc56cf5aa2df8d9a53"

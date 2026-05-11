@@ -1,0 +1,13 @@
+name = "Extended Enchanting"
+filename = "extended-enchanting-1.0.1+1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d1b4fcb7236256a6f8c48db93b1a0239b83d9fde"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5768009
+project-id = 973677

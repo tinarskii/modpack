@@ -1,0 +1,11 @@
+name = "redstone_quest_bg.png"
+filename = "redstone_quest_bg.png"
+side = "both"
+
+[download]
+url = "https://r2.otternoon.com/config/openloader/resources/ftbquests/assets/ftbquests/textures/homestead/redstone_quest_bg.png"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "8f10454907deb6dcef3ba944b909b0f7c9a0c3c2f58f77f5ef31f5d98f7d725d"

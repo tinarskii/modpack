@@ -1,0 +1,2 @@
+//Crafting Recipe
+craftingTable.addShapeless("shiitake_mushroom_soup", <item:kubejs:shiitake_mushroom_soup>, [<item:natures_spirit:shiitake_mushroom>, <item:minecraft:bowl>, <item:farmersdelight:milk_bottle>]);

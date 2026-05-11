@@ -1,0 +1,11 @@
+name = "lithium.properties"
+filename = "lithium.properties"
+side = "both"
+
+[download]
+url = "https://r2.otternoon.com/config/lithium.properties"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "76765e8e5ff8e927d80beb0739aababcf36e7babfd94262f2afece256cc5cd2e"

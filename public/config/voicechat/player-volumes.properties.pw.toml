@@ -1,0 +1,11 @@
+name = "player-volumes.properties"
+filename = "player-volumes.properties"
+side = "both"
+
+[download]
+url = "https://r2.otternoon.com/config/voicechat/player-volumes.properties"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "cd385ca1eeda4df612631e2713cc6d503793157ef8bd5518d736429e6c1ae474"

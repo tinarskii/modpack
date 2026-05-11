@@ -1,0 +1,11 @@
+name = "neruina.json"
+filename = "neruina.json"
+side = "both"
+
+[download]
+url = "https://r2.otternoon.com/config/neruina.json"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "f46a492fde1433396b7b0529b70e93cdc82473cfd52783f38b8720db8bafb43e"

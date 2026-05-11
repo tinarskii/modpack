@@ -1,0 +1,11 @@
+name = "mod_compat.zs"
+filename = "mod_compat.zs"
+side = "both"
+
+[download]
+url = "https://r2.otternoon.com/scripts/mods/Compat/mod_compat.zs"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "485844ae352e8bbd7f55044302f4379c947282f51d2c811d805221cfea46e751"

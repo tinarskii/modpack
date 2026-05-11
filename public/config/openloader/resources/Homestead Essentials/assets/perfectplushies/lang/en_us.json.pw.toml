@@ -1,0 +1,11 @@
+name = "en_us.json"
+filename = "en_us.json"
+side = "both"
+
+[download]
+url = "https://r2.otternoon.com/config/openloader/resources/Homestead%20Essentials/assets/perfectplushies/lang/en_us.json"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "a0509db0ae2dbb3dbc54ad30dfb6b466f6e949bd4ab311d4bb522d273732defa"

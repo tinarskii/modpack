@@ -1,0 +1,11 @@
+name = "translations.properties"
+filename = "translations.properties"
+side = "both"
+
+[download]
+url = "https://r2.otternoon.com/config/voicechat/translations.properties"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "b258a94a5ed60fbf93b66c452c3d6e36b044f630741f90e5b13852a4805b235e"

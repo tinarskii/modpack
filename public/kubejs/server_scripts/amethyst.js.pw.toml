@@ -1,0 +1,11 @@
+name = "amethyst.js"
+filename = "amethyst.js"
+side = "both"
+
+[download]
+url = "https://r2.otternoon.com/kubejs/server_scripts/amethyst.js"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "e7e98d1778363e6200959a113cfd62a5f0a2bfd8b4c18aa6b95cd868e750a8e2"

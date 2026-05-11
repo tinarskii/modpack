@@ -1,0 +1,11 @@
+name = "main_processing.zs"
+filename = "main_processing.zs"
+side = "both"
+
+[download]
+url = "https://r2.otternoon.com/scripts/mods/Create/ore_processing/main_processing.zs"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "e12ae88f850a9534a9e12223530437fae12d65c9155ae915d027e98e17439888"

@@ -1,0 +1,11 @@
+name = "tab_item_search.png"
+filename = "tab_item_search.png"
+side = "both"
+
+[download]
+url = "https://r2.otternoon.com/resourcepacks/Homestead%20GUI/assets/minecraft/textures/gui/container/creative_inventory/tab_item_search.png"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "294ff93afbcd3bc8491d1cb3144daaded3f87bbf3ca2b9f923ba9e7e787075ab"

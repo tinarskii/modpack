@@ -1,0 +1,11 @@
+name = "debugify.json"
+filename = "debugify.json"
+side = "both"
+
+[download]
+url = "https://r2.otternoon.com/config/yosbr/config/debugify.json"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "eef3cca5127037fc337391ef49889a03e7102d6c2d1af866dcf007353b52324b"

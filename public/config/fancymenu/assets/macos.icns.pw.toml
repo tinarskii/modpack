@@ -1,0 +1,11 @@
+name = "macos.icns"
+filename = "macos.icns"
+side = "both"
+
+[download]
+url = "https://r2.otternoon.com/config/fancymenu/assets/macos.icns"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "713944fb0c14ea90618e0eda22fdd46d1d3545dff139677f92558e67efc42bb7"

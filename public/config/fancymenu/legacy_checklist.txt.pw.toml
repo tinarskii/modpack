@@ -1,0 +1,11 @@
+name = "legacy_checklist.txt"
+filename = "legacy_checklist.txt"
+side = "both"
+
+[download]
+url = "https://r2.otternoon.com/config/fancymenu/legacy_checklist.txt"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "9a25d3dc708e43eabafce5479a13c02dae15bc7f673afb2745b8b2ba48a97dc0"

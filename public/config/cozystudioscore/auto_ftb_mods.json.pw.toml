@@ -1,0 +1,11 @@
+name = "auto_ftb_mods.json"
+filename = "auto_ftb_mods.json"
+side = "both"
+
+[download]
+url = "https://r2.otternoon.com/config/cozystudioscore/auto_ftb_mods.json"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "df668e8b975e98a4698a4d9750831cfc841bb29a529d3a8c59bf04ba0fcca0f9"

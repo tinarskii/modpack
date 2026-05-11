@@ -1,0 +1,11 @@
+name = "Better Trees 1.8.zip"
+filename = "Better Trees 1.8.zip"
+side = "both"
+
+[download]
+url = "https://r2.otternoon.com/config/openloader/data/Better%20Trees%201.8.zip"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "7a0dc4e15bcd923067889f1f6117d71c564fc31f9fadc9637b466a088477b1f3"

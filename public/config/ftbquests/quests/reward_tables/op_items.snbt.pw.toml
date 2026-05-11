@@ -1,0 +1,11 @@
+name = "op_items.snbt"
+filename = "op_items.snbt"
+side = "both"
+
+[download]
+url = "https://r2.otternoon.com/config/ftbquests/quests/reward_tables/op_items.snbt"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "064108701a95aaf1fc9b7fb535e8a1a7b87c60aa8568bc1a9098e89cd3636c0d"

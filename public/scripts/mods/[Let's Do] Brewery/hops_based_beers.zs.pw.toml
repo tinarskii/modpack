@@ -1,0 +1,11 @@
+name = "hops_based_beers.zs"
+filename = "hops_based_beers.zs"
+side = "both"
+
+[download]
+url = "https://r2.otternoon.com/scripts/mods/%5BLet's%20Do%5D%20Brewery/hops_based_beers.zs"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "aea899e0b3f96ece5584824618f704d2abed4633587199878833241ef5931de3"

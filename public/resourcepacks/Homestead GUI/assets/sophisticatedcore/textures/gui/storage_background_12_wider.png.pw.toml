@@ -1,0 +1,11 @@
+name = "storage_background_12_wider.png"
+filename = "storage_background_12_wider.png"
+side = "both"
+
+[download]
+url = "https://r2.otternoon.com/resourcepacks/Homestead%20GUI/assets/sophisticatedcore/textures/gui/storage_background_12_wider.png"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "ff5229e7586fc1fc741c9b49bb8098b38a0c975131cdbb4a6ad1145cb5f210e9"

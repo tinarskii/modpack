@@ -1,0 +1,11 @@
+name = "regions_unexplored-secondary-region.toml"
+filename = "regions_unexplored-secondary-region.toml"
+side = "both"
+
+[download]
+url = "https://r2.otternoon.com/config/regions_unexplored/regions_unexplored-secondary-region.toml"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "836070cd015a3da88fcf83acc53b9f17d6962c81f0c6780c156575cb64e8f975"

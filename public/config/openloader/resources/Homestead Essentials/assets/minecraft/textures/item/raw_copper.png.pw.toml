@@ -1,0 +1,11 @@
+name = "raw_copper.png"
+filename = "raw_copper.png"
+side = "both"
+
+[download]
+url = "https://r2.otternoon.com/config/openloader/resources/Homestead%20Essentials/assets/minecraft/textures/item/raw_copper.png"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "e25539be112d3ced2948ab659eb801f3f1d0ba65565f0e368eb61f1c7e763815"

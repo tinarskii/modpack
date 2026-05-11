@@ -1,0 +1,11 @@
+name = "saddle.zs"
+filename = "saddle.zs"
+side = "both"
+
+[download]
+url = "https://r2.otternoon.com/scripts/mods/Custom/saddle.zs"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "95ba0e3e3cdc853490cae331b229eb83c297a9ca08b5e541f68177218041ea31"

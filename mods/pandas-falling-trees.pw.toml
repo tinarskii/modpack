@@ -3,11 +3,11 @@ filename = "fallingtrees-fabric-mc1.20-0.13.2-SNAPSHOT.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/i2kUe4lq/versions/N00bYlSS/fallingtrees-fabric-mc1.20-0.13.2-SNAPSHOT.jar"
-hash-format = "sha512"
-hash = "006a2c17b1882fcf3f273df8e597aeac4c1c3906540a32fe9a99282253620e2765801cf01fa0c6b2d5a6ebe8ad767e6e6f73e882a32cdf94992ce4e0d31fc768"
+hash-format = "sha1"
+hash = "cc0f3b120049b18daec3c20d1d4b563f3444e8ff"
+mode = "metadata:curseforge"
 
 [update]
-[update.modrinth]
-mod-id = "i2kUe4lq"
-version = "N00bYlSS"
+[update.curseforge]
+file-id = 6231029
+project-id = 880630

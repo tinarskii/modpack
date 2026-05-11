@@ -1,0 +1,11 @@
+name = "general.json"
+filename = "general.json"
+side = "both"
+
+[download]
+url = "https://r2.otternoon.com/config/cozystudioscore/general.json"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "ec85c2d94017b4356d550e372374a2533f484d6db079ec44b5e2ef432f17c14c"

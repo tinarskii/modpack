@@ -1,0 +1,11 @@
+name = "gold_clips.png"
+filename = "gold_clips.png"
+side = "both"
+
+[download]
+url = "https://r2.otternoon.com/resourcepacks/Homestead%20GUI/assets/sophisticatedbackpacks/textures/block/gold_clips.png"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "5678c7fb50e822033ac2314c017f03eccad12d9a690a503f9c734db8c0c6a80b"

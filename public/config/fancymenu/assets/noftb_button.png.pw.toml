@@ -1,0 +1,11 @@
+name = "noftb_button.png"
+filename = "noftb_button.png"
+side = "both"
+
+[download]
+url = "https://r2.otternoon.com/config/fancymenu/assets/noftb_button.png"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "3fe2da4bd46bbbd0f277ac74e661137215bdf367aebb5a77e7e831a8d75040cb"

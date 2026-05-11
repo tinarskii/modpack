@@ -1,0 +1,13 @@
+name = "Limitless Enchantments"
+filename = "limitless-fabric-2.0.0-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ea21d030ac7e9e67067747538ff67c14f761125a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7314447
+project-id = 1185080

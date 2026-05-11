@@ -1,0 +1,11 @@
+name = "iron.json"
+filename = "iron.json"
+side = "both"
+
+[download]
+url = "https://r2.otternoon.com/config/ironchests/chests/barrels/iron.json"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "3a8d6c9efc0b3386b43599d46fee11683aeb72bf8a2b19dfd82e0f6aeca6e2f1"

@@ -1,0 +1,11 @@
+name = "farm_diagram.png"
+filename = "farm_diagram.png"
+side = "both"
+
+[download]
+url = "https://r2.otternoon.com/config/openloader/resources/homestead/assets/homestead/textures/farm_diagram.png"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "dcda1c4e5f38dd03e43ede187621b031105752f35cddd39ae5f61209eb044b01"

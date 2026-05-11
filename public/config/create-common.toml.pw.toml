@@ -1,0 +1,11 @@
+name = "create-common.toml"
+filename = "create-common.toml"
+side = "both"
+
+[download]
+url = "https://r2.otternoon.com/config/create-common.toml"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "1c632f62c30f4e1223669267196d2ff1a2c03e400bf565ff4fe81e20c7cd2bdf"

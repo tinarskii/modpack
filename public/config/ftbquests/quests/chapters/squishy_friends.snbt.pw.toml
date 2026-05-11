@@ -1,0 +1,11 @@
+name = "squishy_friends.snbt"
+filename = "squishy_friends.snbt"
+side = "both"
+
+[download]
+url = "https://r2.otternoon.com/config/ftbquests/quests/chapters/squishy_friends.snbt"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "7714521646ca293f6405dc9097279ec4d5b7953417bf44ea239f6f2ed65a249e"

@@ -1,0 +1,11 @@
+name = "kiwi-client.yaml"
+filename = "kiwi-client.yaml"
+side = "both"
+
+[download]
+url = "https://r2.otternoon.com/config/kiwi-client.yaml"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "fcf939cc6b0e0847b035a52b6e1d03510bb5a6a8b3bfabf959b95d1197a6a7a1"

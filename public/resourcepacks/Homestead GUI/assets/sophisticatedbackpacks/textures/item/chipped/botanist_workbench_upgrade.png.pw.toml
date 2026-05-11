@@ -1,0 +1,11 @@
+name = "botanist_workbench_upgrade.png"
+filename = "botanist_workbench_upgrade.png"
+side = "both"
+
+[download]
+url = "https://r2.otternoon.com/resourcepacks/Homestead%20GUI/assets/sophisticatedbackpacks/textures/item/chipped/botanist_workbench_upgrade.png"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "cce94ad9fbbfd0160abff46f22aa0794fd71612d369118ae018e24bdccc23057"

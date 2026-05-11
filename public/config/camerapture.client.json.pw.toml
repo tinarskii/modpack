@@ -1,0 +1,11 @@
+name = "camerapture.client.json"
+filename = "camerapture.client.json"
+side = "both"
+
+[download]
+url = "https://r2.otternoon.com/config/camerapture.client.json"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "26f21b1486d7be53e2c85a5a127e070f005d1e0977cd2c3f5d6a9551ef1934b3"

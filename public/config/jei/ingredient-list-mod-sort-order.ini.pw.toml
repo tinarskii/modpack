@@ -1,0 +1,11 @@
+name = "ingredient-list-mod-sort-order.ini"
+filename = "ingredient-list-mod-sort-order.ini"
+side = "both"
+
+[download]
+url = "https://r2.otternoon.com/config/jei/ingredient-list-mod-sort-order.ini"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "9b312c4d540f1598d2a86baf9b3ccb2ed15c11e9ed0bf14d359394edf3703f4c"

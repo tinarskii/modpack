@@ -1,0 +1,11 @@
+name = "xaerohud.txt"
+filename = "xaerohud.txt"
+side = "both"
+
+[download]
+url = "https://r2.otternoon.com/config/xaerohud.txt"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "cece60604b8de5e978141c981c1ed85227c8f30697a513869012b06dd15fcf02"

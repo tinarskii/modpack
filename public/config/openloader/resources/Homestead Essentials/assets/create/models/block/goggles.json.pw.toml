@@ -1,0 +1,11 @@
+name = "goggles.json"
+filename = "goggles.json"
+side = "both"
+
+[download]
+url = "https://r2.otternoon.com/config/openloader/resources/Homestead%20Essentials/assets/create/models/block/goggles.json"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "5ca937c31aad150c98266bace3f13e6886abea3783ad4d577066233478cf95e4"

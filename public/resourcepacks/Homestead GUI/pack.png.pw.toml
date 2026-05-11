@@ -1,0 +1,11 @@
+name = "pack.png"
+filename = "pack.png"
+side = "both"
+
+[download]
+url = "https://r2.otternoon.com/resourcepacks/Homestead%20GUI/pack.png"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "cbd14c8d14bf6e1775e398513dd0f2649d66e1495d532f0f50d847e2c7833858"

@@ -1,0 +1,11 @@
+name = "carryon-client.json"
+filename = "carryon-client.json"
+side = "both"
+
+[download]
+url = "https://r2.otternoon.com/config/carryon-client.json"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "b66da6824b6141acca353406c20654ebf599c814d50da37006b2bf51009b4f2a"

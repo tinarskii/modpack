@@ -1,0 +1,11 @@
+name = "identification_upgrade_advanced.png"
+filename = "identification_upgrade_advanced.png"
+side = "both"
+
+[download]
+url = "https://r2.otternoon.com/resourcepacks/Homestead%20GUI/assets/sophisticatedbackpacks/textures/item/identification_upgrade_advanced.png"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "b4a3495ea6e2e254c1971f43b5ff33ea791587ffb7d0478b5ba4c3af8fd7bdd0"

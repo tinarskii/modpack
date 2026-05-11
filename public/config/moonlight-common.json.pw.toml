@@ -1,0 +1,11 @@
+name = "moonlight-common.json"
+filename = "moonlight-common.json"
+side = "both"
+
+[download]
+url = "https://r2.otternoon.com/config/moonlight-common.json"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "2a747181a8b9a1a1201bbd85611e76e0794b178351c5bb711b7f1e3856cff05e"

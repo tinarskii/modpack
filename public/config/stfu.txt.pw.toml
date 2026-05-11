@@ -1,0 +1,11 @@
+name = "stfu.txt"
+filename = "stfu.txt"
+side = "both"
+
+[download]
+url = "https://r2.otternoon.com/config/stfu.txt"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "30e224ed24044724211ffbf2fda410c3579801082df01a1c679eececd5292fd8"

@@ -1,0 +1,11 @@
+name = "balm-common.toml.bak1"
+filename = "balm-common.toml.bak1"
+side = "both"
+
+[download]
+url = "https://r2.otternoon.com/config/balm-common.toml.bak1"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "33606d9f309e655d6494dab932a061efe1f1f917a286bfc74b07f1876096464f"

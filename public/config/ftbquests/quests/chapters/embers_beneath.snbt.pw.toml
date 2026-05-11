@@ -1,0 +1,11 @@
+name = "embers_beneath.snbt"
+filename = "embers_beneath.snbt"
+side = "both"
+
+[download]
+url = "https://r2.otternoon.com/config/ftbquests/quests/chapters/embers_beneath.snbt"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "903f597a6dd886db635d93540580109905ec656b829b369abecad89990b09728"

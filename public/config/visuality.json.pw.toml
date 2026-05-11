@@ -1,0 +1,11 @@
+name = "visuality.json"
+filename = "visuality.json"
+side = "both"
+
+[download]
+url = "https://r2.otternoon.com/config/visuality.json"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "c3315246dba33b0b5792c1b9ef587b7c6a8663dea6bf0d3d9a0076d180f2b2f0"

@@ -1,0 +1,11 @@
+name = "libnetworkstack.txt"
+filename = "libnetworkstack.txt"
+side = "both"
+
+[download]
+url = "https://r2.otternoon.com/config/libnetworkstack.txt"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "6cffb9f5852113311346ef545fa463584d31970b93e05b11880f54ed40a881ca"

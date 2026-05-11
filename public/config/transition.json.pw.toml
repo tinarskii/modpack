@@ -1,0 +1,11 @@
+name = "transition.json"
+filename = "transition.json"
+side = "both"
+
+[download]
+url = "https://r2.otternoon.com/config/transition.json"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "6c0060c7301372bbc414f86a139b383e34fb620f0621badd71bb19efc3f26767"

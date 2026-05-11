@@ -1,0 +1,11 @@
+name = "indigo-renderer.properties"
+filename = "indigo-renderer.properties"
+side = "both"
+
+[download]
+url = "https://r2.otternoon.com/config/fabric/indigo-renderer.properties"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "46b02b53895dc579da89aba61fd965a8384cec4541487be45af5b2fa2daaed90"

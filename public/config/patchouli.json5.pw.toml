@@ -1,0 +1,11 @@
+name = "patchouli.json5"
+filename = "patchouli.json5"
+side = "both"
+
+[download]
+url = "https://r2.otternoon.com/config/patchouli.json5"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "f025fe9200c89f808a4459ce10b332a2f763c3d6d9622de61b10278e54161117"

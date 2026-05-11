@@ -1,0 +1,11 @@
+name = "necronomicon.json5"
+filename = "necronomicon.json5"
+side = "both"
+
+[download]
+url = "https://r2.otternoon.com/config/necronomicon.json5"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "f97fc5ae7dd7d312e86ecddf2e4491fee3e3a16b7a26cbb3aa078fdd3255c4df"

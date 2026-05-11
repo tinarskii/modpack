@@ -1,0 +1,11 @@
+name = "client.toml"
+filename = "client.toml"
+side = "both"
+
+[download]
+url = "https://r2.otternoon.com/config/boatiview/client.toml"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "5a2efd90464dcfe793380701139c18f71fc6c9afc6528c70be398fc0c37b4e8c"

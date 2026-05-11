@@ -1,0 +1,11 @@
+name = "of_vines_and_vintage.snbt"
+filename = "of_vines_and_vintage.snbt"
+side = "both"
+
+[download]
+url = "https://r2.otternoon.com/config/ftbquests/quests/chapters/of_vines_and_vintage.snbt"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "0b3c064135199a8bea063a4ba526ba6c34ad0fd9f0a32ca73c222d7ae1e1d31d"

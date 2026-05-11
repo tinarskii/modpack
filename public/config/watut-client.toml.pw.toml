@@ -1,0 +1,11 @@
+name = "watut-client.toml"
+filename = "watut-client.toml"
+side = "both"
+
+[download]
+url = "https://r2.otternoon.com/config/watut-client.toml"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "e13d7d9cea40ea82a5ce0ed5dec760f7c828e5ddf5f2b1157d11a196bba56081"

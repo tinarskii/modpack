@@ -1,0 +1,11 @@
+name = "README.txt"
+filename = "README.txt"
+side = "both"
+
+[download]
+url = "https://r2.otternoon.com/kubejs/README.txt"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "989f3737ae4621b8ff6730bce4cbeeee756921e7e510e0c281c8a350501d98af"

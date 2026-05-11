@@ -1,0 +1,11 @@
+name = "en_us.json"
+filename = "en_us.json"
+side = "both"
+
+[download]
+url = "https://r2.otternoon.com/resourcepacks/Homestead%20GUI/assets/minecraft/lang/en_us.json"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "4d69ef689c1c951ad0b2bf20e79568bbf1e9beddc42cdac9885e21be00f3ab24"

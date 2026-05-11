@@ -1,0 +1,11 @@
+name = "structure_rarity_new.json5"
+filename = "structure_rarity_new.json5"
+side = "both"
+
+[download]
+url = "https://r2.otternoon.com/config/towns_and_towers/structure_rarity_new.json5"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "cbd348399b49b4253d32f4b1e42c7196e15f3c699e0c115d621f40907cbf9853"

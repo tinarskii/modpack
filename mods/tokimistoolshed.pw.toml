@@ -1,0 +1,13 @@
+name = "Tokimi's Toolshed"
+filename = "tokimistoolshed-fabric-1.2+mc1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ae8307d70c20bcd8f437524aed4aca6613fada83"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7923772
+project-id = 1366151

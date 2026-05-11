@@ -3,11 +3,11 @@ filename = "spelunkery-1.20.1-0.3.16-fabric.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/krskFMfA/versions/xEa903Qn/spelunkery-1.20.1-0.3.16-fabric.jar"
-hash-format = "sha512"
-hash = "4602afdbbd6b8c57e3a23425eb4567ed0712af272d46cc76823255616c9043bc9eb1844c2f0d6921b42b3ff8a369bf08a165d836937e6e06f3bd13da3d48c7f6"
+hash-format = "sha1"
+hash = "a49bcf5c540d689b10a72ffaffaccdf24359599a"
+mode = "metadata:curseforge"
 
 [update]
-[update.modrinth]
-mod-id = "krskFMfA"
-version = "xEa903Qn"
+[update.curseforge]
+file-id = 6122070
+project-id = 790530

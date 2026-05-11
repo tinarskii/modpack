@@ -1,0 +1,11 @@
+name = "filter_upgrade.png"
+filename = "filter_upgrade.png"
+side = "both"
+
+[download]
+url = "https://r2.otternoon.com/resourcepacks/Homestead%20GUI/assets/sophisticatedbackpacks/textures/item/filter_upgrade.png"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "7fe6122d866b4444920f4f15d6a3e8448bd87b86a40b923aca44bcc6ffd9c6f8"

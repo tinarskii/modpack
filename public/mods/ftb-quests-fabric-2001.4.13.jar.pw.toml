@@ -1,0 +1,11 @@
+name = "ftb-quests-fabric-2001.4.13.jar"
+filename = "ftb-quests-fabric-2001.4.13.jar"
+side = "both"
+
+[download]
+url = "https://r2.otternoon.com/mods/ftb-quests-fabric-2001.4.13.jar"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "720a51b186e815d0f2c54981dfd2af02b9d7e93eb6b57a90bc156a3c823b43f6"

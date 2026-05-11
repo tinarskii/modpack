@@ -1,0 +1,11 @@
+name = "malilib.json"
+filename = "malilib.json"
+side = "both"
+
+[download]
+url = "https://r2.otternoon.com/config/malilib.json"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "a4976d6a5206a02939ee0ad164b06eb0bd0530dc5ffff42c9372327d1f5e5b64"

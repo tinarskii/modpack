@@ -1,0 +1,11 @@
+name = "the_language_of_leaves.png"
+filename = "the_language_of_leaves.png"
+side = "both"
+
+[download]
+url = "https://r2.otternoon.com/config/openloader/resources/homestead/assets/homestead/textures/roots/the_language_of_leaves.png"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "619693a3323a8c6a04ffd60b43835981443aac17f18653c9f8781c68e15f1f84"

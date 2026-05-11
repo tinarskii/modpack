@@ -1,0 +1,11 @@
+name = "moreculling.toml"
+filename = "moreculling.toml"
+side = "both"
+
+[download]
+url = "https://r2.otternoon.com/config/moreculling.toml"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "a4e1ec73bfadb3390a7b909d47813a80226a264d32c7cb5512ac3d3542440f57"

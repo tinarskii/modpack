@@ -1,0 +1,11 @@
+name = "lookupHistory.ini"
+filename = "lookupHistory.ini"
+side = "both"
+
+[download]
+url = "https://r2.otternoon.com/config/jei/world/local/New_World__31/lookupHistory.ini"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "c8002a3f724d8413fea215ad58d59a10c5cace308ab65344e72dc8ed8204c1d3"

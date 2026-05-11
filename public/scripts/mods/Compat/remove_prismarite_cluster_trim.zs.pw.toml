@@ -1,0 +1,11 @@
+name = "remove_prismarite_cluster_trim.zs"
+filename = "remove_prismarite_cluster_trim.zs"
+side = "both"
+
+[download]
+url = "https://r2.otternoon.com/scripts/mods/Compat/remove_prismarite_cluster_trim.zs"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "6a82ad1500f05c3c6841f52fa116d1c85a0d7acf3a35b973de4e1c520b285f24"

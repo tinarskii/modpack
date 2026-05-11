@@ -3,11 +3,11 @@ filename = "createcontraptionterminals-fabric-1.20-1.2.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/gOPAFzp0/versions/WIS6BQn2/createcontraptionterminals-fabric-1.20-1.2.0.jar"
-hash-format = "sha512"
-hash = "02dbd91278304825a300526e3dadec84988de60d8e221079faf259de0a43ee54a0fbcbebff2703985decb7f741720846e59a148bf92c9f30396772caff187c2a"
+hash-format = "sha1"
+hash = "8f2f7d73584e63144f5f16068fabf3861b1bbb00"
+mode = "metadata:curseforge"
 
 [update]
-[update.modrinth]
-mod-id = "gOPAFzp0"
-version = "WIS6BQn2"
+[update.curseforge]
+file-id = 7152625
+project-id = 1059879

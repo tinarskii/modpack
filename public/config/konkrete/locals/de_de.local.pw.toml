@@ -1,0 +1,11 @@
+name = "de_de.local"
+filename = "de_de.local"
+side = "both"
+
+[download]
+url = "https://r2.otternoon.com/config/konkrete/locals/de_de.local"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "79a34cfd15c2d9c06498dc221be79279507d9b57666cd44f8d2c2cf95d3582ef"
